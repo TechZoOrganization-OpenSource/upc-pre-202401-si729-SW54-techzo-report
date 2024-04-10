@@ -106,3 +106,17 @@ Se implementará una propuesta de solución, mediante el desarrollo de una aplic
 * **How much?** <br>
 El presupuesto varía dependiendo de cuanta información se
 requiera para el desarrollo del aplicativo web. Sin embargo se considera un aproximado de s/. 7 000.
+
+
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+**Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
+
+Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
+¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?
+
+**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
+
+Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
+
+¿Cómo implementamos una funcionalidad que permita realizar aportes benéficos de una forma sencilla e intuitiva?
