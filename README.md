@@ -76,3 +76,33 @@ TechZo es una startup que está conformada por estudiantes de la Universidad Per
 
 ## 1.2 Solution Profile
 La propuesta se basa en una aplicación web llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación web conectará a usuarios de distintas partes a través del ordenador y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
+
+### 1.2.1 Antecedentes y problemática
+Se sabe que la cultura de desarrollo sostenible está tomando impulso en los últimos años. Es por ello que diversas empresas del mundo están empezando a implementar este pensamiento en sus trabajadores y políticas. A continuación se explicará con más detalle el desafío al cual se enfrenta este nuevo estilo de vida.
+
+Según un reporte del portal INFOBAE del presente año 2024, se menciona sobre las estimaciones realizadas de la ONU sobre el crecimiento de la población mundial, de acuerdo a ello, se espera que la población mundial aumente en 2000 millones de personas en los próximos 30 años, llegando a una cifra total de 9700 millones de personas para el año 2050. Cada una de estas personas llegarán a generar sus propios residuos que multiplicado por toda la población mundial se vuelve una cifra gigantesca. Es frente a este futuro escenario en donde entra nuestra propuesta de solución, CambiaZo.
+
+Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
+#### 5W's y 2H's
+
+* **What?** <br>
+La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.
+
+* **Why?** <br>
+Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.
+
+* **Who?** <br>
+Público en general y personas que más necesitan de apoyo de recursos.
+
+* **When?** <br>
+Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.
+
+* **Where?** <br>
+Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.
+
+* **How?** <br>
+Se implementará una propuesta de solución, mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.
+
+* **How much?** <br>
+El presupuesto varía dependiendo de cuanta información se
+requiera para el desarrollo del aplicativo web. Sin embargo se considera un aproximado de s/. 7 000.
