@@ -292,7 +292,160 @@ Plataforma en línea que permite a los usuarios intercambiar servicios y artícu
 * **Me Sirve**<br>
 Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.
 
+### 2.1.1 Análisis Competitivo
 
+En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+        <div align="center">
+    		Nombre
+		</div>
+    </td>
+    <td>
+		<div align="center">
+    		Cambiazo<br>
+		</div>
+	</td>
+    <td>
+		<div align="center">
+    	    Trueques.com
+		</div>
+	</td>
+    <td>
+			<div align="center">
+    		Haztruequing
+			</div>
+		</td>
+    <td>
+			<div align="center">
+    		Me Sirve
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+        <div align="center">
+    		Logo
+		</div>
+    </td>
+    <td>
+			<div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" width="150">
+			</div>
+		</td>
+    <td>
+			<div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" width="150">
+			</div>
+		</td>
+    <td>
+			<div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" width="150">
+			</div>
+		</td>
+    <td>
+			<div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" width="150">
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>App Web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.</td>
+    <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
+    <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
+    <td>App para intercambiar bienes y servicios de manera segura y eficiente, promoviendo la reutilización y la solidaridad entre usuarios.</td>
+  </tr>
+  <tr>
+    <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
+    <td>Intercambio de productos o servicios. Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
+    <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
+    <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
+</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfiles de Marketing<br></td>
+    <td>Mercado Objetivo<br></td>
+    <td>Personas interesadas en  intercambiar o donar sus pertenencias.</td>
+    <td>Personas que buscan intercambiar productos y servicios</td>
+    <td>Personas interesados en intercambiar servicios y artículos de segunda mano</td>
+    <td>Usuarios interesados en darle un nuevo propósito a sus pertenencias mediante intercambios.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Publicidad en Foros y Redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Perfil de Producto<br></td>
+    <td>Productos &amp; Servicios</td>
+    <td>Intercambiar bienes o servicios, donar a ONGs</td>
+    <td>Intercambiar bienes o servicios</td>
+    <td>Intercambiar bienes o servicios</td>
+    <td>Intercambiar bienes o servicios</td>
+  </tr>
+  <tr>
+    <td>Precios y Costos</td>
+    <td>Free y Premium desde $2.99 por mes</td>
+    <td>Free</td>
+    <td>Free</td>
+    <td>Free y Premium $2.99 por mes</td>
+  </tr>
+  <tr>
+    <td>Canales de Distribución (Web y/o Móvil)</td>
+    <td>Web y móvil</td>
+    <td>Web</td>
+    <td>Web</td>
+    <td>Móvil</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Conexión intuitiva para intercambiar o donar objetos.<br><br>Amplia variedad de opciones para los usuarios.<br><br>Posibilidad de personalización en los intercambios.<br><br>Incorporación de automatización e innovación en la plataforma.</td>
+    <td>Plataforma intuitiva para intercambiar bienes y servicios.<br><br>Amplia variedad de opciones disponibles.<br><br>Posibilidad de personalizar los intercambios.</td>
+    <td>Plataforma confiable y amplia con una gran base de usuarios.<br><br>Compromiso con la sostenibilidad y la economía circular.</td>
+    <td>Plataforma intuitiva y segura para intercambiar bienes y servicios.<br><br>Variedad de opciones disponibles para los usuarios.<br><br>Interfaz fácil de usar para una experiencia positiva.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Limitaciones en la disponibilidad de objetos y servicios.<br><br>Posibles dificultades técnicas en la gestión de transacciones y seguridad de datos.</td>
+    <td>Posibles dificultades para garantizar la equidad en los intercambios.<br><br>Limitaciones técnicas que puedan afectar la funcionalidad.</td>
+    <td>Posibles desafíos relacionados con la competencia de otras plataformas y la seguridad de las transacciones.</td>
+    <td>Posibles desafíos con seguridad de transacciones y gestión de reclamos.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Aprovechar la conciencia creciente sobre sostenibilidad y consumo responsable.<br><br>Desarrollar alianzas con ONGs para ampliar el impacto social.<br><br>Expandir la plataforma a nivel nacional e internacional.</td>
+    <td>Expandir la plataforma para incluir nuevas categorías de productos y servicios.<br><br>Establecer alianzas con organizaciones benéficas para ampliar el impacto social.</td>
+    <td>Expandir la plataforma a nivel nacional e internacional.</td>
+    <td>Aprovechar la conciencia creciente sobre economía colaborativa y sostenibilidad.<br><br>Expandir la plataforma con más servicios y funciones para mejorar la experiencia.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Al ser una aplicación nueva, puede que no tenga la demanda esperada.<br><br>Competencia de otras plataformas.<br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor organizacion del sitio web<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor interfaz, mas amigable e intuitiva<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejorar la seguridad de datos y privacidad de usuarios.<br><br>Cambios en las preferencias del usuario.</td>
+  </tr>
+</tbody>
+</table>
 
 
 
