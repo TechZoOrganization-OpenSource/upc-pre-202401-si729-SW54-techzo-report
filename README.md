@@ -484,4 +484,113 @@ En esta sección se abordará la investigación en base a la información que se
 
 
 
+### 2.2.1 Diseño de entrevistas
+
+**Preguntas sobre información personal**
+
+*	¿Cuál es su nombre completo?
+*	¿Qué edad tienes?
+*	¿A qué te dedicas?
+*	¿Cuál es tu estado civil?
+*	¿En qué ciudad resides?
+*	¿Eres extrovertido o calmado?
+*	¿Eres una persona que toma decisiones analizando los hechos o te dejas llevar por tus sentimientos?
+*	¿Qué smartphone posee? ¿Android o IOS?
+*	¿Usas aplicaciones o programas en especial? ¿Cuáles?<br><br>
+
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta obtener nuevos objetos a través del intercambio.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma se contacta con otras personas al momento de querer intercambiar alguno de los objetos que ya no usa?
+2. ¿Cómo ha sido su experiencia previa con aplicaciones de intercambio de productos?
+3. ¿Qué tipo de productos considera más viables para intercambiar a través de una plataforma web?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones o dudas que tendría al utilizar una aplicación de intercambio de productos por primera vez?
+5. ¿Qué características o funciones consideraría primordiales para sentirse seguro y cómodo al realizar intercambios en línea?
+6. ¿Cómo cree usted que una plataforma web de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
+7. ¿Qué tipo de productos considera que tendrían mayor demanda por parte de personas de su edad y ubicación geográfica?
+
+**Verificación:**
+
+8. ¿Qué medidas tomaría para estar seguro de que los productos que está intercambiando cumplen con sus expectativas?
+9. ¿Cómo cree que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma?
+10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una plataforma de intercambios en línea como CambiaZo?
+
+**Medición:**
+
+11. ¿Qué beneficios espera obtener al utilizar una aplicación como CambiaZo en comparación con otros métodos de adquisición de productos?
+12. ¿Cómo considera que las personas pueden contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad?
+13. ¿Cuál considera que es el mayor desafío que enfrenta la sociedad en Lima en la actualidad para mantener un consumo consciente, y cómo cree que podría tratarse?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta realizar donaciones a personas de escasos recursos.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma ha realizado donaciones a personas con escasos recursos económicos?
+2. ¿Cómo ha sido su experiencia previa con la donación de artículos a personas necesitadas o a organizaciones benéficas?
+3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una plataforma como CambiaZo?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones que tendría al utilizar una aplicación como CambiaZo por primera vez?
+5. ¿Qué funciones o características buscaría en una plataforma web al momento de querer realizar una donación en línea?
+6. ¿Cómo cree que una plataforma como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
+
+**Verificación:**
+
+7. ¿Cómo podría una plataforma como CambiaZo garantizar la transparencia y autenticidad de las donaciones realizadas?
+8. ¿Qué importancia le otorgaría a la posibilidad de seguir el destino de sus donaciones y conocer el impacto que tienen en la comunidad receptora?
+9. ¿Qué criterios utilizaría para verificar la confiabilidad y legitimidad de una plataforma de donaciones en línea como CambiaZo?
+
+**Medición:**
+
+10. ¿Qué beneficios espera obtener al realizar donaciones utilizando CambiaZo en comparación con otros métodos de donación tradicionales?
+11. ¿Cómo mediría el impacto de sus donaciones a través de una plataforma web como CambiaZo en términos de ayudar a personas necesitadas?
+12. ¿Qué cambios o mejoras le gustaría ver en la funcionalidad de CambiaZo para que se convierta en una herramienta más efectiva para donar artículos?
+13. ¿Cómo cree que el uso de aplicaciones en las que puede donar, como CambiaZo, podría contribuir al desarrollo de una comunidad más solidaria y conectada en Lima?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
