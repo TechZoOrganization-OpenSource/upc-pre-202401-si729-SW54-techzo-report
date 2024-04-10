@@ -271,6 +271,26 @@ Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los p
     + **Características geográficas:** Personas que residen en Perú.<br><br>
 
 
+---
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+
+## 2.1 Competidores
+
+En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
+
+Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
+
+* **Trueques.com**<br>
+Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.
+
+* **HazTruequing**<br>
+Plataforma en línea que permite a los usuarios intercambiar servicios y artículos de segunda mano de manera fácil y segura. Los usuarios pueden publicar lo que tienen disponible para el intercambio y buscar lo que necesitan, creando así una comunidad de intercambio activa y diversa.
+
+
+* **Me Sirve**<br>
+Aplicación móvil que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.
 
 
 
