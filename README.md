@@ -448,6 +448,35 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 </table>
 
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechas las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
+
+Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
+
+
+**Estrategia de Diferenciación:** 
+
++ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma de intercambio intuitiva y dinámica que permita a los usuarios encontrar fácilmente los artículos deseados y realizar intercambios de manera rápida y segura. Implementaremos funciones avanzadas de búsqueda y filtros personalizables para facilitar la búsqueda de nuevos artículos.
+
++ Para el **Segmento de Donadores**, nos distinguimos al proporcionar una experiencia de donación gratificante y transparente. Estableceremos alianzas con organizaciones benéficas para ampliar las opciones de donación.
+
+**Estrategia de Liderazgo en Costos:** 
+
++ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener tarifas de intercambio competitivas y transparentes, y a ofrecer promociones especiales y descuentos para incentivar la participación activa en la plataforma.
+
++ En cuanto al **Segmento de Donaciones**, nuestra estrategia se centra en ofrecer una plataforma de donación sin costos ocultos ni tarifas adicionales. Nos comprometemos a garantizar que el proceso de donación sea completamente gratuito y accesible para todos los usuarios.
+
+**Estrategia de Marketing:**
+
+Para ambos segmentos, implementaremos una estrategia de marketing centrada en la sensibilización y la educación sobre los beneficios del intercambio y la donación. Desarrollaremos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y sociales de participar en nuestra plataforma.
+
+**Tácticas:**
+- Creación de campañas publicitarias dirigidas a cada segmento objetivo para resaltar los beneficios específicos de la plataforma de intercambio y donación.
+- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir nuestra base de usuarios.
+- Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
+- Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
+
 
 
 
