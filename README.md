@@ -237,6 +237,19 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
     </tr>
 </table>
 
+## 1.3 Segmentos Objetivo
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
++ **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
+Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los productos que ya no desean tener y adquirir nuevos artículos de su interés.
+    + **Características demográficas:** Personas entre 18 y 45 años de edad que poseen artículos que ya no utilizan ni desean, y están interesados en intercambiarlos por otros que sí les interesen o necesiten.<br>
+    + **Características geográficas:** Personas que residen en Perú.<br><br>
+
+
++ **Personas adultas que desean donar artículos que ya no utilizan (Donantes):**<br>
+“Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
+    + **Características demográficas:** Personas entre 15 y 60 años de edad con la voluntad de donar objetos propios que ya no utilizan a personas de escasos recursos económicos.
+    + **Características geográficas:** Personas que residen en Perú.<br><br>
+
 
 
 
