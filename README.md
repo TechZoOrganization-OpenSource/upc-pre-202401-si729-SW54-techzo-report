@@ -1700,6 +1700,89 @@ En esta sección, vamos a presentar el sistema de etiquetado que proporcionará 
 
 - **Registrarse/Sign Up:** En esta sección, los usuarios podrán registrarse para obtener una cuenta en Cambiazo, donde podrán acceder a todas las funciones de la plataforma, incluido el intercambio de productos. Se proporcionarán campos para que los usuarios ingresen su información personal y se configuren sus cuentas de usuario.
 
+### 4.2.3. SEO Tags and Meta Tags
+Para mejorar el posicionamiento en motores de búsqueda y brindar una experiencia optimizada a los usuarios, aquí están los SEO Tags y Meta Tags que utilizaríamos en Cambiazo:
+
+Encabezado: Aunque técnicamente no es un meta-tag, se considera vital en el encabezado del HTML ya que proporciona el título de la página web. Los motores de búsqueda utilizan este título para encabezar las entradas en los resultados de búsqueda, dándole así una gran importancia para la visibilidad del sitio.
+
+Descripción: Este campo permite ofrecer una descripción breve y clara del contenido del sitio web. Esta descripción se muestra como un fragmento debajo de la URL en los resultados de búsqueda, lo que resulta crucial para atraer la atención de los usuarios y mejorar el SEO del sitio.
+
+Palabras clave (Keywords): Aunque en el pasado fue crucial para el posicionamiento en motores de búsqueda, su relevancia ha disminuido. Aun así, aún se puede usar para proporcionar palabras clave relevantes para el contenido del sitio, aunque su impacto en el SEO actual es limitado.
+
+Autor y Derechos de Autor: Estas etiquetas meta identifican al diseñador de la página web y al propietario de los derechos de autor del código fuente HTML. Aunque no influyen directamente en el SEO, son importantes para atribuir la autoría y proteger los derechos de propiedad intelectual del sitio web.
+
+**Landing Page:**
+- **Título:**
+```html
+<title>
+Cambiazo - Intercambia artículos de forma segura y justa
+</title>
+```
+
+- Descripción:
+```
+  
+ <meta name="description" content="Intercambia artículos de manera segura y justa con Cambiazo. Explora una amplia variedad de productos, garantizando transacciones transparentes y beneficiosas para todos."/>
+
+```
+
+- Palabras clave:
+```
+
+<meta name="keywords" content="Intercambio de artículos, plataforma de intercambio, seguridad en el intercambio, justicia en el intercambio, comunidad de intercambio, donaciones de artículos."/>
+```
+
++ Autor:
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- Copyright:
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+**Web Application**
+- **Título:**
+```html
+<title>
+Cambiazo - Tu plataforma de intercambio confiable
+</title>
+```
+
+- Descripción:
+```
+  
+ <meta name="description" content="Descubre una nueva forma de intercambiar artículos con Cambiazo. Regístrate hoy para acceder a una comunidad dedicada a transacciones seguras y transparentes."/>
+
+```
+
+- Palabras clave:
+```
+
+<meta name="keywords" content="Intercambio seguro, comunidad de intercambio, plataforma de intercambio de artículos, transacciones justas, donaciones de artículos."/>
+```
+
+- Autor:
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- Copyright:
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+
+Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
+
+
 
 
 
