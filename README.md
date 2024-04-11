@@ -1936,6 +1936,18 @@ Los diagramas de clase representan las entidades del sistema y sus relaciones de
 
 
 
+### 4.7.2. Class Dictionary
+
+El diccionario de clases detalla las características y funciones de cada entidad del sistema, proporcionando una referencia completa para entender la funcionalidad del software.
+
+- **Usuario:** Representa a los usuarios de la aplicación, quienes pueden tener objetos, hacer donaciones, crear anuncios, etc.
+- **Objeto:** Representa los objetos que los usuarios pueden subir, junto con su información asociada.
+- **Donación:** Representa las donaciones realizadas por los usuarios a organizaciones.
+- **Anuncio:** Representa los anuncios creados por los usuarios.
+- **Suscripción:** Representa las subscripciones que los usuarios pueden tener en la aplicación.
+- **Contacto:** Representa los mensajes de contacto enviados por los usuarios.
+- **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.
+- **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
 
 
 
