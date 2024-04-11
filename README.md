@@ -1138,6 +1138,112 @@ Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 
 
 
+### 2.3.2 User Task Matrix
+
+Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Intercambiador y Donador.
+
+
+
+<b>Usuario Intercambiador</b><br>
+
+<div align="center">
+<table style="undefined;table-layout: fixed; width: 636px">
+<colgroup>
+<col style="width: 263px">
+<col style="width: 150px">
+<col style="width: 150px">
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Intercambiador <br>Carlos Flores<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Buscar objetos para intercambiar<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar Usuarios para Intercambiar<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar Condiciones del Intercambio<br></td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Confirmar Acuerdo de Intercambio<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Evaluar Experiencia de Intercambio<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</tbody>
+</table>
+</div><br><br>
+
+<b>Usuario Donador</b><br>
+
+<div align="center">
+<table style="undefined;table-layout: fixed; width: 636px">
+<colgroup>
+<col style="width: 263px">
+<col style="width: 150px">
+<col style="width: 150px">
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Donador <br>Mariana Okinawa<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Buscar organizaciones para donar<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+     <td>Seleccionar Artículo para Donar<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar Entrega de Donación<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Preparar Artículos para Donación<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Entregar Donación a la Organización<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
 
 
 
