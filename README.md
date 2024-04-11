@@ -1534,7 +1534,7 @@ En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herr
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+[![Impact Mapping.](https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Impact-Map/impact-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
 </div>
 
 
@@ -1544,13 +1544,11 @@ Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
 
 <div align="center">
 
-[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+[![Impact Mapping.](https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Impact-Map/impact-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
 </div>
 
 
 Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
-
-
 
 
 
