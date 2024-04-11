@@ -1683,6 +1683,23 @@ Al aplicar estos sistemas de organización de información, nos aseguraremos de 
 
 
 
+### 4.2.2. Labeling Systems
+En esta sección, vamos a presentar el sistema de etiquetado que proporcionará una descripción concisa y clara de la información presentada en cada una de nuestras aplicaciones. Comenzaremos detallando los encabezados que estarán disponibles en nuestra landing page.
+
+- **Inicio/Home:** Esta sección preseleccionada por defecto ofrecerá una visión general de Cambiazo y su propósito principal, proporcionando una introducción a la plataforma y sus funciones clave.
+
+- **Conócenos/About Us:** En esta sección, los usuarios pueden conocer al equipo detrás de Cambiazo, su misión y visión, así como obtener una comprensión más profunda de lo que impulsa la plataforma.
+
+- **Características/Features:** La sección de Características se encuentran los beneficios específicos que ofrece Cambiazo para sus Usuarios, destacando cómo la plataforma puede satisfacer sus necesidades de intercambio de productos de manera efectiva.
+
+- **ONGs Afiliadas/Affiliated NGOs:** Aquí se destacan las organizaciones no gubernamentales asociadas con Cambiazo.
+
+- **Planes/Subscriptions:** En esta sección se presentarán los diferentes planes de suscripción disponibles en Cambiazo, junto con sus características y precios, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y preferencias de intercambio.
+
+- **Contáctanos/Contact Us:** Esta sección proporcionará a los usuarios la información de contacto de Cambiazo, incluidos los correos electrónicos, números de teléfono y posiblemente un formulario de contacto para consultas o comentarios.
+
+- **Registrarse/Sign Up:** En esta sección, los usuarios podrán registrarse para obtener una cuenta en Cambiazo, donde podrán acceder a todas las funciones de la plataforma, incluido el intercambio de productos. Se proporcionarán campos para que los usuarios ingresen su información personal y se configuren sus cuentas de usuario.
+
 
 
 
