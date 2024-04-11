@@ -1802,6 +1802,22 @@ Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación cl
 
 
 
+### 4.2.5. Navigation Systems
+
+Para guiar a los usuarios a través del Landing Page y las aplicaciones de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
+
+- **Menú de navegación claro y conciso:** En la parte superior de cada página, proporcionaremos un menú de navegación que incluya enlaces directos a las secciones principales de la plataforma, como "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto permitirá a los usuarios acceder rápidamente a las funciones y áreas que deseen explorar.
+
+- **Búsqueda prominente:** Colocaremos un campo de búsqueda bien visible en la parte superior de cada página, permitiendo a los usuarios buscar productos específicos, categorías o ong’s dentro de la plataforma de manera rápida y sencilla.
+
+- **Botones de llamada a la acción (CTA):** Utilizaremos botones de CTA estratégicamente ubicados para dirigir a los usuarios hacia acciones importantes, como "Publicar", "Inicia sesión", "Inicio", "Categorías", etc. Estos botones ayudarán a los usuarios a tomar decisiones y avanzar en su experiencia en la plataforma.
+
+- **Navegación intuitiva:** Diseñaremos la estructura de la plataforma de manera intuitiva, siguiendo convenciones de diseño web estándar y asegurándonos de que la navegación sea coherente en todas las páginas. Esto ayudará a los usuarios a sentirse cómodos y seguros mientras exploran y utilizan Cambiazo.
+
+Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la plataforma Cambiazo.
+
+
+
 
 
 
