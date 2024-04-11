@@ -1580,6 +1580,66 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 
+---
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines.
+En esta sección, compartimos nuestra propuesta de diseño para el landing page y la aplicación web, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
+
+### 4.1.1. General Style Guidelines.
+A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.<br>
+
+
+**Colors:**
+
+Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFD146), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.<br>
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Style%20Guidelines/paleta-colores.PNG?raw=true" alt="Paleta de Colores"><br><br>
+</div><br>
+
+**Branding**
+
+El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Style%20Guidelines/branding.PNG?raw=true" alt="Logo CambiaZo"><br><br>
+</div><br>
+
+
+**Typography**
+
+Elegir una fuente adecuada es esencial para lograr un diseño cohesivo y equilibrado que se alinee con la imagen e identidad de la marca. Esta elección refleja nuestro compromiso de construir una identidad visual sólida y reconocible. La tipografía, incluida la fuente, el tamaño y el ancho, contribuirá significativamente a la percepción y el reconocimiento de la marca en el mercado objetivo.<BR>
+La tipografía utilizada será Montserrat, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varió entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px).
+
++ **Montserrat - Google fonts**
+
+<div align="center">
+
+[![Montserrat - Google fonts](https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Style%20Guidelines/Montserrat.PNG?raw=true)](https://fonts.google.com/specimen/Montserrat) 
+</div><br>
+
+
+Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
+
+**Spacing**
+
+El espacio en el diseño debe armonizar con la imagen general para lograr una apariencia uniforme y armoniosa. Aunque existen múltiples estilos de espaciado, como equipo hemos tendido a seguir las pautas de diseño de materiales y personalizarlos según las necesidades específicas de nuestro proyecto.<br>
+
+- **Botones**: Establecemos un margen interior (padding) de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal.
+- **Márgenes entre texto**: Mantenemos un margen de 1 rem (16 px) entre elementos de texto.
+- **Márgenes entre elementos**: Garantizamos un margen de 1.5 rem (24 px) entre distintos elementos.
+- **Márgenes entre secciones**: Fijamos un margen de 6 rem (72 px) para separar claramente las diferentes secciones de contenido.<br><br>
+
+
+**Dimensions** 
+
+En esta sección, describiremos los diferentes tonos que utilizamos, desde la emoción por explorar hasta el compromiso con la responsabilidad social, y proporcionaremos ejemplos de cómo aplicarlos en nuestra comunicación escrita. A continuación, se presentarán el lenguaje y tonos que usamos para nuestros segmentos objetivo.
+
+- **Usuario Intercambiadores**:  Empleamos un lenguaje más práctico y dinámico, centrado en la conveniencia y la utilidad de la plataforma para facilitar el intercambio de objetos. El tono es amigable y directo, enfocado en resaltar las ventajas y beneficios de utilizar el servicio de intercambio. Se destaca la variedad de opciones disponibles y se promueve la idea de una comunidad colaborativa donde todos pueden encontrar lo que necesitan y compartir lo que ya no utilizan.
+
+- **Usuario Donadores**: En constraste, utilizamos un lenguaje cálido y empático que resalte la importancia del acto de la donación y el impacto positivo que puede tener en la vida de otras personas. El tono es inspirador y motivador, invitando a los usuarios a sentirse parte de una causa noble y a generar un cambio positivo en la comunidad. Se enfatiza la gratitud y el reconocimiento hacia los donadores por su generosidad.
+
 
 
 
