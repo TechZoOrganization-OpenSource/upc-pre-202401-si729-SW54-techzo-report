@@ -573,6 +573,473 @@ Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por
 
 
 
+### 2.2.2 Registro de entrevistas
+
+En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
+
+
+**Segmento Intercambiadores**<br>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jorge Manuel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Pacheco Huanca</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Obtener objetos deseados de manera más sencilla</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco">
+			</div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		 00:00 min - 4:59 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Jorge Pacheco, logramos conocer acerca de su experiencia al querer realizar intercambios, los cuales realiza por grupos de Facebook o con amigos pero no siempre logra intercambiar u obtener los objetos que desea o en la calidad que los espera. Además, indicó que le gustaría tener la opción de tener una aplicación como CambiaZo para realizar intercambios, ya que considera que sería una forma más sencilla de realizar intercambios. También agregó que le gustaría que en la aplicación se implemente una opción que muestre los valores de los objetos para poder realizar un intercambio justo, un chat entre usuarios, y reseñas de los usuarios que han realizado intercambios. Comentó adicionalmente que los miedos que tiene al usar este tipo de aplicaciones o realizar intercambios, es que le entreguen algún producto el cuál no era el que se esperaba o en mal estado, y que desea que se mantenga con privacidad los datos personales de cada usuario.<br>Finalmente indicó que sí considera que en Lima se puede contribuir con el desarrollo de una comunidad más sostenible al reutilizar las cosas, siendo honestos y justos.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu Orlando</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vasquez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Seguridad y calidad en intercambios de productos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de seguridad y calidad en Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome, Firefox</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td>
+      <div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez">
+			</div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		 5:00 min - 9:55 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad. 
+
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Marcela Moraima</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Perinango Castro</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>18 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Relizar intercambios seguros</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>No obtener lo que busca al realizar intercambios a través de Facebook.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>iPhone, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td>
+      <div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango">
+			</div>
+    </td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		 9:56 min - 14:50 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Marcela, pudimos conocer un poco más sobre su experiencia acerca de los intercambios, de los inconvenientes que ha tenido al no tener una plataforma como tal para poder realizarlos, ya que según su experiencia solo ha podido intercambiar objetos mediante grupos de WhatsApp o Facebook y que no fue una gran experiencia debido a que la plataforma no era la indicada para ello. Además de ello, profundizó más en el tema sobre las características que le gustaría tener si es que hubiera una plataforma sólida para poder realizar intercambios con otras personas. Una de las características que más resaltó, fue el hecho de incluir alguna garantía a los usuarios, ya que según lo que menciona, pueden haber casos en donde les entreguen productos defectuosos y los hagan pasar como totalmente funcionales y que resulte en una pérdida y frustración para el usuario, en vez de sentirse conforme con el intercambio. Para finalizar, nos habló un poco sobre su perspectiva de sí es que realmente aquí en Lima se está ampliando la cultura por un desarrollo sostenible, comentó que lamentablemente el Perú y sobre todo la capital, tiene un estilo de vida que está muy arraigada al consumismo y al desechar las cosas sin darle la oportunidad de darle utilidad a alguien que tal vez sí lo necesite
+</td>
+  </tr>
+</tbody>
+</table><br><br>
+
+
+**Segmento Donadores**<br>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jeremy Joel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Quispe Andia</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Contribuir con los mas necesitados, donando alimentos y ropa</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupaciones sobre el destino de las donaciones.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, iPhone</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td>
+      <div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe">
+			</div>
+    </td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>
+		 14:51 min - 19:47 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Jeremy Quispe, logramos conocer acerca de su experiencia al realizar donaciones a organizaciones benéficas, mencionando el impacto que tiene en las personas necesitadas para mejorar su calidad de vida. Indica que los artículos que le parecen más adecuados para donar a través de CambiaZo son alimentos, ropa y juguetes. Menciona que sus principales preocupaciones al utilizar por primera vez nuestra aplicación sería la seguridad de sus datos y la confiabilidad de la plataforma. Además considera que para aumentar la cantidad de donaciones en el país se pueden realizar campañas de sensibilización y colaboraciones con influencers para aumentar la visibilidad. También nos comenta que le parece muy importante seguir el destino de sus donaciones y el impacto que ha tenido. Finalmente, Jeremy indica que al usar CambiaZo espera tener una experiencia de donación más conveniente y directa, y que le parece que CambiaZo es una gran forma de fomentar la solidaridad al ofrecer de una manera más fácil de ayudar a los más necesitados en la comunidad.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom,Word</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar su ropa a personas necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de tiempo para buscar alguna ong</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td>
+      <div align="center">
+				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales">
+			</div>
+    </td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		 19:48 min - 23:35 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
+
+
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar a lo mas necesitados a traves de la iglesias</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td>
+			<div align="center">
+				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen">
+			</div>
+    </td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>
+		 23:36 min - 28:51 min 
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante nuestra conversación con Arturo, exploramos su experiencia en intercambios y los desafíos que ha enfrentado al no tener una plataforma dedicada para realizarlos. Arturo compartió sus vivencias al realizar donaciones a la iglesia, describiendo las dificultades que encontró al llevar un canasto lleno de ropa, lo cual consideró una tarea tediosa. Propuso la idea de que, para facilitar el proceso de donación de objetos, sería conveniente que alguien se encargará de recogerlos, evitando así la molestia de tener que trasladarse hasta el lugar de donación. Además, resaltó la importancia de garantizar seguridad para los usuarios, sugiriendo medidas como la presentación de una foto que confirme la realización de la donación, con el fin de evitar cualquier tipo de desconfianza. Arturo realiza una sugerencia final y significativa para Cambiazo, el cual, sería crear conciencia sobre la importancia de cada objeto donado para las personas necesitadas. Esto podría lograrse mediante la divulgación de testimonios conmovedores de aquellos que se han visto directamente afectados por estas donaciones, lo que, a su vez, podría inspirar a más personas a contribuir y seguir apoyando esta noble causa de forma continua.
+</td>
+  </tr>
+</tbody>
+</table><br><br>
+
+
 
 
 
