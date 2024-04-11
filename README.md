@@ -1817,6 +1817,24 @@ Para guiar a los usuarios a través del Landing Page y las aplicaciones de Cambi
 Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la plataforma Cambiazo.
 
 
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+Para la creación del esquema inicial de nuestra página de inicio (landing page), se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
+
+Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cWAICYsdKoDvK93/Untitled?type=design&mode=design&t=GUEZeeg6jgtCP6yE-1)<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireframe/Wireframe_desktop.png?raw=true" width="600px" alt="Wireframe">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireframe/Wireframe_mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+</div><br><br>
+
 
 
 
