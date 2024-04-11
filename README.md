@@ -1039,7 +1039,72 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table><br><br>
 
+### 2.2.3 Análisis de entrevistas
 
+En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores).<br>
+
+
+Lo que hemos podido notar después de realizar las entrevistas al primer segmento, es que siempre que desean realizar intercambios de objetos usan redes sociales como WhatsApp y Facebook, sin embargo su experiencia no ha sido buena, ya que suelen tener problemas o inseguridades al realizarlo, ya que no tienen ninguna garantía de que el producto que les va a llegar es el que desean o está en buen estado. Los 3 usuarios consideran que CambiaZo sería una gran herramiento y les ayudaría mucho para poder realizar trueques, las principales funciones que sugirieron añadir son que se muestre un valor aproximado del producto, reseñas de los usuarios, sistema de verificación de identidad y calidad de los productos y añadir una garantía a los usuarios. Finalmente, todos los entrevistados consideran que sí es posible que CambiaZo ayude a que Lima avance en el desarrollo para ser una comunidad más sostenible.
+
+**Análisis por medio de herramientas estadísticas:**
+
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1">
+</div>
+
+
+Las respuestas de nuestros entrevistados evidencian que sería beneficioso y útil para una gran cantidad de la población, lo cual también se comprueba con un estudio realizado del año 2015 al 2017 por la Universidad Nacional del Altiplano, Puno, en el cuál se obtuvo que el motivo principal por el cual las personas realizan trueques es por la falta de dinero.
+
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-4.PNG?raw=true" alt="Estadistica 4"><br><br>
+</div>
+
+Como se puede apreciar en los gráficos, nuestros entrevistados suelen usar las redes sociales para intercambiar objetos, sin embargo el 100% de los entrevistados no se siente seguro al utilizar estos medios, ya que todos han tenido alguna mala experiencia al utilizarlos para querer realizar un trueque.
+
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6"><br><br>
+</div>
+
+Finalmente, podemos observar que nuestros entrevistados suelen realizar intercambios muy frecuentemente, y que todos estarían dispuestos a utilizar CambiaZo como su medio principal para realizar trueques.<br><br>
+
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes).<br>
+
+
+Al finalizar de realizar las entrevistas a nuestro segundo segmento objetivo, logramos identificar que cada vez que han querido realizar donaciones, han atravesado por situaciones un poco tediosas, como el tener que llevar su donación hasta lugares lejanos, no encontrar una forma sencilla de realizar la donación y no obtener el seguimiento de su donación o una evidencia que se realizó la donación. Por lo que consideran que CambiaZo sería una gran herramienta para brindar ayuda a personas de escasos recursos, ya que de esta forma consideran que sería más simple, sencillo y seguro de hacerlo, justo por ello sugirieron que se haga un rastreamiento de la donación y una evidencia cuando llegue a su lugar de destino. Además indicaron que sería de gran ayuda realizar campañas de sensibilización y colaboraciones con influencers, para que de este modo, más personas se logren enterar acerca de cómo CambiaZo está ayudando a transformar la vida de las personas con necesidades económicas, y consecuentemente, más personas se sumen y comienzen a donar o donen más seguido.
+
+**Análisis por medio de herramientas estadísticas:**
+
+
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9"><br><br>
+</div>
+
+Según la encuesta realizada a nuestros entrevistados, obtuvimos que suelen donar mensual o anualmente, además todos consideran que el proceso para realizar donaciones no es sencillo y la mayoría ha tenido algún inconveniente al momento de querer realizar alguna donación.
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10"><br><br>
+</div>
+
+Podemos apreciar que la mayoría de nuestros entrevistados considera que los objetos más adecuados para donar son juguetes y ropa.
+
+<div align="center">
+	<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12"><br><br>
+</div>
+
+Finalmente, todos los entrevistados indicaron a través de la votación que estarían dispuestos a utilizar CambiaZo como su principal medio de donación, y que gracias a CambiaZo aumentaría la frecuencia de donaciones que realizan, lo cuál sería ampliamente beneficioso para las personas de escasos recursos económicos.
 
 
 
