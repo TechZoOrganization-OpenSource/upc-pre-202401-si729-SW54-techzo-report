@@ -1931,7 +1931,7 @@ En la sección de Software Object-Oriented Design se presentarán dos aspectos f
 Los diagramas de clase representan las entidades del sistema y sus relaciones de manera visual, facilitando la comprensión de la estructura y la interacción entre los componentes del software.
 
 <div align="center">
-    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" width="500px" alt="class diagram">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" width="800px" alt="class diagram">
 </div><br><br>
 
 
@@ -1949,6 +1949,19 @@ El diccionario de clases detalla las características y funciones de cada entida
 - **Adapter:** Representa al patrón de diseño estructural “adapter” para transformar la interfaz del usuario al utilizar CambiaZo.
 - **InicioSesion:** Representa a un patrón de diseño “singleton” para que todos los usuarios tengan una sola instancia al querer iniciar sesión en CambiaZo.
 
+## 4.8. Database Design
+
+En la sección Database Design, se incluirá el diagrama de la base de datos para visualizar la estructura y las relaciones entre las entidades, facilitando la eficiente almacenamiento y recuperación de datos.
+
+### 4.8.1. Database Diagram
+
+Los diagramas de base de datos representan la estructura de la base de datos y las relaciones entre las entidades, lo que permite visualizar cómo se almacenan y se relacionan los datos dentro del sistema de manera eficiente.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Database%20Diagram/database-diagram.PNG?raw=true" width="500px" alt="database diagram">
+</div><br>
+
+Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/public-model-view/s7THFGyJJnZzsBc37Ubx6ig8WmX5rVJ6ZL16CxHnv7GEzTEZZFbid1yg52TaV2yg?x=3174&y=3601&zoom=0.5095)<br><br>
 
 
 
