@@ -1838,6 +1838,23 @@ Enlace: [Wireframe del Landing Page en Figma](https://www.figma.com/file/EuSz7z4
 
 
 
+### 4.3.2. Landing Page Mock-up.
+Hemos completado con éxito la creación del mock-up de la página de inicio, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
+
+Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cWAICYsdKoDvK93/Untitled?type=design&mode=design&t=GUEZeeg6jgtCP6yE-1)<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Mock-up/Mock-up_desktop.png?raw=true" width="600px" alt="Mockup">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Mock-up/Mock-up_mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+</div><br><br>
+
 
 
 
