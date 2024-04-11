@@ -1527,6 +1527,29 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 
 
+## 3.3. Impact Mapping
+En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-1.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
+</div>
+
+
+Enlace: [Impact Mappping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/7BZnN)
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Impact-Map/impact-map-2.PNG?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
+</div>
+
+
+Enlace: [Impact Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/i/M9ikH)
+
 
 
 
