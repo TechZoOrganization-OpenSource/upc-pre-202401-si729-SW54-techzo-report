@@ -1857,5 +1857,24 @@ Enlace: [Mock-up del Landing Page en Figma](https://www.figma.com/file/EuSz7z4cW
 
 
 
+## 4.6. Domain-Driven Software Architecture
+
+En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
+
+### 4.6.1. Software Architecture Context Diagram
+
+Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, la Reniec, un Servicio de Pagos, y las ONG’s.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-context-diagram.png?raw=true" width="600px" alt="diagram context">
+</div><br><br>
+
+Enlace: [Diagrama de Contexto en Structurizr](https://structurizr.com/share/82722/aaf6290c-e396-4761-8cd4-eb584715ccc8/diagrams#Contexto)<br><br>
+
+
+
+
+
+
 
 </div>
