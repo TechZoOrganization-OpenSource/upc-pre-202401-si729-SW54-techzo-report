@@ -1934,6 +1934,8 @@ Los diagramas de clase representan las entidades del sistema y sus relaciones de
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Class%20Diagram/class-diagram.PNG?raw=true" width="800px" alt="class diagram">
 </div><br><br>
 
+Enlace: [Class Diagram en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-2546%2C119%2C2587%2C1126%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+
 
 
 ### 4.7.2. Class Dictionary
