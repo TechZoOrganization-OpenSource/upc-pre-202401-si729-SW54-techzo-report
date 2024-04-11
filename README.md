@@ -1965,6 +1965,93 @@ Los diagramas de base de datos representan la estructura de la base de datos y l
 
 Enlace: [Database Diagram en Vertabelo](https://my.vertabelo.com/public-model-view/s7THFGyJJnZzsBc37Ubx6ig8WmX5rVJ6ZL16CxHnv7GEzTEZZFbid1yg52TaV2yg?x=3174&y=3601&zoom=0.5095)<br><br>
 
+---
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+
+## 5.1 Software Configuration Management
+
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+
+### 5.1.1 Software Development Environment Configuration
+
+En esta sección se incluye los links de las aplicaciónes, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. <br>
+
++ **Project Management**<br>
+Esta área se centra en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar un proyecto de software con éxito. Incluye la gestión del alcance, el tiempo, el costo, la calidad, los riesgos, los recursos humanos y la comunicación para garantizar que el proyecto se entregue dentro del tiempo y el presupuesto establecidos, cumpliendo con los requisitos y objetivos definidos.
+
+  +	<b>Pivotal Tracker:</b> Herramienta ágil de gestión de proyectos que permite a los equipos planificar, priorizar y realizar un seguimiento del trabajo de manera colaborativa. <br>https://www.pivotaltracker.com<br><br>
+
++ **Requirements Management**<br>
+Se refiere al proceso de identificar, documentar, verificar y gestionar los requisitos del sistema y del software. Implica entender las necesidades de los usuarios y las partes interesadas, traduciéndolas en requisitos funcionales y no funcionales claros y específicos. El objetivo es garantizar que el software desarrollado satisfaga las necesidades y expectativas de los usuarios finales.
+
+  + **Pivotal Tracker:**
+Pivotal Tracker es una plataforma de gestión de proyectos centrada en User Stories, que se organizan en Epics y se clasifican por puntaje. Es utilizada para mantener a todos los miembros del equipo al tanto del progreso del proyecto, ofreciendo una vista en tiempo real compartida. Esto facilita la colaboración y permite a los miembros contribuir en diferentes aspectos del proyecto, manteniendo así un flujo de trabajo eficiente y bien coordinado.<br> https://www.pivotaltracker.com/n/projects/2699481<br><br>
+
++ **Product UX/UI Design**<br>
+Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz de usuario. El diseño UX/UI busca crear una experiencia intuitiva, atractiva y eficiente para los usuarios. En este caso realizar un modelo de sitio web para computadoras y celulares.
+
+  + **Figma:**<br>Es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
+https://www.figma.com/design/ 
+
+  + **UXPressia:**<br> Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>https://uxpressia.com/ 
+
+  + **MIRO:**<br>Es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, mapas mentales, as-is, to-be y una variedad de otras actividades colaborativas.<br>https://miro.com/app/dashboard/ 
+
+  + **Lucid Chart:**<br> Es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
+https://lucid.app/documents#/dashboard 
+
+  + **Vertabelo:**<br> Es una herramienta que permite a los usuarios crear diagramas de bases de datos de manera intuitiva y colaborativa, facilitando la visualización y comprensión de la estructura de la base de datos. 
+https://my.vertabelo.com/drive
+
+  + **Structurizr:**<br> Es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
+https://structurizr.com/ 
+
++ **Software Development**<br>
+Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.
+
+  + **GitHub:**<br> Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br>
+https://github.com/TechZo-Organization  para open otro link
+
+
+  + **Visual Studio Code:**<br> Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea más eficiente.<br>
+https://code.visualstudio.com/ 
+
+  + **HTML:**<br>  Es el lenguaje estándar para crear y diseñar sitios web. Utiliza etiquetas para estructurar el contenido, como texto, imágenes y enlaces. Junto con CSS y JavaScript, HTML forma la base de la web moderna. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.<br>
+https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+
+  + **CSS:**<br> Es un lenguaje de estilo utilizado para controlar el diseño y la presentación de páginas web. Permite establecer colores, fuentes, márgenes y otros aspectos visuales para mejorar la apariencia de un sitio web. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>
+https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
+
+  + **JavaScript:**<br> Es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a los sitios web. Permite realizar acciones como validar formularios, animar elementos y actualizar contenido sin recargar la página. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>
+https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html 
+
+
+  + **TypeScript:**<br> Es un superset de JavaScript que agrega tipado estático y otras características avanzadas al lenguaje. Permite escribir código más seguro y mantenible, especialmente en proyectos grandes y complejos.<br>
+https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
+  + **Java:**<br>  Es un lenguaje de programación popular y versátil que se utiliza en una variedad de aplicaciones, desde desarrollo web hasta aplicaciones empresariales y móviles. Java se destaca por su portabilidad y su robusto sistema de tipos. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>
+https://www.java.com/es/download/help/whatis_java.html
+
+  + **Angular Material:**<br>Es una biblioteca de componentes de interfaz de usuario desarrollada para Angular que sigue las directrices de diseño de Material Design de Google. Proporciona una amplia gama de componentes listos para usar para crear aplicaciones web con una apariencia y sensación consistentes y atractivas. Integrado con Angular, facilita el desarrollo de aplicaciones web para los desarrolladores.<br>https://material.angular.io/
+
+
++ **Software Testing**<br>
+Se refiere a la actividad de verificar y validar el software para garantizar su calidad y funcionamiento correcto. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.
+
+  + **Lenguaje Gherkin:**<br>Es un lenguaje de dominio específico (DSL) utilizado en el desarrollo de software para escribir pruebas de aceptación en un formato legible por humanos. Utiliza palabras clave como Given, When y Then para describir el estado inicial, la acción y el resultado esperado de un escenario de prueba, lo que facilita la colaboración entre equipos al definir requisitos y pruebas.<br>https://cucumber.io/
+
++ **Software Deployment**<br>
+Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.
+
+  + **Github Pages:**<br> Servicio de Github que nos permitió alojar nuestra Landing page y nos permitirá alojar nuestro web applications.<br>
+https://pages.github.com/ <br>
+
+
++	**Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas. 
+
+    + **Markdown:**<br>Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/
 
 
 
