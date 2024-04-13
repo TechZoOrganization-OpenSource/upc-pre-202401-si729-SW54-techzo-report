@@ -3390,5 +3390,33 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 <br><br>
 ---
 
+<div style="text-align: justify;">
+
+# Conclusiones
+  
+En el primer capítulo, al definir el perfil de la startup y la descripción de la misma, pudimos establecer una visión clara y coherente de nuestros objetivos y metas. Además, al identificar los perfiles de los integrantes del equipo, logramos formar un equipo multidisciplinario capaz de abordar los desafíos desde diversas perspectivas, lo que fue crucial para el progreso y la eficacia del proyecto.
+
+En el segundo capítulo, al analizar el perfil de la solución y abordar la problemática, adquirimos una comprensión profunda de las necesidades y los desafíos que enfrentamos. La implementación del proceso Lean UX nos permitió validar nuestras ideas de manera rápida y eficiente, lo que resultó en una iteración efectiva y una dirección clara para nuestro producto.
+
+Durante la etapa de Elicitación y Análisis de Requisitos, exploramos a fondo el mercado y las necesidades de los usuarios a través de la investigación de competidores, entrevistas y técnicas de needfinding. Esto nos proporcionó información valiosa que utilizamos para definir con precisión los requisitos del producto y alinear nuestras estrategias con las expectativas del usuario.
+
+En la fase de Especificación de Requisitos, la creación de historias de usuario y la planificación del backlog del producto nos permitieron organizar y priorizar eficazmente las características y funcionalidades. Esto nos proporcionó una guía clara para el desarrollo posterior del producto y nos ayudó a mantenernos enfocados en los objetivos clave del proyecto.
+
+Finalmente, en el diseño del producto, la cuidadosa planificación de la arquitectura de la información y la interfaz de usuario garantizó una experiencia de usuario intuitiva y atractiva. El uso de herramientas como Figma y LucidChart nos permitió crear prototipos y diseños visuales que sirvieron como referencia durante el desarrollo y la validación del producto.
+
+En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos.
+
+<br><br>
+
+
+<div style="text-align: justify;">
+
+
+
+
+
+
+
+
 
 </div>
