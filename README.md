@@ -1902,6 +1902,105 @@ La página de membresía presentará los distintos planes de membresía de forma
 
 El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario.<br><br>
 
+### 4.4.2. Web Applications Wireflow Diagrams
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
+
+**User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-1.png?raw=true" alt="wireflow 1">
+</div><br>
+El usuario entra a la página web y se encuentra con el inicio de la misma, en la cuál verá todas las publicaciones de intercambios destacadas, incluso aquellas que poseen un boost. Para poder iniciar sesión deberá dar click al botón en la parte superior derecha, para luego ser redirigido a otra ventana en la cual podrá ingresar su correo y contraseña.
+En caso el usuario haya olvidado la contraseña, tendrá la posibilidad de recuperar y cambiarla mediante un correo de confirmación para luego introducir un código de verificación.<br><br>
+
+**User goal 2:** Como usuario, quiero poder revisar información detallada de las organizaciones benéficas que puedo apoyar.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-2.png?raw=true" alt="wireflow 2">
+</div><br>
+El usuario entra a la página web y se dirige a una de las opciones de la barra de navegación que se llama “Donaciones”, en ella podrá visualizar todas las organizaciones benéficas afiliadas a CambiaZo, además de poder filtrar por categorías. Al clickear en una de estas, podrá visualizar información más detallada de la misma.<br><br>
+
+
+
+**User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-3.png?raw=true"  alt="wireflow 3">
+</div><br>
+El usuario entra a la página web, se dirige a la barra navegadora y clickea en la opción de Membresías, en la cuál podrá visualizar todas las suscripciones disponibles con su información detallada. Al momento de seleccionar una, será redirigido a una pasarela de pagos para luego recibir un pop-up de confirmación.<br><br>
+
+**User goal 4:** Como usuario, quiero poder verificar información sobre términos y condiciones de la compañía y política de uso
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-4.png?raw=true"  alt="wireflow 4">
+</div><br>
+El usuario entra a la página web, se dirige al footer de la misma y clickea en las opciones de términos y condiciones y/o políticas de uso, en donde podrá visualizar todos los términos legales y de uso de CambiaZo.<br><br>
+
+
+**User goal 5:** Como usuario, quiero poder visualizar información de ayuda y/o tener la posibilidad de solicitar soporte al equipo de desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-5.png?raw=true"  alt="wireflow 5">
+</div><br>
+
+El usuario entra a la página web, se dirige al footer de la misma y clicke en Ayuda y/o Soporte. En la primera ventana podrá verificar información de ayuda básica sobre la página, si es que tiene algún inconveniente más específico, puede contactarse con nuestro soporte técnico.<br><br>
+
+
+
+**User goal 6:** Como usuario quiero poder publicar mis intercambios de una manera rápida y accesible.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-6.png?raw=true"  alt="wireflow 6">
+</div><br>
+
+El usuario entra a la página web y se redirige al botón de la parte superior derecha que dice “Publicar”. Una vez dentro, saldrá un formulario para que el usuario ya con una sesión iniciada, pueda realizar su publicación de intercambio, incluir datos y fotos. Para finalizar le saldrá un pop-up con un mensaje de confirmación.<br><br>
+
+
+**User goal 7:** Como usuario quiero poder filtrar mi búsqueda de objetos, recibir información solo de estos mismos y visualizar información pertinente y necesaria.
+
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-7.png?raw=true"  alt="wireflow 7">
+</div><br>
+
+El usuario entra a la página web y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una ventana en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.<br>Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
+
+
+
+
+**User goal 8:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-8.png?raw=true"  alt="wireflow 8">
+</div><br>
+
+Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Ofertar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación. <br><br>
+
+
+**User goal 9:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-9.png?raw=true"  alt="wireflow 9">
+</div><br>
+
+El usuario se dirige al ícono de perfil, para luego visualizar las publicaciones que ha realizado en el momento. Después de ello, al darle click en “Editar perfil”, podrá ver la configuración de notificaciones que tenga, además de poder editar su información personal.<br><br>
+
+
+**User goal 10:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Wireflow-Diagram/wireflow-diagram-10.png?raw=true"  alt="wireflow 10">
+</div><br>
+
+  Dirigirse a la sección de perfil, para luego clickear en Ofertas, se tiene que seleccionar “Recibidas”, una vez hecho ello, se podrá visualizar todos las ofertas recibidas por las publicaciones que hemos hecho.<br><br>
+
+Enlace: [Wireflows en LucidChart 1](https://lucid.app/lucidchart/63364102-d93b-47fe-a04f-fce263593fdf/edit?viewport_loc=-5194%2C-809%2C20455%2C7652%2C0_0&invitationId=inv_451c4fe8-c20d-4e3d-8ab3-e8df00c42f3e)<br><br>
+
+Enlace: [Wireflows en LucidChart 2](https://lucid.app/lucidchart/ded0e94e-a2ae-4af8-84a9-30eda1490a8c/edit?viewport_loc=-422%2C4306%2C3790%2C1418%2C0_0&invitationId=inv_12e34c87-1186-4aa4-8ddb-ca02798fcd0c)<br><br>
+
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 En esta sección emplearemos el modelo C4 para crear la estructura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
