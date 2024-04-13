@@ -2039,6 +2039,112 @@ Al acceder a la página de membresía, los usuarios son recibidos por un texto d
 </div><br>
 En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
 
+### 4.4.4. Web Applications User Flow Diagrams
+
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+
+**User Goal 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%201.png?raw=true" alt="userflow 1">
+</div><br>
+
+El usuario accede a la aplicación. Se le presenta una ventana para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si inicia sesión correctamente, puede usar todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es llevado a la página de inicio de sesión.<br><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%202.png?raw=true" alt="userflow 2">
+</div><br>
+
+El usuario está en la página de inicio. Visualiza objetos publicados por otros usuarios, incluyendo los destacados y los últimos publicados. Al seleccionar un objeto, es dirigido a otra página con más detalles sobre la publicación. También puede explorar las publicaciones al seleccionar las categorías desde la página de inicio.<br><br>
+
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%203.png?raw=true" alt="userflow 3">
+</div><br><br>
+
+Desde la página de inicio, el usuario selecciona la opción de publicar. Es llevado a una página para crear una nueva publicación. Después de completar los datos necesarios y confirmar la publicación, recibe un mensaje de confirmación y su publicación es mostrada a todos los usuarios.<br><br>
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%204.png?raw=true" alt="userflow 4">
+</div><br><br>
+
+Al visualizar una publicación, el usuario presiona el botón "Ofertar". Se le muestra una ventana con sus propios objetos publicados, y puede seleccionar uno para proponer un intercambio. Recibe un mensaje de agradecimiento por parte de la aplicación.<br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%205.png?raw=true" alt="userflow 5">
+</div><br><br>
+
+El usuario accede a las ofertas enviadas desde su perfil, donde encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%206.png?raw=true" alt="userflow 6">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de donaciones. Encuentra una lista de todas las ONGs disponibles y al seleccionar una, se le muestra información detallada sobre la misma.<br><br>
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%207.png?raw=true" alt="userflow 7">
+</div><br><br>
+
+Mientras visualiza una publicación, el usuario accede al perfil del usuario que la publicó para ver más información sobre él.<br><br>
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%208.png?raw=true" alt="userflow 8">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%209.png?raw=true" alt="userflow 9">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a información pertinente de la aplicación, como condiciones de uso, políticas de privacidad y sección de ayuda, además de la sección de contacto para comunicarse con la empresa al completar un formulario.<br><br>
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%2010.png?raw=true" alt="userflow 10">
+</div><br><br>
+
+Desde su perfil, el usuario accede a la sección de publicaciones al presionar el botón de tres puntos puede eliminar una publicación, lo que le solicita confirmación antes de eliminarla. También puede editar una publicación, lo que le permite modificar la información mediante un formulario.<br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/User-Flow-Diagram/goal%2011.png?raw=true" alt="userflow 11">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a su perfil y realiza modificaciones, como cambiar su foto de perfil, sus datos personales o contraseña. Al cambiar la contraseña, se le muestra un formulario para realizar los cambios y al presionar “Cambiar” se le muestra un mensaje de confirmación.<br><br>
+
+Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/43f6d75d-44c8-4170-bd1c-99fd21312c75/edit?viewport_loc=-3569%2C-5403%2C2791%2C1048%2C0_0&invitationId=inv_f07bff56-c57f-4cbb-8b02-8c692958e133)<br><br>
+
+Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-43f5-97c3-4dae978dbcfb/edit?viewport_loc=-2622%2C-8651%2C6038%2C2267%2C0_0&invitationId=inv_6403b820-2acd-4db0-9a63-16de1d01e7c6)<br><br>
+
+Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?view_items=R8dsqoYWsTCr&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+
 
 
 ## 4.6. Domain-Driven Software Architecture
