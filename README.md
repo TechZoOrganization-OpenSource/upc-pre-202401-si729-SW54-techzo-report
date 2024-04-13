@@ -218,6 +218,37 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
 
 ---
 
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
+**ABET – EAC - Student Outcome 3**<br>
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.<br><br>
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.<br><br>
+
+<table >
+  <thead>
+    <tr>
+      <th colspan="3"><b>Criterio específico</b></th>
+      <th colspan="3"><b>Acciones realizadas</b></th>
+      <th colspan="3"><b>Conclusiones</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td colspan="3" align = "justify"><h3>Diego Anderson Criollo De La Cruz</h3><b>TB1</b><p>Mantuve una comunicación constante y transparente con cada miembro de mi equipo, asegurándome de compartir mis ideas en cada reunión para garantizar que nuestra propuesta de solución destacara. Además, contribuí activamente al desarrollo del prototipo de la aplicación web. Todo este intercambio de información y colaboración se llevó a cabo mediante las reuniones que realizábamos regularmente.</p> <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p> Establecí una comunicación fluida y abierta con todos los miembros de nuestro equipo, asegurando que mis sugerencias se compartieran en cada reunión. Además, desempeñé un papel activo en la colaboración para diseñar la interfaz inicial de la aplicación web. Además, hice todos los puntos que me asignaron, estos son las entrevistas, needfinding, to-be scenario mapping, user stories, information architecture y software configuration management. </p> <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>Establecí una comunicación fluida y abierta con todos los integrantes de mi equipo, garantizando que mis propuestas se compartieran en cada sesión. Participé activamente en la creación del  Empathy Map, User Stories,  Product Backlog, To-Be Scenario Mapping, an interview, Database Diagrams, Web Application Mock-ups, and User Flow Diagram.</p> <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>Como líder del equipo, organicé varias reuniones para poder intercambiar ideas y verificar que todo vaya bien con el avance del proyecto. Además, cumplí a tiempo con todos los puntos que me fueron asignados, aquellos puntos fueron Análisis de Competidores, Entrevistas, Needfinding, User Stories, Impact Mapping, Style Guidelines, Web Applications UX/UI Design y Web Applications Prototyping.</p> <h3>Abel Andrés Valle Zuta</h3><b>TB1</b><p>Mantuve una comunicación activa y clara con todos los miembros de mi equipo, haciéndoles saber, en cada reunión que tuvimos, mis ideas para que nuestra propuesta de solución sea única y llamativa, además de comunicarles mis dudas y cada vez que terminaba con alguno de los puntos que me fueron asignados hacer, los cuales fueron: Startup Profile, Solution Profile, Segmentos Objetivos, Entrevistas, User Stories, Landing Page UI Design, Domain Driven Software Architecture, Class Diagram, y todo el capítulo 5.</p><br></td>
+      <td colspan="3">Logramos mantener una comunicación activa, clara y precisa todo el momento, ya que nos apoyamos siempre que alguno del equipo tuviera alguna duda, repartimos las tareas de cada uno equitativamente, cumplimos con todo lo establecido a tiempo y cumplimos con nuestro objetivo como equipo de trabajar sin tener ningún conflicto, apoyarnos en todo momento y de mantener una comunicación constante durante todo el proyecto.</td>
+    </tr>
+    <tr>
+      <td colspan="3">Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td colspan="3" align = "justify"><h3>Diego Anderson Criollo De La Cruz</h3><b>TB1</b><p>Mantuve una comunicación transparente con cada miembro de mi equipo a través de grupos de mensajería, asegurándome de compartir mis ideas en cada reunión. Además, contribuí activamente al desarrollo colaborativo de la landing page de la aplicación web.</p> <h3>Joseph Alexis Huamani Mandujano</h3><b>TB1</b><p>Promoví una comunicación clara con cada integrante de nuestro equipo cada vez que me comuniqué con ellos por chat, garantizando que mis conceptos se transmitieran correctamente en cada encuentro para garantizar la calidad de nuestra propuesta.</p> <h3>Mathias André Mendoza Carrión</h3><b>TB1</b><p>Fomenté una comunicación continua con cada uno de los miembros de nuestro equipo, asegurándome de transmitir mis ideas en cada encuentro para asegurar la originalidad y la excelencia de nuestra solución propuesta. </p> <h3>Ian Haziel Donato Santisteban Palomino</h3><b>TB1</b><p>Como líder del equipo, estuve siempre en contacto con cada uno de los miembros del grupo, resolviendo sus dudas por chat y verificando que vayan avanzando correctamente con el trabajo.</p> <h3>Abel Andrés Valle Zuta</h3><b>TB1</b><p>Tuve una comunicación clara, consisa y precisa cada vez que mandé mensajes por chat, haciéndoles saber qué puntos faltaban realizar, coordinar la hora en la que nos íbamos a reunir y comunicales los puntos en los que considero mejor me desempeño para aportar y tener un buen desempeño realizando el proyecto.</p> </td>
+      <td colspan="3">Nuestra comunicación escrita fue exitosa, debido a que mantuvimos una conversación constante, actualizándonos cómo íbamos con el progreso del proyecto, organizándonos para reunirnos en un determinado momento, y nuestra conversación escrita fue exitosa para resolver todas las dudas que tuvimos mientras que no estábamos reunidos sincrónicamente.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
