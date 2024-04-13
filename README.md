@@ -3253,6 +3253,75 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 |diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|402bbd8|Feat: Create US-29|In this part, we applied Gherkin to the US-29.|11/04/2024|
 |AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|281aa55|Feat: Create US-30|In this part, we applied Gherkin to the US-30.|11/04/2024|
 
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Lo que se logró en el Sprint 1 es desplegar una primera versión de la landing page. En esta logramos desarrollar la barra navegadora, las secciones establecidas de la Landing Page y el formulario de contacto. También se adoptó exitosamente la metodología GitFlow, trabajando en un branch “feature/sprint-1” para realizar pruebas y actualizaciones sin afectar la rama principal “develop”.
+ 
+A continuación, en el enlace del vídeo donde se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado hasta este momento en el Sprint 1, respecto a la landing page:
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing1.png?raw=true" alt="landing-page" >
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing2.png?raw=true" alt="landing-page" >
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing3.png?raw=true" alt="characteristics-landing-page">
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing4.png?raw=true" alt="characteristics-landing-page">
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing5.png?raw=true" alt="gps-landing-page" >
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing6.png?raw=true" alt="subscriptions-landing-page">
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing7.png?raw=true" alt="team-landing-page" >
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing8.png?raw=true" alt="contact-us-landing-page">
+</div>
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing9.png?raw=true" alt="contact-us-landing-page">
+</div>
+<br>
+
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Landing-Page/landing10.png?raw=true" alt="contact-us-landing-page">
+</div>
+<br>
+
+
+Enlace: [Video del Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?e=VZtdOr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 
 
