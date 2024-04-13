@@ -76,6 +76,27 @@
 
 ---
 
+<div align="justify">
+
+# Project Report Collaboration Insights
+
+URL de Organización de GITHUB del equipo TechZo:
+https://github.com/TechZoOrganization-OpenSource
+
+URL de Repositorio del Project Report:
+https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report
+
+<strong>*Entrega TB1:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TB1, el equipo se reunió por discord para hacer las primeras coordinaciones y posteriormente todo el desarrollo y reuniones de avance. Esto se debe, a que la mayoría de integrantes se siente más cómodo con esta aplicación. 
+
+    En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de una ruleta. 
+
+    Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
+    
+
+
 # Contenido
 
 - [Contenido](#contenido)
