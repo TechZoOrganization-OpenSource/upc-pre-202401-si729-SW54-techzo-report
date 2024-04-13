@@ -33,6 +33,46 @@
 <br><div align="center"><h3>Abril 2024</h3></div><br>
 <div style="text-align: justify;">
 
+<br><br>
+---
+### Registro de Versiones
+
+<div align="justify">
+
+|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+| - | - | - | - |
+|1\.0|07/04/2024|Ian Haziel Donato Santisteban Palomino y Joseph Alexis Huamani Mandujano|Se agregó la estructura inicial del proyecto.|
+|1\.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se inició el Capítulo I: Introducción y se agregó contenido relacionado con Startup Profile|
+|1\.1.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Solution Profile|
+|1\.1.2|09/04/2024|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1\.1.3|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
+|1\.2|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se inició el Capítulo II: Requirements Elicitation & Analysis y se agregó contenido relacionado a los Competidores|
+|1\.2.1|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con las Entrevistas|
+|1\.2.3|<p>09/04/2024</p><p> </p>|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1\.2.4|10/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
+|1\.2.5|10/04/2024|Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
+|1\.2.6|10/04/2024|Ian Haziel Donato Santisteban Palomino, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con el As-is Scenario Mapping y el Ubiquitous Language.|
+|1\.3|10/04/2024|Abel Andrés Valle Zuta|Se inició el Capítulo III: Requirements Specification y se agregó contenido relacionado al To-be|
+|1\.3.1|10/04/2024|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los Epics, User Stories y Technical Stories|
+|1\.3.2|10/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Impact Mapping|
+|1\.3.3|10/04/2024|<p>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion</p><p> </p>|Se agregó contenido relacionado con el Product Backlog|
+|1\.4|10/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se inició el Capítulo IV: Product Design y se agregó contenido relacionado al Style Guideline|
+|1\.4.1|11/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con la Information Architecture|
+|1\.4.2|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Landing Page UI Design|
+|1\.4.3|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Domain-Driven Software Architecture|
+|1\.4.4|11/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andrés Mendoza Carrion|Se agregó contenido relacionado con el Class Diagrams y Database Design|
+|1\.5|11/04/2024|<p>Diego Anderson Criollo de la Cruz</p><p> </p>|Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management|
+|1\.5.1|11/04/2024|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al Sprint Backlog 1|
+|1\.6|13/04/2024|Ian Haziel Donato Santisteban Palomino|Se corrigió el formato de algunas secciones ya terminadas|
+|1\.7|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireframes|
+|1\.7.1|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Mockup|
+|1\.7.2|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Prototype|
+|1\.7.3|13/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireflow Flow|
+|1\.7.4|13/04/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al User Flow|
+|1\.8|13/04/2024|Joseph Alexis Huamani Mandujano|Se agregaron las conclusiones y la bibliografía|
+|1\.8.1|13/04/2024|Ian Haziel Donato Santisteban Palomino|Se agregó el Student Outcome y la Tabla de Contenido|
+
+</div><br><br>
 
 ---
 
