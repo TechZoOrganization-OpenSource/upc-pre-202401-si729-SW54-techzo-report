@@ -3194,6 +3194,20 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 |IanHD04/landing-page-cambiazo/index.html|develop|0eca01e|Revert "Feat: Create Ongs Conatiner"|This reverts commit 04c33a3.|12/04/2024|
 |<p>AndresVZ23/landing-page-cambiazo/index.html</p><p></p>|develop|45bafdd|<p>Fix: link stylesheet style-footer</p><p></p>|fixed the link of stylesheet style-footer|12/04/2024|
 
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-1” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 1.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|b3377fe|Feat: Create US-25|In this part, we applied Gherkin to the US-25.|11/04/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|09ae509|Feat: Create US-26|In this part, we applied Gherkin to the US-26.|11/04/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|1af530f|Feat: Create US-27|In this part, we applied Gherkin to the US-27.|11/04/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|31c2fab|Feat: Create US-28|In this part, we applied Gherkin to the US-28.|11/04/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|402bbd8|Feat: Create US-29|In this part, we applied Gherkin to the US-29.|11/04/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-1|281aa55|Feat: Create US-30|In this part, we applied Gherkin to the US-30.|11/04/2024|
+
+
 
 
 
