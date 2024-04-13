@@ -3330,6 +3330,47 @@ Enlace: [Video del Development Evidence for Sprint 1](https://upcedupe-my.sharep
  En la siguiente fase, decidimos utilizar las funciones colaborativas de GitHub, las cuales nos ayudaron grandemente en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones. Además, al permitir que cada integrante tuviera acceso al repositorio, se realizaron los commits sin problemas y rápidamente, esto permitió que todos puedan visualizar cada cambio y el progreso realizado.
 <br><br>
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+A continuación, detallaremos los procesos realizados a lo largo del Sprint 1:
+
+Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro Landing Page y otro para los Acceptance Test.
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image1.jpeg?raw=true">
+  </div><br><br>
+  
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image2.jpeg?raw=true">
+  </div><br>
+
+En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image3.jpeg?raw=true" alt="branches">
+  </div><br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image4.jpeg?raw=true" alt="branches">
+  </div><br><br>
+
+En el repositorio “landing-page-OpenSource” subimos todos los archivos a la rama “develop”, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
+
+Y en el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos se subían a la rama “feature/sprint-1”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
+
+Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
+
+Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/ 
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image5.jpeg?raw=true" alt="github pages">
+  </div><br>
+
+  
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image6.jpeg?raw=true" alt="landing">
+  </div><br>
+
 
 
 
