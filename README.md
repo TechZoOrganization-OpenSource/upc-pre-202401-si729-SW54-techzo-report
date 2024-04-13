@@ -1999,6 +1999,46 @@ Enlace: [Wireflows en LucidChart 1](https://lucid.app/lucidchart/63364102-d93b-4
 
 Enlace: [Wireflows en LucidChart 2](https://lucid.app/lucidchart/ded0e94e-a2ae-4af8-84a9-30eda1490a8c/edit?viewport_loc=-422%2C4306%2C3790%2C1418%2C0_0&invitationId=inv_12e34c87-1186-4aa4-8ddb-ca02798fcd0c)<br><br>
 
+### 4.4.3. Web Applications Mock-ups
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-0.png?raw=true"  alt="mockups-appweb">
+</div><br><br>
+
+Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación web.
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-1.png?raw=true"  alt="mockups-1"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-2.png?raw=true"  alt="mockups-2"><br><br>
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-3.png?raw=true"  alt="mockups-3"><br><br>
+</div><br>
+Páginas para el inicio de sesión, registro y cambio de contraseña en la aplicación web, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-4.png?raw=true"  alt="mockups-4">
+</div><br>
+La página de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. Las publicaciones se dividen en dos tipos: las últimas y las más destacadas, estas últimas presentadas en un scroll para mayor atención del usuario y facilidad al buscarlas. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-5.png?raw=true"  alt="mockups-5">
+</div><br>
+Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-6.png?raw=true"  alt="mockups-6">
+</div><br>
+Al acceder a la página de membresía, los usuarios son recibidos por un texto destacado en color amarillo que les invita de manera llamativa a formar parte de nuestra plataforma. Seguidamente, se presentan los distintos planes de membresía en cuadros rectangulares con bordes suavemente redondeados, distribuidos de manera equitativa en la página. En cuanto a la estética, los bordes de estos rectángulos están resaltados en amarillo, mientras que los paneles laterales exhiben un fondo blanco con un borde amarillo sutil, y el panel central se muestra con un fondo amarillo, atrayendo así la atención del usuario hacia los detalles de cada plan.Además se detallan los beneficios de cada plan en cuadros con texto breve para mantener la presentación ordenada. Cada cuadro está equipado con un botón negro de bordes redondeados que permite a los usuarios seleccionar su membresía y realizar el pago. Los beneficios de cada plan están listados con un icono de marca de verificación en color negro para resaltarlos junto con el texto en el mismo tono. Esta estructura visual y organización de la información hace que sea fácil para los usuarios comprender y elegir la membresía que mejor se adapte a sus necesidades.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-7.png?raw=true"  alt="mockups-7">
+</div><br>
+En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
+
 
 
 ## 4.6. Domain-Driven Software Architecture
