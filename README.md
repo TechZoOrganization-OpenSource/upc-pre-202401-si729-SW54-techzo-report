@@ -3411,7 +3411,31 @@ En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importa
 
 <div style="text-align: justify;">
 
+# Bibliografía
+  <br>
 
++ Domantas, G. (2023). *What is CSS and How Does It Work?*. Hostinger.
+https://www.hostinger.com/tutorials/what-is-css <br><br>
+
++ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. Semestre Económico, 11(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
+
++ McCafferty, S. (2019). *Gherkin Conventions for Readable Specifications*. Piper's blog.
+https://pipertestanalyst.wordpress.com/2020/03/05/gherkin-conventions-for-readable-specifications/<br><br>
+
++ MDN contributors. (2024). *HTML basics*. mdn web docs.
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics<br><br>
+
++ O'Grady, B. (s.f.). *JavaScript Demystified: Why You Should Learn This Essential Language*. code institute.
+https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-it/ <br><br>
+
++ TestQuality Team. (2022). *What is Gherkin & How Do You Write Gherkin Tests?*. TestQuality Blog. https://www.testquality.com/blog/tpost/dndmk5a141-what-is-gherkin-amp-how-do-you-write-ghe#:~:text=What%20is%20Gherkin%3F,adheres%20to%20a%20strict%20syntax.<br><br>
+
++ Brown, S. (s.f.). *The C4 model for visualising software architecture*. C4model. https://c4model.com/
+</div>
+
+<br><br>
+
+---
 
 
 
