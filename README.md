@@ -3371,7 +3371,24 @@ Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Evidence/image6.jpeg?raw=true" alt="landing">
   </div><br>
 
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "landing-page-OpenSource", donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
+
+<b>Analíticos de GitHUb</b>
+
+  + Landing Page
+          <div align="center">
+        <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Insights/Insights-graph.jpeg?raw=true" alt="contributor-evidence.">
+        </div>
+
+    En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+
+
+</div>
+
+<br><br>
+---
 
 
 </div>
