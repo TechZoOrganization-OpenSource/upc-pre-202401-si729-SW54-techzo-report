@@ -3437,6 +3437,54 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 ---
 
+# Anexos
+
++ Landing Page: [Ver Landing Page](https://techzoorganization-opensource.github.io/landing-page-OpenSource/)<br><br>
++ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZoOrganization-OpenSource)<br><br>
++ Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/landing-page-OpenSource)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report)<br><br>
++ Repositorio GitHub del Accepptance-Test: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource)<br><br>
++ Wireframes: [Ver Wireframe](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0-1&mode=design)<br><br>
++ Mock-up: [Ver Mock-up](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0-1&mode=design)<br><br>
++ Prototype: [Ver Prototype ](https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=662-6234&t=6tWRPswBDZfqgYDM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=662%3A4809&show-proto-sidebar=1)<br><br>
+
+## Needfinding Interviews
+
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Needfinding Interviews">
+ </div>
+
+
+
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
+
+
+## Prototype de la App Web
+
+
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="Video Prototype de la App Web">
+ </div>
+
+
+
+Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERKNRuD4_uRKi7E1bChMHFYBhLjC4RbdO_21JyBYqR7fFg?e=D2Uj8c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
+
+
+
+## Sprint 1
+
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/Sprint%201%20Review.png?raw=true" alt="Sprint 1 development evidence">
+ </div>
+
+
+Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4Bm9ATJ2r9YrYhs2AF9zdrjQ?e=Rl17V7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+        
+
 
 
 
