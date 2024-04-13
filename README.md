@@ -33,7 +33,7 @@
 <br><div align="center"><h3>Abril 2024</h3></div><br>
 <div style="text-align: justify;">
 
-<br><br>
+<br><br><br><br>
 ---
 ### Registro de Versiones
 
@@ -44,24 +44,24 @@
 |1\.0|07/04/2024|Ian Haziel Donato Santisteban Palomino y Joseph Alexis Huamani Mandujano|Se agregó la estructura inicial del proyecto.|
 |1\.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se inició el Capítulo I: Introducción y se agregó contenido relacionado con Startup Profile|
 |1\.1.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Solution Profile|
-|1\.1.2|09/04/2024|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1\.1.2|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
 |1\.1.3|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
 |1\.2|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se inició el Capítulo II: Requirements Elicitation & Analysis y se agregó contenido relacionado a los Competidores|
 |1\.2.1|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con las Entrevistas|
-|1\.2.3|<p>09/04/2024</p><p> </p>|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1\.2.3|09/04/2024 |Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
 |1\.2.4|10/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
 |1\.2.5|10/04/2024|Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
 |1\.2.6|10/04/2024|Ian Haziel Donato Santisteban Palomino, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con el As-is Scenario Mapping y el Ubiquitous Language.|
 |1\.3|10/04/2024|Abel Andrés Valle Zuta|Se inició el Capítulo III: Requirements Specification y se agregó contenido relacionado al To-be|
-|1\.3.1|10/04/2024|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los Epics, User Stories y Technical Stories|
+|1\.3.1|10/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Diego Anderson Criollo de la Cruz |Se agregaron los Epics, User Stories y Technical Stories|
 |1\.3.2|10/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Impact Mapping|
-|1\.3.3|10/04/2024|<p>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion</p><p> </p>|Se agregó contenido relacionado con el Product Backlog|
+|1\.3.3|10/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion |Se agregó contenido relacionado con el Product Backlog|
 |1\.4|10/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se inició el Capítulo IV: Product Design y se agregó contenido relacionado al Style Guideline|
 |1\.4.1|11/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con la Information Architecture|
 |1\.4.2|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Landing Page UI Design|
 |1\.4.3|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Domain-Driven Software Architecture|
 |1\.4.4|11/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andrés Mendoza Carrion|Se agregó contenido relacionado con el Class Diagrams y Database Design|
-|1\.5|11/04/2024|<p>Diego Anderson Criollo de la Cruz</p><p> </p>|Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management|
+|1\.5|11/04/2024|<p>Diego Anderson Criollo de la Cruz |Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management|
 |1\.5.1|11/04/2024|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al Sprint Backlog 1|
 |1\.6|13/04/2024|Ian Haziel Donato Santisteban Palomino|Se corrigió el formato de algunas secciones ya terminadas|
 |1\.7|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireframes|
@@ -282,12 +282,13 @@ TechZo es una startup que está conformada por estudiantes de la Universidad Per
 
 | **Integrante**                         | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Imagen**                                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Diego Anderson Criollo De La Cruz - u202219639**              |                                                                                                                                                                                                                                                                                                                  Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder aborder de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end,  además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/diego.jpg?raw=true" alt="Imagen de Diego Criollo" width="800"/>                 |
-| **Joseph Alexis Huamani Mandujano - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas.                                                               | <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/Joseph.jpg?raw=true" alt="Imagen de Joseph Huamani" width="800">                |
-| **Mathias André Mendoza Carrión - u202216282** |                                                                                                                             Soy Mathias Andre Mendoza Carrión, un estudiante de 19 años de Ingeniería de Software en el quinto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. En este momento, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software. Aspiro a dominar nuevas tecnologías y habilidades, así como a comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/mathias.jpg?raw=true" alt="Imagen de Mathias Mendoza" width="800"/>   |
-| **Ian Haziel Donato Santisteban Palomino - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/Ian.PNG?raw=true" alt="Imagen de Ian Santisteban" width="800"/> |
-| **Abel Andrés Valle Zuta - u202210297**     |                                                                                                                                 Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 5to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/andres.jpg?raw=true" alt="Imagen de Andres Valle" width="800"/>      |
-||
+| **Diego Anderson Criollo De La Cruz - u202219639** |Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder aborder de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end,  además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/diego.jpg?raw=true" alt="Imagen de Diego Criollo"/>                 |
+| **Joseph Alexis Huamani Mandujano - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 5to ciclo en la carrera de Ingeniería de Software en la UPC. La razón por la cual elegí esta carrera es porque desde pequeño siempre me ha gustado la tecnología, el cómo es el funcionamiento y la creación de los programas que uso en mí día a día.  Por ello, en este curso me  comprometo a ser un buen integrante para mi grupo y dar lo  mejor de mí en los trabajos con las habilidades técnicas como dominio en los lenguajes C++, Python y Javascript y habillidades blandas como trabajo en equipo, responsabillidad y resolución de problemas. | <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/Joseph.jpg?raw=true" alt="Imagen de Joseph Huamani" />                |
+| **Mathias André Mendoza Carrión - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 19 años de Ingeniería de Software en el quinto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. En este momento, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software. Aspiro a dominar nuevas tecnologías y habilidades, así como a comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/mathias.jpg?raw=true" alt="Imagen de Mathias Mendoza"/> |
+| **Ian Haziel Donato Santisteban Palomino - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino y estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/Ian.PNG?raw=true" alt="Imagen de Ian Santisteban"/> |
+| **Abel Andrés Valle Zuta - u202210297**     |  Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 5to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.| <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Profiles/andres.jpg?raw=true" alt="Imagen de Andres Valle"/>      |
+
+
 
 ## 1.2 Solution Profile
 La propuesta se basa en una aplicación web llamada CambiaZo, diseñada para asistir en el intercambio y donación de productos que los usuarios ya no utilizan. Esta aplicación web conectará a usuarios de distintas partes a través del ordenador y ayudará a que puedan obtener los objetos que desean a través del trueque con otros usuarios, además ayudará a facilitar las formas de donar a personas de escasos recursos económicos.
@@ -298,29 +299,32 @@ Se sabe que la cultura de desarrollo sostenible está tomando impulso en los úl
 Según un reporte del portal INFOBAE del presente año 2024, se menciona sobre las estimaciones realizadas de la ONU sobre el crecimiento de la población mundial, de acuerdo a ello, se espera que la población mundial aumente en 2000 millones de personas en los próximos 30 años, llegando a una cifra total de 9700 millones de personas para el año 2050. Cada una de estas personas llegarán a generar sus propios residuos que multiplicado por toda la población mundial se vuelve una cifra gigantesca. Es frente a este futuro escenario en donde entra nuestra propuesta de solución, CambiaZo.
 
 Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
-#### 5W's y 2H's
 
-* **What?** <br>
-La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.
+**5W's y 2H's**
 
-* **Why?** <br>
-Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.
+* **What?**
+La cantidad de residuos que se generan a diario por cada persona del mundo generan un impacto negativo en el medio ambiente y en la conservación de los recursos básicos del planeta.<br><br>
 
-* **Who?** <br>
-Público en general y personas que más necesitan de apoyo de recursos.
 
-* **When?** <br>
-Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.
+* **Why?**
+Debido a que muchas personas no toman la iniciativa de darle un nuevo uso a aquellas pertenencias que ya no necesitan más y simplemente deciden desecharlas, sin conocer las consecuencias que esto podría ocasionar a largo plazo.<br><br>
 
-* **Where?** <br>
-Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.
+* **Who?**
+Público en general y personas que más necesitan de apoyo de recursos.<br><br>
 
-* **How?** <br>
-Se implementará una propuesta de solución, mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.
+* **When?**
+Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
 
-* **How much?** <br>
+* **Where?**
+Si bien es una problemática que persiste en todo el mundo, nos centraremos en un inicio en la población peruana.<br><br>
+
+* **How?**
+Se implementará una propuesta de solución, mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+
+* **How much?**
 El presupuesto varía dependiendo de cuanta información se
 requiera para el desarrollo del aplicativo web. Sin embargo se considera un aproximado de s/. 7 000.
+
 
 
 ### 1.2.2 Lean UX Process
@@ -328,7 +332,8 @@ requiera para el desarrollo del aplicativo web. Sin embargo se considera un apro
 **Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
 
 Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
-¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?
+¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
+
 
 **Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
 
@@ -341,19 +346,19 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Nuestros usuarios son todo el público que esté interesado en darle un nuevo uso a sus pertenencias, intercambiandolas por otras con alguien que sí las necesite. Además de ello, va dirigido a personas que deseen donar a ciertas organizaciones benéficas registradas en la plataforma.
+    + **¿Quién es el usuario?** <br> Nuestros usuarios son todo el público que esté interesado en darle un nuevo uso a sus pertenencias, intercambiandolas por otras con alguien que sí las necesite. Además de ello, va dirigido a personas que deseen donar a ciertas organizaciones benéficas registradas en la plataforma.<br><br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> Nuestro producto encaja en el estilo de vida de nuestros usuarios, al querer impulsar una forma de vida sostenible y una economía cíclica respecto a los bienes de las personas
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> Nuestro producto encaja en el estilo de vida de nuestros usuarios, al querer impulsar una forma de vida sostenible y una economía cíclica respecto a los bienes de las personas<br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.
-
-
-    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.
+    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
 
 
-    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.
+    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.
+
+    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
+
+    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.<br><br>
 
  + **Business Outcomes:** 
 
@@ -380,7 +385,7 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
     11. **Resolveremos esto a través de** un proceso de verificación y control sobre la información que cada usuario coloca al momento de hacer un intercambio, para que no haya inconvenientes de posibles intercambios injustos o de broma.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que** al tener una plataforma sólida **para**  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.<br>
+**Creemos que** al tener una plataforma sólida **para**  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.
 **Sabremos que es cierto** cuando las estadísticas de cuántos intercambios se van realizando al día sean más de 30, esto demostrará que nuestra propuesta de solución realmente está fomentando la reutilización de los objetos de las personas en general.
 
 **Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
@@ -389,64 +394,45 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 **Creemos que**  al tener la opción de realizar donaciones a personas de escasos recursos económicos, facilitará a los usuarios que deseen donar objetos que ya no utilizan, a hacerlo y a contribuir con este acto solidario.<br>**Sabremos que esto es cierto**  cuando la cantidad de usuarios que han donado a través de nuestra plataforma, supere el 10% de usuarios registrados dentro de la aplicación cada mes.
 
 
-
 #### 1.2.2.4 Lean UX Canvas
 La aplicación **CambiaZo**  es una plataforma digital diseñada para que los usuarios puedan deshacerse de los objetos que ya no desean tener, intercambiándolos por otros artículos que desean de otros usuarios. Además, tiene como objetivo principal convertirse en la plataforma digital líder de intercambio de productos, promoviendo una vida consciente y sostenible a nivel mundial.
 
 <table>
     <tr>
         <td valign="top" >
-            <div align="center"> 
-                <b>Problema de negocios</b> 
-            </div><br>
+            <div align="center"> <br><b>Problema de negocios</b> </div><br>
             <p>El mayor factor de todo esto es la falta de accesibilidad y sencillez a la hora de buscar la forma de intercambiar bienes.<br><br>¿Cómo podemos crear una forma sencilla de encontrar personas que</p><br>
         </td>
         <td rowspan="2" valign="top">
-            <div align="center"> 
-                <b>Ideas de las soluciones</b> 
-            </div><br>
+            <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
             <p>Una aplicación con la cual se pueda realizar intercambios de productos. Además de tener un apartado donde los usuarios puedan registrar los objetos que deseen donar.<br><br> En caso el usuario no considere conveniente el intercambio, tiene la opción de cancelarlo y seguir buscando a otros usuarios.
-            </p>
+            </p><br>
         </td>
             <td valign="top">
-            <div align="center"> 
-                <b>Resultados Comerciales</b> 
-            </div><br>
-            <p>Priorizar que los usuarios estén conformes con los intercambios realizados.<br><br>Obtener un financiamiento adicional para el crecimiento de la empresa.<br><br>Aumentar el alcance de la aplicación a través de las redes sociales.</p>
+            <div align="center"> <br><b>Resultados Comerciales</b> </div><br>
+            <p>Priorizar que los usuarios estén conformes con los intercambios realizados.<br><br>Obtener un financiamiento adicional para el crecimiento de la empresa.<br><br>Aumentar el alcance de la aplicación a través de las redes sociales.</p><br>
             </td>
         </tr>
     <tr>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Usuarios y Clientes</b> 
-            </div><br>
-            <p>Personas que desean intercambiar objetos que ya no usan.</p>
+            <div align="center"><br><b>Usuarios y Clientes</b></div><br>
+            <p>Personas que desean intercambiar objetos que ya no usan.</p><br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Beneficios del usuario</b> 
-            </div><br> 
-            <p>Ahorro de dinero.<br><br>Deshacerse de objetos que ya no desean.<br><br>Obtención de nuevos artículos.<br><br></p>
+            <div align="center"><br><b>Beneficios del usuario</b></div><br>
+            <p>Ahorro de dinero.<br><br>Deshacerse de objetos que ya no desean<br><br>Obtención de nuevos artículos.</p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
-            <div align="center"> 
-                <br><b>Hipótesis</b> 
-            </div><br>
-            <p>Creemos que con nuestra aplicación, ayudaremos a promover la metodología de economía cíclica y un estilo de vida sostenible.<br><br>Creemos que al utilizar nuestra aplicación, las personas podrán realizar fácilmente el intercambio de sus objetos que ya no desean.</p><br>
+            <div align="center"> <br><b>Hipótesis</b> </div><br>
+            <p>Creemos que con nuestra aplicación, ayudaremos a promover la metodología de economía cíclica y un estilo de vida sostenible.<br><br>Creemos que al utilizar nuestra aplicación, las personas podrán realizar fácilmente el intercambio de sus objetos que ya no desean.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> 
-            </div><br>
-            <p>Conocer las preguntas más comunes de los usuarios.<br><br>Conocer las características más importantes de los productos.<br><br>Implementar medidas de seguridad sólidas para proteger los datos de los usuarios.</p><br>
+            <div align="center"> <br><b>¿Qué es lo más importante que necesitamos aprender primero? </b> </div><br><p>Conocer las preguntas más comunes de los usuarios.<br><br>Conocer las características más importantes de los productos.<br><br>Implementar medidas de seguridad sólidas para proteger los datos de los usuarios.</p> <br>
         </td>
         <td valign="top">
-            <div align="center"> 
-                <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> 
-            </div><br>
-            <p>Dejar una opción para que los usuarios puedan dejar sus comentarios en general sobre el uso de la aplicación e ideas de cómo mejorarla.<br><br>Realizar encuestas mensualmente para conocer el nivel de satisfacción de nuestros usuarios con la aplicación.</p><br>
+            <div align="center">  <br><b>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</b> </div><br><p>Dejar una opción para que los usuarios puedan dejar sus comentarios en general sobre el uso de la aplicación e ideas de cómo mejorarla.<br><br>Realizar encuestas mensualmente para conocer el nivel de satisfacción de nuestros usuarios con la aplicación.</p> <br>
         </td>
     </tr>
 </table>
@@ -503,69 +489,50 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td colspan="2">
-        <div align="center">
-    		Nombre
-		</div>
+        <div align="center">Nombre</div>
     </td>
     <td>
-		<div align="center">
-    		Cambiazo<br>
-		</div>
+		<div align="center">Cambiazo<br></div>
 	</td>
     <td>
-		<div align="center">
-    	    Trueques.com
-		</div>
+		<div align="center">Trueques.com</div>
 	</td>
     <td>
-			<div align="center">
-    		Haztruequing
-			</div>
-		</td>
+		<div align="center">Haztruequing</div>
+	</td>
     <td>
-			<div align="center">
-    		Me Sirve
-			</div>
-		</td>
+		<div align="center">Me Sirve</div>
+	</td>
   </tr>
   <tr>
     <td colspan="2">
-        <div align="center">
-    		Logo
-		</div>
+        <div align="center">Logo</div>
     </td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" /></div>
 		</td>
     <td>
-			<div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" width="150">
-			</div>
+		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" /></div>
 		</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>App Web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.</td>
+    <td>App Web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
     <td>App para intercambiar bienes y servicios de manera segura y eficiente, promoviendo la reutilización y la solidaridad entre usuarios.</td>
   </tr>
   <tr>
     <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>Intercambio de productos o servicios. Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
     <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
     <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
     <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
@@ -586,7 +553,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Publicidad en redes sociales</td>
     <td>Publicidad en redes sociales</td>
   </tr>
-
   <tr>
     <td rowspan="3">Perfil de Producto<br></td>
     <td>Productos &amp; Servicios</td>
@@ -774,10 +740,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 
 **Segmento Intercambiadores**<br>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -823,21 +787,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco">
-			</div></td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 00:00 min - 4:59 min 
-		</td>
+    <td>00:00 min - 4:59 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -848,10 +806,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -897,39 +853,26 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
   </tr>
-
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 5:00 min - 9:55 min 
-		</td>
+    <td>5:00 min - 9:55 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-    En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad. 
-
+    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad.
 </td>
   </tr>
 </tbody>
 </table>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -975,23 +918,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 9:56 min - 14:50 min 
-		</td>
+    <td>9:56 min - 14:50 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -999,15 +934,13 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </td>
   </tr>
 </tbody>
-</table><br><br>
+</table><br>
 
 
 **Segmento Donadores**<br>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -1053,23 +986,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>
-		 14:51 min - 19:47 min 
-		</td>
+    <td>14:51 min - 19:47 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1080,10 +1005,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -1129,39 +1052,26 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td>
-      <div align="center">
-				<img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>
-		 19:48 min - 23:35 min 
-		</td>
+    <td>19:48 min - 23:35 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-    Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
-
-
+    <td>Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
 </td>
   </tr>
 </tbody>
 </table>
 
-<table style="undefined;table-layout: fixed; width: 910px">
+<table>
 <colgroup>
-<col style="width: 220px">
-<col style="width: 700px">
 </colgroup>
 <thead>
   <tr>
@@ -1207,23 +1117,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td>
-			<div align="center">
-				<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen">
-			</div>
-    </td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-		</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>
-		 23:36 min - 28:51 min 
-		</td>
+    <td>23:36 min - 28:51 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1231,7 +1133,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </td>
   </tr>
 </tbody>
-</table><br><br>
+</table><br>
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -1341,11 +1243,8 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 <b>Usuario Intercambiador</b><br>
 
 <div align="center">
-<table style="undefined;table-layout: fixed; width: 636px">
+<table>
 <colgroup>
-<col style="width: 263px">
-<col style="width: 150px">
-<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -1391,11 +1290,8 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 <b>Usuario Donador</b><br>
 
 <div align="center">
-<table style="undefined;table-layout: fixed; width: 636px">
+<table>
 <colgroup>
-<col style="width: 263px">
-<col style="width: 150px">
-<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -1519,41 +1415,29 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 ## 2.4 Ubiquitous Language
 En esta sección, se establece un glosario de términos clave del dominio de negocio, conforme al enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Este glosario proporciona definiciones claras y sin ambigüedades de los conceptos utilizados en el ámbito específico del problema y la solución abordados, facilitando una comunicación efectiva entre todos los miembros del equipo.
 
-+ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.
++ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.<br><br>
 
++ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.<br><br>
 
-+ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.
++ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.<br><br>
 
++ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.<br><br>
 
-+ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.
++ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.<br><br>
 
++ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.<br><br>
 
-+ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.
++ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.<br><br>
 
++ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.<br><br>
 
-+ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.
++ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.<br><br>
 
++ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.<br><br>
 
-+ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.
++ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.<br><br>
 
-
-+ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.
-
-
-+ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.
-
-
-+ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.
-
-
-+ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.
-
-
-+ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.
-
-
-+ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.
-
++ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.<br><br>
 
 + **User (Usuario):** An individual who interacts with the platform, either by subscribing, publishing objects, or engaging in exchanges. Users represent the primary stakeholders and participants within the platform ecosystem, contributing content, generating activity, and shaping the community dynamics. Users may vary in their roles, behaviors, and preferences, ranging from content creators and contributors to consumers and participants. The platform's features, functionalities, and policies are designed to cater to the needs, interests, and expectations of users, fostering a positive and engaging user experience.<br><br>
 
