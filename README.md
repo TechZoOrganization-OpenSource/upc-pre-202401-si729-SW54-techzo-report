@@ -2992,5 +2992,64 @@ Esta sería la forma de cómo desplegamos automáticamente la landing page en Gi
 
 
 
+## 5.2 Landing Page, Services & Applications Implementation
+### 5.2.1 Sprint 1
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+#### 5.2.1.1 Sprint Planning 1
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-03-25</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Criollo de la Cruz, Diego Anderson / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Valle Zuta, Abel Andrés.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 </td>
+    <td>Desarrollar una versión inicial de la landing page que permita atraer visitantes a nuestro sitio web.<br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Mediremos cuántos visitantes llegan a nuestra landing page durante el período del sprint. El objetivo será atraer al menos 10 visitantes nuevos.<br>
+</tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>22 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>16 Story Points</td>
+  </tr>
+</table><br><br>
+
 
 </div>
