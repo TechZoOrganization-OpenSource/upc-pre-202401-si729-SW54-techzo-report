@@ -3052,4 +3052,98 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 </table><br><br>
 
 
+#### 5.2.1.2 Sprint Backlog 1
+Nuestro principal objetivo con este primer sprint es implementar las funciones más  importantes para que los usuarios interesados en CambiaZo puedan conocer qué es, sus principales características, lo que podrá realizar dentro de su página web, ver las reseñas que han dejado otros usuarios, las ONG afiliadas y ver los planes de suscripción y qué comprenden cada uno. Además queremos que puedan informarse acerca de nuestra startup, nuestra misión y nuestros medios de contacto. Para ello hemos tomado en cuenta las características de mayor relevancia para que funcione correctamente la aplicación en el presente sprint.
+
+Enlace: [Sprint Backlog 1 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-1.PNG?raw=true" alt="sprint">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US25</td>
+    <td rowspan="1">Visualización de la Historia de la Startup<br></td>
+    <td>WI-01</td>
+    <td>Sección “¿Quiénes somos?”</td>
+    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
+    <td>1</td>
+    <td>Andrés Valle</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US26</td>
+    <td rowspan="1">Visualizar las características clave de la aplicación
+    </td>
+    <td>WI-02</td>
+    <td>Sección Características Principales
+    </td>
+    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta. </td>
+    <td>2</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US27</td>
+    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td>WI-03</td>
+    <td>Formulario de contacto</td>
+    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
+    <td>5</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US28</td>
+    <td rowspan="1">Acceder a la página principal de CambiaZo</td>
+    <td>WI-04</td>
+    <td>Conectar Landing Page con la Web</td>
+    <td>Implementación de botones que sirvan para redireccionar a los usuarios de la Landing Page a la Web de CambiaZo.</td>
+    <td>2</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US29</td>
+    <td rowspan="1">Ver los planes y precios</td>
+    <td>WI-05</td>
+    <td>Sección de planes y precios</td>
+    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
+    <td>3</td>
+    <td>Diego Criollo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US30</td>
+    <td rowspan="1">Navegación en la Landing Page</td>
+    <td>WI-06</td>
+    <td>Barra de Navegación</td>
+    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
+    <td>3</td>
+    <td>Andres Valle</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 </div>
