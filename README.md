@@ -2942,6 +2942,53 @@ private int sum(int num1, int num2)
 }
 ```
 
+### 5.1.4 Software Deployment Configuration
+
+En esta sección mostraremos los pasos que hemos realizado para poder desplegar cada uno de nuestros proyectos.
+
+**Landing Page**
+
+Para desplegar nuestro landing page hemos optado por usar Github Pages, el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+**1.  Ingresamos al repositorio de nuestra landing page**
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Landing/paso1.jpeg?raw=true" alt="landing repo">
+</div>
+
+<br>
+
+**2.  Nos dirigimos al apartado de settings**
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Landing/paso2.jpeg?raw=true" alt="landing repo">
+</div>
+
+<br>
+
+**3.  Vamos a la sección de Github Pages**
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Landing/paso3.jpeg?raw=true" alt="landing repo">
+</div>
+
+<br>
+
+**4.  Debemos seleccionar la rama de github-pages en el apartado de source.**
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Landing/paso4.jpeg?raw=true" alt="landing repo">
+</div>
+
+<br>
+
+**5.  Finalmente estaría todo listo.**
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Deployment-Landing/paso5.jpeg?raw=true" alt="landing repo">
+</div><br>
+
+Esta sería la forma de cómo desplegamos automáticamente la landing page en GitHub Pages. Con cada commit a la rama develop, se configuró GitHub Pages para que se despliegue desde la rama “main”. Luego, se creó un flujo de trabajo de GitHub Actions que se active con cada commit a develop, compile los archivos estáticos de la landing page y los suba a la misma rama develop, lo que provocará que GitHub Pages detecte los cambios y actualice la landing page desplegada con los nuevos archivos subidos cuando todo el equipo apruebe los cambios.<br><br>
 
 
 
