@@ -94,8 +94,44 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
     En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de una ruleta. 
 
     Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
-    
 
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/Insight1-open.png?raw=true"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/Insight2-open.png?raw=true"></div><br><br>
+
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+
+        + **Ian Santisteban**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/ian-commits.png?raw=true" >
+            </div><br>
+
+        + **Andres Valle**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/andres-commits.png?raw=true">
+            </div><br>
+
+        + **Joseph Huamani**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/joseph-commits.png?raw=true">
+            </div><br>
+        + **Mathias Mendoza**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/mathias-commits.png?raw=true">
+            </div><br>
+        + **Diego Criollo**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/diego-commits.png?raw=true">
+            </div><br><br>
 
 # Contenido
 
