@@ -401,7 +401,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
     <tr>
         <td valign="top" >
             <div align="center"> <br><b>Problema de negocios</b> </div><br>
-            <p>El mayor factor de todo esto es la falta de accesibilidad y sencillez a la hora de buscar la forma de intercambiar bienes.<br><br>¿Cómo podemos crear una forma sencilla de encontrar personas que</p><br>
+            <p>El mayor factor de todo esto es la falta de accesibilidad y sencillez a la hora de buscar la forma de intercambiar bienes.<br><br>¿Cómo podemos crear una forma sencilla de encontrar personas que deseen intercambiar bienes?</p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Ideas de las soluciones</b> </div><br>
