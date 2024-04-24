@@ -2476,7 +2476,7 @@ https://structurizr.com/
 Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.
 
   + **GitHub:**<br> Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br>
-https://github.com/TechZo-Organization  para open otro link
+https://github.com/TechZo-Organization
 
 
   + **Visual Studio Code:**<br> Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea más eficiente.<br>
