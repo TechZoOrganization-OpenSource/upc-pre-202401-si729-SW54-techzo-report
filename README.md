@@ -1182,7 +1182,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Sebastian-Valdivia.png?raw=true" alt="Entrevista Sebastian Valdivia"></div></td>
   </tr>
   <tr>
     <td>Link</td>
