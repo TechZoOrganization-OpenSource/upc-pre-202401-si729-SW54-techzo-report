@@ -1135,6 +1135,71 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table><br>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Sebastian Jorge</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valdivia Peceros</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>18 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Alentar a más personas a que se unan solidariamente con campañas de apoyo.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>En resumen, que no tenga alguna evidencia de que hacen con los productos que dona.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Iphone, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>33:53 min - 46:08 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Jorge Valdivia pudimos conocer un poco más sobre su experiencia realizando donaciones y/o programas de voluntariado, en la cuál nos explica a detalle que en las últimas ocasiones ha tenido ciertas dificultades para realizar donaciones. Explicó que siempre se reunía con un grupo de amigos en fechas de festividad para personalmente ir a zonas de escasos recursos a realizar donaciones de víveres y/o juguetes, pero que su principal dificultad es que a veces no conocía de forma certera ciertas campañas de donación y a veces era muy difícil para él y sus amigos, ponerse de acuerdo para realizar las donaciones. Es por ello, que Jorge nos habla que estaría interesado en algún aplicativo web que le permita facilitar este proceso de donaciones, que le brinde información verídica y que le de seguridad sobre a dónde va a parar las donaciones que él pueda llegar a realizar.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
 ### 2.2.3 Análisis de entrevistas
 
 En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
