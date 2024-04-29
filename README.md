@@ -882,35 +882,35 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Marcela Moraima</td>
+    <td>Saul David</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Perinango Castro</td>
+    <td>Diaz Suarez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>18 años</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Ate</td>
+    <td>Surquillo</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
+    <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Relizar intercambios seguros</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>No obtener lo que busca al realizar intercambios a través de Facebook.</td>
+    <td>Mala experiencia realizando intercambios</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>iPhone, Laptop Windows</td>
+    <td>Computadora Windows, Laptop Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -918,7 +918,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Marcela-Moraima.PNG?raw=true" alt="Entrevista Marcela Perinango"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Saul-Diaz.png?raw=true" alt="Entrevista Saul Diaz"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -930,11 +930,83 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>En la entrevista con Marcela, pudimos conocer un poco más sobre su experiencia acerca de los intercambios, de los inconvenientes que ha tenido al no tener una plataforma como tal para poder realizarlos, ya que según su experiencia solo ha podido intercambiar objetos mediante grupos de WhatsApp o Facebook y que no fue una gran experiencia debido a que la plataforma no era la indicada para ello. Además de ello, profundizó más en el tema sobre las características que le gustaría tener si es que hubiera una plataforma sólida para poder realizar intercambios con otras personas. Una de las características que más resaltó, fue el hecho de incluir alguna garantía a los usuarios, ya que según lo que menciona, pueden haber casos en donde les entreguen productos defectuosos y los hagan pasar como totalmente funcionales y que resulte en una pérdida y frustración para el usuario, en vez de sentirse conforme con el intercambio. Para finalizar, nos habló un poco sobre su perspectiva de sí es que realmente aquí en Lima se está ampliando la cultura por un desarrollo sostenible, comentó que lamentablemente el Perú y sobre todo la capital, tiene un estilo de vida que está muy arraigada al consumismo y al desechar las cosas sin darle la oportunidad de darle utilidad a alguien que tal vez sí lo necesite
+    <td>Durante la entrevista, Saul comparte su experiencia personal en el ámbito de los intercambios, detallando los contratiempos y desafíos que ha enfrentado al no contar con una plataforma específica para este fin. Saul señala que en sus intentos previos de realizar intercambios, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos, así como con la entrega de los mismos, lo cual ha generado incertidumbre y preocupación en cuanto a la fiabilidad de los usuarios involucrados, la puntualidad en los encuentros acordados y la calidad de los artículos intercambiados. Para abordar estas inquietudes, Saul destaca la necesidad de una aplicación que ofrezca diversas funciones y características, tales como un sistema de calificación para evaluar la reputación de los usuarios, comentarios de otros usuarios que hayan realizado intercambios previos, un riguroso proceso de verificación de identidad de los participantes, y una sólida política de privacidad y seguridad de datos. Asimismo, Saul enfatiza la importancia de contar con una comunidad activa dentro de la plataforma, la cual permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos ofrecidos antes de concretar cualquier intercambio.
 </td>
   </tr>
 </tbody>
 </table><br>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jorge Manuel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Pacheco Huanca</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Obtener objetos deseados de manera más sencilla</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Jorge Pacheco, logramos conocer acerca de su experiencia al querer realizar intercambios, los cuales realiza por grupos de Facebook o con amigos pero no siempre logra intercambiar u obtener los objetos que desea o en la calidad que los espera. Además, indicó que le gustaría tener la opción de tener una aplicación como CambiaZo para realizar intercambios, ya que considera que sería una forma más sencilla de realizar intercambios. También agregó que le gustaría que en la aplicación se implemente una opción que muestre los valores de los objetos para poder realizar un intercambio justo, un chat entre usuarios, y reseñas de los usuarios que han realizado intercambios. Comentó adicionalmente que los miedos que tiene al usar este tipo de aplicaciones o realizar intercambios, es que le entreguen algún producto el cuál no era el que se esperaba o en mal estado, y que desea que se mantenga con privacidad los datos personales de cada usuario.<br>Finalmente indicó que sí considera que en Lima se puede contribuir con el desarrollo de una comunidad más sostenible al reutilizar las cosas, siendo honestos y justos.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
 
 
 **Segmento Donadores**<br>
