@@ -1263,7 +1263,136 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </td>
   </tr>
 </tbody>
-</table><br>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Angélica Pilar Leonor</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Aguirre Sánchez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Ayudar a personas de escasos recursos económicos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre el destino de las donaciones</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Angelica Aguirre"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>28:52 min - 33:53 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Angélica Aguirre, logramos conocer más acerca de ella y sobre su experiencia realizando donaciones en la iglesia a la que asiste y a través de organizaciones sin fines de lucro. Angélica considera que los objetos más adecuados y factibles para donar son prendas de vestir y alimentos no perecibles. Además nos menciona que si nuestra aplicación llega a hacerse popular en el país, las donaciones que se generan podrían aumentar. También nos comparte que le gustaría que se pueda rastrear la donación realizada y que al momento que se entregue la donación se tome una foto que verifique que la donación ha llegado a su destino, que haya un seguro en caso de pérdida de la donación, que haya un apartado en el que pueda ver la cantidad de veces que ha realizado donaciones y que presente una interfaz amigable y fácil de usar. Angélica menciona que inicialmente para ver si es una aplicación confiable y efectiva, se guiaría de los comentarios y reseñas acerca de CambiaZo y su puntaje en la App Store. Adicionalmente, indica que a comparación de realizar donaciones por los medios tradicionales, al usar CambiaZo, espera tener una fotografía final de la persona con la donación. Finalmente, Angélica menciona que nuestra aplicación sería ideal para que más personas puedan donar y así aumentar el número de donaciones que se realiza en Lima.
+</td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alexandra</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Suarez Chavez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Micrófono del celular, le entrevista fue realizada de forma presencial</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Ayudar a las personas más necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>No saber qué necesitan las ONG’s para realizar su donación</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Celular Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Ninguno</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Alexandra Suarez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>33:54 min - 38:46 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la presente entrevista con Alexandra Suarez logramos conocer más acerca de ella y de su experiencia realizando donaciones a través de ONG’s, a las que les ha donado zapatos, ropa o comida, dependiendo del caso de donación que realizó. Nos comenta que hasta el momento no ha tenido ningún problema al realizar donaciones a través de ONG’s y se siente feliz de ayudar siempre que puede. Menciona que al utilizar por primera vez CambiaZo, le preocuparía la facilidad de usar la aplicación. También nos indica que le gustaría que en la aplicación, sea sencilla de usar, se indiquen los objetos que se pueden donar y cuáles no son tan recomendados de donar para cada organización, además de incluir pruebas como videos o fotos de las donaciones entregadas para confirmar que se ha realizado la donación. Finalmente añade que considera que al usar CambiaZo es posible aumentar la cantidad de donaciones que se realizan, ya que al ser una aplicación puede llegar a más personas utilizando las redes sociales.
+</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
 
 ### 2.2.3 Análisis de entrevistas
