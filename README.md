@@ -786,6 +786,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Google Chrome</td>
   </tr>
   <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+  <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jorge-Pacheco.PNG?raw=true" alt="Entrevista Jorge Pacheco"></div></td>
   </tr>
@@ -851,6 +855,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Google Chrome, Firefox</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
     <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Edu-Gutierrez.PNG?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
@@ -915,6 +923,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 	<tr>
     <td>Browsers</td>
     <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo de la Cruz</td>
   </tr>
     <tr>
     <td>Evidencia</td>
@@ -982,6 +994,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Google Chrome</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
     <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Saul-Diaz.png?raw=true" alt="Entrevista Saul Diaz"></div></td>
@@ -1046,6 +1062,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 	<tr>
     <td>Browsers</td>
     <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo de la Cruz</td>
   </tr>
    <tr>
     <td>Evidencia</td>
@@ -1114,6 +1134,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Firefox</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
     <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Jeremy-Quispe.PNG?raw=true" alt="Entrevista Jeremy Quispe"></div></td>
@@ -1180,6 +1204,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Google Chrome</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
    <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
@@ -1245,6 +1273,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Firefox</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
    <tr>
     <td>Evidencia</td>
     <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
@@ -1309,9 +1341,13 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Google Chrome</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Angelica Aguirre"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Angelica-Aguirre.PNG?raw=true" alt="Entrevista Angelica Aguirre"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1373,9 +1409,13 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Browsers</td>
     <td>Ninguno</td>
   </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Alexandra Suarez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Alexandra-Suarez.PNG?raw=true" alt="Entrevista Alexandra Suarez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
