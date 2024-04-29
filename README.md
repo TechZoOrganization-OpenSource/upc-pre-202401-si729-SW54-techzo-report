@@ -948,82 +948,12 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table><br>
 
-
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Saul David</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Diaz Suarez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>21 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Surquillo</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Mala experiencia realizando intercambios</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Computadora Windows, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Saul-Diaz.png?raw=true" alt="Entrevista Saul Diaz"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>9:56 min - 14:50 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Saul comparte su experiencia personal en el ámbito de los intercambios, detallando los contratiempos y desafíos que ha enfrentado al no contar con una plataforma específica para este fin. Saul señala que en sus intentos previos de realizar intercambios, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos, así como con la entrega de los mismos, lo cual ha generado incertidumbre y preocupación en cuanto a la fiabilidad de los usuarios involucrados, la puntualidad en los encuentros acordados y la calidad de los artículos intercambiados. Para abordar estas inquietudes, Saul destaca la necesidad de una aplicación que ofrezca diversas funciones y características, tales como un sistema de calificación para evaluar la reputación de los usuarios, comentarios de otros usuarios que hayan realizado intercambios previos, un riguroso proceso de verificación de identidad de los participantes, y una sólida política de privacidad y seguridad de datos. Asimismo, Saul enfatiza la importancia de contar con una comunidad activa dentro de la plataforma, la cual permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos ofrecidos antes de concretar cualquier intercambio.
-</td>
-  </tr>
-</tbody>
-</table><br>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1077,11 +1007,80 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>33:53 min - 46:08 min </td>
+    <td>14:51 min - 19:56 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>En la entrevista con Jorge Valdivia pudimos conocer un poco más de sus motivaciones y del cómo es que le gusta intercambiar objetos. Además de ello, nos comenta de sus experiencias pasadas en los intercambios que ha tenido en otras aplicaciones y/o medios. Respecto a esto último, dijo que sus publicaciones no recibían la relevancia necesaria ya que nadie las veía, es por ello que le causaba mucha frustración. Por último, nos comenta la importancia que le daría que haya algún método de poder garantizar la fiabilidad de los productos que se intercambien, algún tipo de garantía que respalde a los usuarios.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Saul David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Diaz Suarez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surquillo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Mala experiencia realizando intercambios</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Interviews/entrevista-Saul-Diaz.png?raw=true" alt="Entrevista Saul Diaz"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>19:57 min - 25:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Saul comparte su experiencia personal en el ámbito de los intercambios, detallando los contratiempos y desafíos que ha enfrentado al no contar con una plataforma específica para este fin. Saul señala que en sus intentos previos de realizar intercambios, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos, así como con la entrega de los mismos, lo cual ha generado incertidumbre y preocupación en cuanto a la fiabilidad de los usuarios involucrados, la puntualidad en los encuentros acordados y la calidad de los artículos intercambiados. Para abordar estas inquietudes, Saul destaca la necesidad de una aplicación que ofrezca diversas funciones y características, tales como un sistema de calificación para evaluar la reputación de los usuarios, comentarios de otros usuarios que hayan realizado intercambios previos, un riguroso proceso de verificación de identidad de los participantes, y una sólida política de privacidad y seguridad de datos. Asimismo, Saul enfatiza la importancia de contar con una comunidad activa dentro de la plataforma, la cual permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos ofrecidos antes de concretar cualquier intercambio.
 </td>
   </tr>
 </tbody>
@@ -1148,7 +1147,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>14:51 min - 19:47 min </td>
+    <td>25:01 min - 29:57 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1218,7 +1217,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>19:48 min - 23:35 min </td>
+    <td>29:58 min - 33:46 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1287,7 +1286,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>23:36 min - 28:51 min </td>
+    <td>33:47 min - 39:01 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1355,7 +1354,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>28:52 min - 33:53 min </td>
+    <td>39:02 min - 44:01 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1423,7 +1422,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>33:54 min - 38:46 min</td>
+    <td>44:02 min - 48:54 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
