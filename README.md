@@ -450,10 +450,10 @@ Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los p
     <br><br>
     Y según un estudio realizado por la Universidad Nacional del Altiplano, en Puno, los motivos por los que realizan trueques mayormente es por la falta de dinero.
     <br><br>
+    </div>
     <div align="center">	
-    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos 2">
     <br><br>
-
     </div>
 
     + **Características geográficas:** Personas que residen en Perú.<br><br>
@@ -3999,6 +3999,11 @@ En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importa
 # Bibliografía
   <br>
 
++ Brown, S. (s.f.). *The C4 model for visualising software architecture*. C4model. https://c4model.com/ <br><br>
+
++ CPI Research. (2022). *Perú: Población 2022*. CPI.
+https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
+
 + Domantas, G. (2023). *What is CSS and How Does It Work?*. Hostinger.
 https://www.hostinger.com/tutorials/what-is-css <br><br>
 
@@ -4013,9 +4018,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 + O'Grady, B. (s.f.). *JavaScript Demystified: Why You Should Learn This Essential Language*. code institute.
 https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-it/ <br><br>
 
-+ TestQuality Team. (2022). *What is Gherkin & How Do You Write Gherkin Tests?*. TestQuality Blog. https://www.testquality.com/blog/tpost/dndmk5a141-what-is-gherkin-amp-how-do-you-write-ghe#:~:text=What%20is%20Gherkin%3F,adheres%20to%20a%20strict%20syntax.<br><br>
++ TestQuality Team. (2022). *What is Gherkin & How Do You Write Gherkin Tests?*. TestQuality Blog. https://www.testquality.com/blog/tpost/dndmk5a141-what-is-gherkin-amp-how-do-you-write-ghe#:~:text=What%20is%20Gherkin%3F,adheres%20to%20a%20strict%20syntax.
 
-+ Brown, S. (s.f.). *The C4 model for visualising software architecture*. C4model. https://c4model.com/
 </div>
 
 <br><br>
