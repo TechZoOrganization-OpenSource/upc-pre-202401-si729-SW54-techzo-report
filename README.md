@@ -3695,6 +3695,65 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
     En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
 
+### 5.2.2 Sprint 2
+Ahora en la presente sección, documentaremos y explicaremos el progreso del Sprint 2 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+#### 5.2.2.1 Sprint Planning 2
+A continuación se evidencia la distribución, organización y planeamiento del grupo para cumplir satisfactoriamente el Sprint 2.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-04-15</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>2:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual a través de Google Meet</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Criollo de la Cruz, Diego Anderson / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Valle Zuta, Abel Andrés.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Review Summary</td>
+    <td>En el Sprint anterior, logramos desplegar nuestra primera versión de la landing page, en la cual conseguimos implementar una toolbar, las secciones que habíamos planeado tener en nuestra landing page, incluyendo un formulario de contacto, y nuestro footer, todos los miembros del equipo consideran que se realizó una entrega satisfactoria, debido a que se cumplieron con todas las tareas y objetivos. Como Product Owner, considero que el feedback correspondiente es que el trabajo fue realizado correctamente, tiene un buen diseño visual y sigamos avanzando así como grupo.</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Retrospective Summary</td>
+    <td>Como equipo consideramos que acertamos al distribuir las tareas equitativamente, y al tener una comunicación constante durante el desarrollo del proyecto nos ayudó a finalizarlo sin presentar errores. Y como puntos a mejorar consideramos que podemos acabar el proyecto más rápido si evitamos las distracciones y la procrastinación.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2 </td>
+    <td>Desplegar una primera versión de la Aplicación Web<br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento del presente sprint, vamos a utilizar la siguiente métrica: Evaluaremos que el proyecto compile y se pueda acceder a las pantallas establecidas para este sprint. El objetivo será implementar las pestañas principales de nuestra aplicación web.<br>
+</tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>25 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25 Story Points</td>
+  </tr>
+</table><br><br>
+
+
 
 </div>
 
