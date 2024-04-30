@@ -3845,6 +3845,112 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-2.PNG?raw=true" alt="sprint">
 </div><br><br>
 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US22</td>
+    <td rowspan="1">Visualizar el perfil de las ONG’S registradas<br></td>
+    <td>WI-01</td>
+    <td>Sección “Sección ONG’s”</td>
+    <td>Implementación de la sección “ONG’s”.</td>
+    <td>3</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US23</td>
+    <td rowspan="1"> Acceder al centro de soporte para resolver cualquier problema técnico que se presente
+    </td>
+    <td>WI-02</td>
+    <td> Sección “Centro de Soporte”
+    </td>
+    <td> Desarrollo de la sección donde uno puede solicitar ponerse en contacto con el centro de soporte ante algún problema técnico. </td>
+    <td>3</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US24</td>
+    <td rowspan="1"> Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios </td>
+    <td>WI-03</td>
+    <td> Sección “Preguntas frecuentes y comentarios” </td>
+    <td> Desarrollo de la sección en la que se puede visualizar las preguntas que frecuentemente hacen los usuarios de CambiaZo y los comentarios que dejan de la aplicación web. </td>
+    <td>3</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1"> TS07 </td>
+    <td rowspan="1"> Create API ONGs </td>
+    <td>WI-04</td>
+    <td> Crear la API que contiene información de las ONG’s </td>
+    <td> Crear una API, en la cual se van a ingresar datos de varias ONG’s que se encuentran en el país, de tal modo que en esta API se tengan todos los datos almacenados de la ONG </td>
+    <td>5</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS09</td>
+    <td rowspan="1"> Get ONGs </td>
+    <td>WI-05</td>
+    <td> Obtener los datos de la API de ONG’s </td>
+    <td> Se crea una función tipo GET para obtener todos los valores almacenados en la API ONG’s. </td>
+    <td>3</td>
+    <td>Andrés Valle</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS10</td>
+    <td rowspan="1"> Create API Subscription</td>
+    <td>WI-06</td>
+    <td> Crear la API que contiene información de los planes de suscripción </td>
+    <td> Crear una API, en la cual se van a ingresar los planes de suscripción de CambiaZo, de tal modo que en esta API se tengan todos los datos almacenados de los planes.</td>
+    <td>5</td>
+    <td>Diego Criollo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS12</td>
+    <td rowspan="1">Get Subscription</td>
+    <td>WI-07</td>
+    <td>Obtener los datos de la API de planes de suscripción</td>
+    <td>Se crea una función tipo GET para obtener todos los valores almacenados en la API de planes de suscripción.</td>
+    <td>3</td>
+    <td>Andrés Valle</td>
+    <td>Done</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 <br><br>
