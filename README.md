@@ -2709,7 +2709,7 @@ En esta sección emplearemos el modelo C4 para crear la estructura de software, 
 
 ### 4.6.1. Software Architecture Context Diagram
 
-Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios y administradores de la aplicación, y los sistemas externos son Gmail, la Reniec, un Servicio de Pagos, y las ONG’s.
+Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos usuarios donadores, intercambiadores y administradores de la aplicación, y los sistemas externos son Gmail, el Sistema de Inicio de Sesión de Google, un Servicio de Pagos, y las ONG’s.
 
 <div align="center">
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Software-Architecture/software-architecture-context-diagram.png?raw=true" width="600px" alt="diagram context">
