@@ -3968,6 +3968,8 @@ Durante la etapa de Elicitación y Análisis de Requisitos, exploramos a fondo e
 
 En la fase de Especificación de Requisitos, la creación de historias de usuario y la planificación del backlog del producto nos permitieron organizar y priorizar eficazmente las características y funcionalidades. Esto nos proporcionó una guía clara para el desarrollo posterior del producto y nos ayudó a mantenernos enfocados en los objetivos clave del proyecto.
 
+En el diseño del producto, la cuidadosa planificación de la arquitectura de la información y la interfaz de usuario garantizó una experiencia de usuario intuitiva y atractiva. El uso de herramientas como Figma y LucidChart nos permitió crear prototipos y diseños visuales que sirvieron como referencia durante el desarrollo y la validación del producto.
+
 Durante la corrección de la TB1, realizamos ajustes significativos, incluyendo la refinación de historias de usuario, la actualización del diagrama C4 y el diseño responsive de la aplicación web en Figma. Estos cambios mejoraron la claridad y la coherencia de nuestro enfoque, asegurando una comprensión más precisa de los requisitos del producto y una experiencia de usuario más fluida.
 
 Además, implementamos mejoras en la landing page, optimizando el diseño del formulario y agregando funcionalidades para mejorar la interacción del usuario. Además, realizamos dos entrevistas adicionales para cada segmento de usuarios, lo que nos proporcionó información valiosa para ajustar nuestro enfoque y satisfacer mejor sus necesidades.
