@@ -2582,9 +2582,16 @@ Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-4
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
+## <b>Prototype versión Desktop:</b>
 <div align="center">
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Prototype/prototype-app-0.PNG?raw=true"  alt="prototype">
 </div><br><br>
+
+## <b>Prototype versión Mobile:</b>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Prototype/mobile-prototype.PNG?raw=true"  alt="prototype-mobile">
+</div><br><br>
+
 
 Enlace: [Prototype de la App Web en Figma](https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=662-6234&t=6tWRPswBDZfqgYDM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=662%3A4809&show-proto-sidebar=1)<br><br>
 
