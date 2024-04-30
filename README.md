@@ -3836,7 +3836,14 @@ A continuación se evidencia la distribución, organización y planeamiento del 
   </tr>
 </table><br><br>
 
+#### 5.2.2.2 Sprint Backlog 2
+Nuestro objetivo principal con este sprint 2 es desplegar una primera versión de la aplicación web de CambiaZo. Además, queremos crear API’s Fakes y obtener los datos de estas. Para lograr este objetivo, se han tomado en cuenta las características más importantes para que la primera versión de la aplicación web funcione correctamente en este sprint.
 
+Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-2.PNG?raw=true" alt="sprint">
+</div><br><br>
 
 </div>
 
