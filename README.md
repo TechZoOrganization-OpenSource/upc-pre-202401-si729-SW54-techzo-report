@@ -2220,10 +2220,14 @@ Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayu
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe/wireframe-0.png?raw=true"  alt="wireframes-appweb">
 </div><br><br>
 
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile.PNG?raw=true"  alt="wireframes-mobile">
+</div><br><br>
+
 Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
 
-A continuación, mostramos los wireframes de nuestra aplicación web:
-
+A continuación, mostramos los wireframes de nuestra aplicación web:<br><br>
+## <b>Wireframes versión Desktop:</b>
 
 <div align="center">
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe/wireframe-1.png?raw=true"  alt="wireframes-1"><br><br>
@@ -2258,6 +2262,38 @@ La página de membresía presentará los distintos planes de membresía de forma
 </div><br>
 
 El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario.<br><br>
+
+## <b>Wireframes versión Mobile:</b>
+
+<b>Wireframes de Inicio de Sesión y Registro Exitoso </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-2.PNG?raw=true"  alt="wireframes-mobile-1">
+</div><br>
+
+<b>Wireframes de Cambiar Contraseña y Registro</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-1.PNG?raw=true"  alt="wireframes-mobile-2">
+</div><br>
+
+<b>Wireframes de la sección Inicio</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-3.png?raw=true"  alt="wireframes-mobile-3">
+</div><br>
+
+<b>Wireframes de la sección ONGs</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-4.png?raw=true"  alt="wireframes-mobile-4">
+</div><br>
+
+<b>Wireframes de la sección Membresias </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-5.png?raw=true"  alt="wireframes-mobile-5">
+</div><br>
+
+<b>Wireframes de la sección de Publicar Producto </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-Wireframe-Mobile/wireframe-mobile-6.png?raw=true"  alt="wireframes-mobile-6">
+</div><br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
