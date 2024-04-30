@@ -441,7 +441,21 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Las personas mayores de edad pueden usar “CambiaZo” para deshacerse de los productos que ya no desean tener y adquirir nuevos artículos de su interés.
-    + **Características demográficas:** Personas entre 18 y 45 años de edad que poseen artículos que ya no utilizan ni desean, y están interesados en intercambiarlos por otros que sí les interesen o necesiten.<br>
+    + **Características demográficas:** Personas entre 18 y 55 años de edad que poseen artículos que ya no utilizan ni desean, y están interesados en intercambiarlos por otros que sí les interesen o necesiten.
+    <br>
+    Hemos seleccionado a este rango de edad, ya que según un estudio realizado por CPI Research, en 2022 la población de este rango de edad resultó ser el 53.9% de la población total del país.
+    <br><br>
+    <div align="center">	
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/estadistica-segmentos.PNG?raw=true" alt="Estadistica Segmentos">
+    <br><br>
+    Y según un estudio realizado por la Universidad Nacional del Altiplano, en Puno, los motivos por los que realizan trueques mayormente es por la falta de dinero.
+    <br><br>
+    <div align="center">	
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Stadistics/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos">
+    <br><br>
+
+    </div>
+
     + **Características geográficas:** Personas que residen en Perú.<br><br>
 
 
