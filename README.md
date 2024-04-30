@@ -2399,10 +2399,18 @@ Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya q
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-0.png?raw=true"  alt="mockups-appweb">
 </div><br><br>
 
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile.PNG?raw=true"  alt="mockups-appweb-mobile">
+</div><br><br>
+
+
 Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
 
 
 A continuación, mostramos los mock-ups de nuestra aplicación web.
+
+## <b>Mock-ups versión Desktop:</b>
+
 <div align="center">
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-1.png?raw=true"  alt="mockups-1"><br><br>
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-2.png?raw=true"  alt="mockups-2"><br><br>
@@ -2431,6 +2439,38 @@ Al acceder a la página de membresía, los usuarios son recibidos por un texto d
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp/mock-up-7.png?raw=true"  alt="mockups-7">
 </div><br>
 En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información.<br><br>
+
+## <b>Mock-ups versión Mobile:</b>
+
+<b>Mock-ups de Inicio de Sesión y Registro Exitoso </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-2.PNG?raw=true"  alt="mockups-mobile-1">
+</div><br>
+
+<b>Mock-ups de Cambiar Contraseña y Registro</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-1.PNG?raw=true"  alt="mockups-mobile-2">
+</div><br>
+
+<b>Mock-ups de la sección Inicio</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-3.png?raw=true"  alt="mockups-mobile-3">
+</div><br>
+
+<b>Mock-ups de la sección ONGs</b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-4.png?raw=true"  alt="mockups-mobile-4">
+</div><br>
+
+<b>Mock-ups de la sección Membresias </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-5.png?raw=true"  alt="mockups-mobile-5">
+</div><br>
+
+<b>Mock-ups de la sección de Publicar Producto </b><br>
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Web-Application-MockUp-Mobile/mockup-mobile-6.png?raw=true"  alt="mockups-mobile-6">
+</div><br>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
