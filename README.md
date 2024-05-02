@@ -4459,7 +4459,7 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
  </div>
 
 
-Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/personal/u202219639_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219639%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw54%2Dtechzo%2Dexpo%2Dtp1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E25dc85db%2Ddb61%2D47ba%2D8e70%2Dbf3b5606f9f3)
+Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/EceCty0WfhZDm6fgLqxceKsBzSE84RLqpqMqXp33DYU5XA?e=erGpdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
