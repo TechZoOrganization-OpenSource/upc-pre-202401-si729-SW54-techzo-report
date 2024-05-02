@@ -4110,6 +4110,19 @@ Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/
   </div><br>
 
 
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio "CambiaZo-Frontend", donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 2.
+
+<b>Analíticos de GitHUb</b>
+
+  + Web Application
+          <div align="center">
+        <img src="" alt="contributor-evidence.">
+        </div>
+
+    En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo de la Aplicación Web. Se evidencia que todo el equipo ha participado.
+
 
 
 
