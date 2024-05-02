@@ -3011,6 +3011,19 @@ Repositorio GitHub de los archivos feature: https://github.com/TechZoOrganizatio
     <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Code-Management/acceptance-repositorio.jpeg?raw=true"  alt="repositorio feature">
 </div><br><br>
 
+Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/netlify-deploy.png?raw=true" alt="Aplicación Web">
+</div><br>
+
+Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-repo.PNG?raw=true"  alt="Repositorio aplicación web">
+</div><br>
+
+
 
 ### 5.1.3 Source Code Style Guide & Conventions
 
@@ -3969,7 +3982,7 @@ A continuación se evidencia la distribución, organización y planeamiento del 
 </table><br><br>
 
 #### 5.2.2.2 Sprint Backlog 2
-Nuestro objetivo principal con este sprint 2 es desplegar una primera versión de la aplicación web de CambiaZo. Además, queremos crear API’s Fakes y obtener los datos de estas. Para lograr este objetivo, se han tomado en cuenta las características más importantes para que la primera versión de la aplicación web funcione correctamente en este sprint.
+Nuestro objetivo principal con este sprint 2 es desplegar una primera versión de la aplicación web de CambiaZo. Además, queremos crear API’s y obtener los datos de estas. Para lograr este objetivo, se han tomado en cuenta las características más importantes para que la primera versión de la aplicación web funcione correctamente en este sprint.
 
 Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
 
@@ -4269,19 +4282,27 @@ En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, pe
 
 En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
 
+  <div align="center">
+  <img src="">
+  </div><br>
+  
 Y en el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos se subían a la rama “feature/sprint-2”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
 
-Finalmente configuramos GitHub Pages para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+  <div align="center">
+  <img src="">
+  </div><br>
 
-Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/ 
+Finalmente configuramos Netlify para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+
+Link: https://cambiazo-techzo.netlify.app/
 
   <div align="center">
-  <img src="" alt="github pages">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/netlify-config.png?raw=true" alt="netlify">
   </div><br>
 
   
   <div align="center">
-  <img src="" alt="landing">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/netlify-deploy.png?raw=true" alt="app web">
   </div><br>
 
 
@@ -4365,7 +4386,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 # Anexos
 
 + Landing Page: [Ver Landing Page](https://techzoorganization-opensource.github.io/landing-page-OpenSource/)<br><br>
-+ App Web: [Ver App Web](https://cambiazo-techzo.netlify.app/home)<br><br>
++ App Web: [Ver App Web](https://cambiazo-techzo.netlify.app/)<br><br>
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZoOrganization-OpenSource)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/landing-page-OpenSource)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend)<br><br>
@@ -4383,7 +4404,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 
 
-Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EfemrVI6sklMmFq2I8QUaPcBSw6TXKgSJ5Nwc-Yu2_BztQ?e=abYbaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Needfinding]([ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XjrJOg))
 
 
 ## Exposure video Tb1
@@ -4423,7 +4444,7 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
 ## Development Evidence de la App Web
 
   <div align="center">
-    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/acceptance-test-branches.PNG?raw=true" alt="Video Development Evidence de la App Web">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/dev-web.PNG?raw=true" alt="Video Development Evidence de la App Web">
  </div>
 
  Enlace: [ Video Development Evidence de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EQWZrhRAUa1CmTo7GpevlTEBmQNe8vUgY4Hxer2z8X1P3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rgEUm7)
@@ -4438,7 +4459,7 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
  </div>
 
 
-Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ_-eiOdU3tPgZwwWRPXzS0B12Pe9pFLEdsY1wEfvnJarQ?e=iksdTD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/personal/u202219639_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219639%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw54%2Dtechzo%2Dexpo%2Dtp1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E25dc85db%2Ddb61%2D47ba%2D8e70%2Dbf3b5606f9f3)
 
 
 
