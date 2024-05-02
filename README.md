@@ -4067,6 +4067,48 @@ Luego, al haber realizado avances, decidimos utilizar las funciones colaborativa
 <br><br>
 
 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint 2:
+
+
+
+Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra Aplicación Web y actualizar nuestro repositorio donde tenemos guardados los Acceptance Test con las nuevas User Stories y Technical Stories que abarcamos en este segundo sprint.
+
+  <div align="center">
+  <img src="">
+  </div><br><br>
+  
+  <div align="center">
+  <img src="">
+  </div><br>
+
+En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-branches.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/acceptance-test-branches.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
+
+Y en el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos se subían a la rama “feature/sprint-2”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
+
+Finalmente configuramos GitHub Pages para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+
+Link: https://techzoorganization-opensource.github.io/landing-page-OpenSource/ 
+
+  <div align="center">
+  <img src="" alt="github pages">
+  </div><br>
+
+  
+  <div align="center">
+  <img src="" alt="landing">
+  </div><br>
+
 
 
 
