@@ -3971,9 +3971,66 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 2.
-|*Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)*|
-| - | - | - | - | - | - |
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| - | - | - | - | - | - |
+|<p>HelloNerk</p><p>/Cambiazo-Fronted/src</p>|main|dd5a232|Initial commit||Apr 24, 2024|
+|<p>HelloNerk</p><p>/Cambiazo-Fronted/src</p>|main|cada249|<p>Add: Create angular project</p><p></p>|I created the angular project and install angular materials|Apr 29, 2024|
+|<p></p><p>IanHD04/Cambiazo-Fronted/src</p>|main|9f7b849|chore: Added project folders based on ddd organization||May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|develop|ca58f57|<p></p><p>Feat: Footer Content</p>|Footer content was added, and the images used were also uploaded|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/home|48fcc91|<p></p><p>Feat: First version of the Footer style</p>|<p>A first version of the footer style was made</p><p></p>|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/home|4dba58e|<p>Feat: Second version of the Footer style</p><p></p>|<p>A second version of the footer style was made</p><p></p>|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/home|b4981bf|<p>Feat: Third version of the Footer style</p><p></p>|<p>A third version of the footer style was made</p><p></p>|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/home|8f8b05c|<p>Feat: Responsive Footer Style</p><p></p>|<p>The latest version of the footer style was made applying responsive design</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/home|a1643a5|Feat: Header Content|Header content was added, and the images used were also uploaded|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/home|2982678|<p>Feat: Header Responsive Content</p><p></p>|<p>The content of the Header is adapted to be Responsive</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/home|2982678|<p>Feat: First version of the Header style</p><p></p>|<p>A first version of the header style was made</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/home|081af19|<p>Feat: Second version of the Header style</p><p></p>|<p>A second version of the header style was made</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/home|8961614|<p>Feat: Responsive Header Style</p><p></p>|<p>The latest version of the header style was made applying responsive design</p><p></p>|May 01, 2024|
+|<p></p><p>IanHD04</p><p>/Cambiazo-Fronted/src</p>|feature/home|4e10b91|<p>Feat: Create Environment</p><p></p>|<p>The environment was created and the baseURL was declared</p><p></p>|May 01, 2024|
+|<p></p><p>IanHD04</p><p>/Cambiazo-Fronted/src</p>|feature/home|4bfe599|<p>Feature Home</p><p></p>|<p>Feature Home</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|2684918|Feat: Creation of the Home page|<p>The necessary components, services and models were created</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|6a96b7a|Feat: Home Page Routing|<p>The access path for the home page was created</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|ffec511|<p>Feat: Components to use placed on the Home page</p><p></p>|<p>The components that will be used on the Home page were imported</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|906e382|<p>Feat: Create CategoriesObjects Model</p><p></p>|<p>The model of the Caregoriesobjects class is made</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|0635170|<p>Feat: Create Products Model</p><p></p>|<p>The model of the Products class is made</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|166a1e5|<p>Feat: Product service and search-post-content configuration</p><p></p>|<p>The product service is performed to have the product categories, the search-post-content component was also configured</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|30e39d2|<p>Feat: Added style to search-component-content</p><p></p>|<p>Style was added to the component</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|c13eced|<p>Feat: Responsive Style added to search-component-content</p><p></p>|<p>Added responsive style to the component</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|96ed910|<p>Feat: Product service and feature-posts-content configuration</p><p></p>|<p>Added responsive style to the component</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|cd9bfec|<p>Feat: Added style to feature-posts-content</p><p></p>|<p>Style was added to the component</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|f9a8e91|<p>Feat: Product service and latest-posts-content configuration</p><p></p>|<p>The product service is performed to have the products, the latest-posts-content component was also configured</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|7cd5664|<p>Feat: Added style to latest-posts-content</p><p></p>|<p>Style was added to the component</p><p></p>|May 01, 2024|
+|<p></p><p>123-Mathias</p><p>/Cambiazo-Fronted/src</p>|feature/home|2592fb2|<p>Feat: The Home route was added to the footer</p><p></p>|<p>Home was routed in the footer</p><p></p>|May 01, 2024|
+|<p></p><p>IanHD04</p><p>/Cambiazo-Fronted/src</p>|feature/home|fc99eb9|<p>Feature Home Added</p><p></p>|<p>Feature Home Added</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|51cc1a0|<p>Feat: Creation of the Donations page</p><p></p>|<p>The necessary components, services and models were created</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|d5466e7|<p>Feat: Donations Page Routing</p><p></p>|<p>The access path for the donations page was created</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|d31248b|<p>Feat: Components to use placed on the Donations page</p><p></p>|<p>The components that will be used on the Donations page were imported</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|ec12c93|<p>Feat: Create CategoriesOngs Model</p><p></p>|<p>The model of the Caregoriesongs class is made</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|c7e6d90|<p>Feat: Create Ongs Model</p><p></p>|<p>The model of the Ongs class is made</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|b9c4dd0|<p>Feat: Ongs service and search-ongs configuration</p><p></p>|<p>The Ongs service is performed to have the ongs,the search-ongs component was also configured</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|a2d13ff|Feat: Added style to search-ongs|<p>Style was added to the component</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|41b44ba|<p>Feat: Responsive Style added to search-ongs</p><p></p>|<p>Added responsive style to the component</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|29b28d7|<p>Feat: Ongs service and filter-ongs configuration</p><p></p>|<p>The Ongs service is performed to have the categories-ongs,the filters-ongs component was also configured</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|eeed360|<p>Feat: Added style to filter-ongs</p><p></p>|<p>Style was added to the component</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|497cb3f|Feat: Responsive Style added to filtersongs|<p>Added responsive style to the component</p><p></p>|May 01, 2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/donations|46af3f7|<p>Feat: The Donations route was added to the footer and header</p><p></p>|<p>Donations was routed in the footer and header</p><p></p>|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/donations|a03e902|<p>Feature Donations Added</p><p></p>|Feature Donations Added|May 01, 2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/memberships|fba1501|<p>Feat: Creation of the Memberships page</p><p></p>|<p>The necessary components, services and models were created</p><p></p>|May 01, 2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/memberships|8ea30b8|<p>Feat: Memberships Page Routing</p><p></p>|<p>The access path for the memberships page was created</p><p></p>|May 01, 2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/memberships|4007925|<p>Feat: Create Memberships Model</p><p></p>|<p>The model of the memberships class is made</p><p></p>|May 01, 2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/memberships|326927e|<p>Feat: Memberships service and memberships configuration</p><p></p>|<p>The model of the memberships class is made</p><p></p>|May 01, 2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/login-register|a3eef7e|<p>Feat: Creation of the Login page</p><p></p>|<p>The necessary components were created</p><p></p>|May 01, 2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/login-register|a3eef7e|<p>Feat: Creation of the Login page</p><p></p>|<p>The necessary components were created</p><p></p>|May 01, 2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/login-register|a614a4a|<p>Feat: Footer Content 2</p><p></p>|<p>Footer content 2 was added</p><p></p>|May 01, 2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/login-register|857e7cb|<p>Feat: Footer 2 style</p><p></p>|The footer 2 style was made|May 01, 2024|
+|IanHD04/Cambiazo-Fronted/src|feature/login-register|7407f7b|<p>LogIn and Register Feature Added</p><p></p>|<p>LogIn and Register Feature Added</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|1c89325|<p>Feat: Creation of the Contact page</p><p></p>|<p>The necessary components were created</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|883b3fd|<p>Feat: Contact Page Routing</p><p></p>|<p>The access path for the Contact page was created</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|ee5a588|<p>Feat: Contact first part added</p><p></p>|<p>Added the first part of Contact</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|07a230c|<p>Feat: Added remaining Contact part</p><p></p>|<p>Finished adding the part of the Contact</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|b86f4c1|<p>Feat: Added style to Contact page</p><p></p>|<p>Style was added to the page</p><p></p>|May 01, 2024|
+|diegooo01/Cambiazo-Fronted/src|feature/contact|7069658|<p>Feat: Responsive Style added to Contact page</p><p></p>|<p>Added responsive style to the page</p><p></p>|May 01, 2024|
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
