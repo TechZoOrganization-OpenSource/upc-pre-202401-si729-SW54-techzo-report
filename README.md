@@ -41,36 +41,51 @@
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
-|1\.0|07/04/2024|Ian Haziel Donato Santisteban Palomino y Joseph Alexis Huamani Mandujano|Se agregó la estructura inicial del proyecto.|
-|1\.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se inició el Capítulo I: Introducción y se agregó contenido relacionado con Startup Profile|
-|1\.1.1|09/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Solution Profile|
-|1\.1.2|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
-|1\.1.3|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
-|1\.2|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se inició el Capítulo II: Requirements Elicitation & Analysis y se agregó contenido relacionado a los Competidores|
-|1\.2.1|09/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con las Entrevistas|
-|1\.2.3|09/04/2024 |Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
-|1\.2.4|10/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
-|1\.2.5|10/04/2024|Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
-|1\.2.6|10/04/2024|Ian Haziel Donato Santisteban Palomino, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con el As-is Scenario Mapping y el Ubiquitous Language.|
-|1\.3|10/04/2024|Abel Andrés Valle Zuta|Se inició el Capítulo III: Requirements Specification y se agregó contenido relacionado al To-be|
-|1\.3.1|10/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Diego Anderson Criollo de la Cruz |Se agregaron los Epics, User Stories y Technical Stories|
-|1\.3.2|10/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Impact Mapping|
-|1\.3.3|10/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion |Se agregó contenido relacionado con el Product Backlog|
-|1\.4|10/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se inició el Capítulo IV: Product Design y se agregó contenido relacionado al Style Guideline|
-|1\.4.1|11/04/2024|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con la Information Architecture|
-|1\.4.2|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Landing Page UI Design|
-|1\.4.3|11/04/2024|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Domain-Driven Software Architecture|
-|1\.4.4|11/04/2024|Ian Haziel Donato Santisteban Palomino y Mathias Andrés Mendoza Carrion|Se agregó contenido relacionado con el Class Diagrams y Database Design|
-|1\.5|11/04/2024|<p>Diego Anderson Criollo de la Cruz |Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management|
-|1\.5.1|11/04/2024|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al Sprint Backlog 1|
-|1\.6|13/04/2024|Ian Haziel Donato Santisteban Palomino|Se corrigió el formato de algunas secciones ya terminadas|
-|1\.7|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireframes|
-|1\.7.1|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Mockup|
-|1\.7.2|13/04/2024|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Prototype|
-|1\.7.3|13/04/2024|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireflow Flow|
-|1\.7.4|13/04/2024|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al User Flow|
-|1\.8|13/04/2024|Joseph Alexis Huamani Mandujano|Se agregaron las conclusiones y la bibliografía|
-|1\.8.1|13/04/2024|Ian Haziel Donato Santisteban Palomino|Se agregó el Student Outcome y la Tabla de Contenido|
+|1\.0|07/04/24|Ian Haziel Donato Santisteban Palomino y Joseph Alexis Huamani Mandujano|Se agregó la estructura inicial del proyecto.|
+|1\.1|09/04/24|Diego Anderson Criollo de la Cruz|Se inició el Capítulo I: Introducción y se agregó contenido relacionado con Startup Profile|
+|1\.1.1|09/04/24|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Solution Profile|
+|1\.1.2|09/04/24|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
+|1\.1.3|09/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
+|1\.2|09/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se inició el Capítulo II: Requirements Elicitation & Analysis y se agregó contenido relacionado a los Competidores|
+|1\.2.1|09/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con las Entrevistas|
+|1\.2.3|<p>09/04/24</p><p> </p>|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
+|1\.2.4|10/04/24|Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
+|1\.2.5|10/04/24|Abel Andrés Valle Zuta, Joseph Alexis Huamani Mandujano y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
+|1\.2.6|10/04/24|Ian Haziel Donato Santisteban Palomino, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con el As-is Scenario Mapping y el Ubiquitous Language.|
+|1\.3|10/04/24|Abel Andrés Valle Zuta|Se inició el Capítulo III: Requirements Specification y se agregó contenido relacionado al To-be|
+|1\.3.1|10/04/24|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Diego Anderson Criollo de la Cruz</p><p> </p>|Se agregaron los Epics, User Stories y Technical Stories|
+|1\.3.2|10/04/24|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado con Impact Mapping|
+|1\.3.3|10/04/24|<p>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion</p><p> </p>|Se agregó contenido relacionado con el Product Backlog|
+|1\.4|10/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se inició el Capítulo IV: Product Design y se agregó contenido relacionado al Style Guideline|
+|1\.4.1|11/04/24|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion y Abel Andrés Valle Zuta|Se agregó contenido relacionado con la Information Architecture|
+|1\.4.2|11/04/24|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Landing Page UI Design|
+|1\.4.3|11/04/24|Ian Haziel Donato Santisteban Palomino y Abel Andrés Valle Zuta|Se agregó contenido relacionado con el Domain-Driven Software Architecture|
+|1\.4.4|11/04/24|Ian Haziel Donato Santisteban Palomino y Mathias Andrés Mendoza Carrion|Se agregó contenido relacionado con el Class Diagrams y Database Design|
+|1\.5|11/04/24|<p>Diego Anderson Criollo de la Cruz</p><p> </p>|Se inicio el Capítulo V: Product Implementation, Validation & Deployment y se agregó contenido relacionado al Software Configuration Management|
+|1\.5.1|11/04/24|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al Sprint Backlog 1|
+|1\.6|12/04/24|Ian Haziel Donato Santisteban Palomino|Se corrigió el formato de algunas secciones ya terminadas|
+|1\.7|12/04/24|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireframes|
+|1\.7.1|12/04/24|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Mockup|
+|1\.7.2|12/04/24|Mathias Andre Mendoza Carrion, Abel Andrés Valle Zuta y Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Prototype|
+|1\.7.3|12/04/24|Diego Anderson Criollo de la Cruz|Se agregó contenido relacionado al Wireflow Flow|
+|1\.7.4|12/04/24|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado al User Flow|
+|1\.8|12/04/24|Joseph Alexis Huamani Mandujano|Se agregaron las conclusiones y la bibliografía|
+|1\.8.1|12/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó el Student Outcome y la Tabla de Contenido|
+|2\.0|26/04/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|<p>Se agregaron nuevas entrevistas para los 2 segmentos objetivos. </p><p></p>|
+|2\.1|29/04/24|Abel Andrés Valle Zuta|Se arreglaron errores en las User Stories.|
+|2\.1.1|29/04/24|Abel Andrés Valle Zuta|Se arregló el contenido del Domain-Driven Software Architecture.|
+|2\.1.2|29/04/24|Abel Andrés Valle Zuta y Joseph Alexis Huamani Mandujano|Se agregó contenido del Sprint 2 y el Sprint Planning 2|
+|2\.2|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al Wireframes Mobile App|
+|2\.2.1|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al MockUp Mobile App|
+|2\.2.2|29/04/24|Ian Haziel Donato Santisteban Palomino|Se agregó contenido relacionado al Prototype Mobile App|
+|2\.3|30/04/24|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó el contenido del Sprint Backlog 2|
+|2\.3.1|30/04/24|Joseph Alexis Huamani Mandujano|Se arregló las conclusiones del student outcome del primer entregable TB1|
+|2\.3.2|30/04/24|Mathias Andre Mendoza Carrion|Se arregló el diagrama de la base de datos.|
+|2\.3.3|30/04/24|Abel Andrés Valle Zuta|Se agregaron nuevas referencias bibliográficas.|
+|2\.4|01/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido restante del Sprint 2|
+|2\.4.1|01/05/24|Joseph Alexis Huamani Mandujano|Se agregaron nuevas conclusiones del proyecto.|
+|2\.4.2|02/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcomes.|
+
 
 </div><br><br>
 
@@ -4075,11 +4090,11 @@ Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint
 Lo primero que realizamos fue crear un nuevo repositorio en GitHub para nuestra Aplicación Web y actualizar nuestro repositorio donde tenemos guardados los Acceptance Test con las nuevas User Stories y Technical Stories que abarcamos en este segundo sprint.
 
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-repo.PNG?raw=true">
   </div><br><br>
   
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/at-repo.PNG?raw=true">
   </div><br>
 
 En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
@@ -4118,7 +4133,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
   + Web Application
           <div align="center">
-        <img src="" alt="contributor-evidence.">
+        <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/insights.PNG?raw=true" alt="contributor-evidence.">
         </div>
 
     En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo de la Aplicación Web. Se evidencia que todo el equipo ha participado.
@@ -4243,7 +4258,14 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g
 Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4Bm9ATJ2r9YrYhs2AF9zdrjQ?e=Rl17V7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
         
 
+## Exposure video TP1
 
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Expo/expo-open.PNG?raw=true" alt="Exposure video TP1">
+ </div>
+
+
+Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ_-eiOdU3tPgZwwWRPXzS0B12Pe9pFLEdsY1wEfvnJarQ?e=iksdTD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
