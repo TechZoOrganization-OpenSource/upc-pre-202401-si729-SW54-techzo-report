@@ -3977,6 +3977,85 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 |IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-2|31c1067|Feat: Create TS-12|In this part, we applied Gherkin to the TS-12.|29/04/2024|
 
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Lo que se logró en el Sprint 2 es desplegar una primera versión de la aplicación web. En esta logramos desarrollar la toolbar, el footer, y las pestañas que se encuentran dentro de estos componentes. También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
+ 
+A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado hasta este momento en el Sprint 2, respecto a la página web:
+
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-1.PNG?raw=true" alt="web-application-1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-2.PNG?raw=true" alt="web-application-2" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-3.PNG?raw=true" alt="web-application-3" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-ayuda.PNG?raw=true" alt="web-help" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-condiciones-1.PNG?raw=true" alt="web-conditions-1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-condiciones-2.PNG?raw=true" alt="web-conditions-2" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-condiciones-3.PNG?raw=true" alt="web-conditions-3" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-contacto-1.PNG?raw=true" alt="web-contact-1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-contacto-2.PNG?raw=true" alt="web-contact-2" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-membresias.PNG?raw=true" alt="web-memberships" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-ong-1.PNG?raw=true" alt="web-ong-1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-ong-2.PNG?raw=true" alt="web-ong-2" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-privacidad-1.PNG?raw=true" alt="web-privacy-1" >
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/web-privacidad-2.PNG?raw=true" alt="web-privacy-2" >
+</div>
+<br><br>
+
+Enlace: [Video del Development Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERZ41TWKJfNEgcZAWeq9oc4BQFwwUI8fqcL9QOZr6rnBnA?e=VZtdOr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 
 
