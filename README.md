@@ -4283,13 +4283,13 @@ En ambos repositorios adoptamos la metodología GitFlow para gestionar ramas, pe
 En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “main”.
 
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/fornted-branch.PNG?raw=true">
   </div><br>
   
 Y en el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos se subían a la rama “feature/sprint-2”. Una vez se tenía la aprobación de todo el equipo, se pasaba a la rama “develop”.
 
   <div align="center">
-  <img src="">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-2-Images/features-fronted.PNG?raw=true">
   </div><br>
 
 Finalmente configuramos Netlify para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
@@ -4403,8 +4403,8 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
  </div>
 
 
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=blvt0G)
 
-Enlace: [Needfinding]([ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XjrJOg))
 
 
 ## Exposure video Tb1
@@ -4455,7 +4455,7 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
 ## Exposure video TP1
 
   <div align="center">
-    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Expo/expo-open.PNG?raw=true" alt="Exposure video TP1">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Expo/expo-tp.PNG?raw=true" alt="Exposure video TP1">
  </div>
 
 
