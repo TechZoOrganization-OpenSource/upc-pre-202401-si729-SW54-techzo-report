@@ -3973,11 +3973,11 @@ A continuación se evidencia la distribución, organización y planeamiento del 
 </tr>
   <tr>
     <td>Sprint 2 Velocity</td>
-    <td>25 Story Points</td>
+    <td>45 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>25 Story Points</td>
+    <td>43 Story Points</td>
   </tr>
 </table><br><br>
 
@@ -4010,9 +4010,49 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
   <tr>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registro de usuario<br></td>
+    <td>WI-01</td>
+    <td>Sección para nuevos usuarios</td>
+    <td>Implementación de una sección de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
+    <td>3</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US06</td>
+    <td rowspan="1">Filtrado de Objetos<br></td>
+    <td>WI-02</td>
+    <td>Implementación de un filtro de búsqueda</td>
+    <td>Añadir un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
+    <td>5</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US09</td>
+    <td rowspan="1">Eliminación de cuenta<br></td>
+    <td>WI-03</td>
+    <td>Opción para eliminar definitivamente una cuenta</td>
+    <td>Adición de un botón que permita eliminar la cuenta del usuario de forma rápida y sencilla.</td>
+    <td>5</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US12</td>
+    <td rowspan="1">Crear publicación de intercambio<br></td>
+    <td>WI-04</td>
+    <td>Opción para publicar nuevos objetos de trueque</td>
+    <td>Creación de una sección en la que los usuarios registrados puedan subir objetos que quieran intercambiar.</td>
+    <td>5</td>
+    <td>Andrés Valle</td>
+    <td>Done</td>
+  </tr>
+  <tr>
     <td rowspan="1">US22</td>
     <td rowspan="1">Visualizar el perfil de las ONG’S registradas<br></td>
-    <td>WI-01</td>
+    <td>WI-05</td>
     <td>Sección “Sección ONG’s”</td>
     <td>Implementación de la sección “ONG’s”.</td>
     <td>3</td>
@@ -4023,7 +4063,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
     <td rowspan="1">US23</td>
     <td rowspan="1"> Acceder al centro de soporte para resolver cualquier problema técnico que se presente
     </td>
-    <td>WI-02</td>
+    <td>WI-06</td>
     <td> Sección “Centro de Soporte”
     </td>
     <td> Desarrollo de la sección donde uno puede solicitar ponerse en contacto con el centro de soporte ante algún problema técnico. </td>
@@ -4034,7 +4074,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <tr>
     <td rowspan="1">US24</td>
     <td rowspan="1"> Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios </td>
-    <td>WI-03</td>
+    <td>WI-07</td>
     <td> Sección “Preguntas frecuentes y comentarios” </td>
     <td> Desarrollo de la sección en la que se puede visualizar las preguntas que frecuentemente hacen los usuarios de CambiaZo y los comentarios que dejan de la aplicación web. </td>
     <td>3</td>
@@ -4044,7 +4084,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <tr>
     <td rowspan="1"> TS07 </td>
     <td rowspan="1"> Create API ONGs </td>
-    <td>WI-04</td>
+    <td>WI-08</td>
     <td> Crear la API que contiene información de las ONG’s </td>
     <td> Crear una API, en la cual se van a ingresar datos de varias ONG’s que se encuentran en el país, de tal modo que en esta API se tengan todos los datos almacenados de la ONG </td>
     <td>5</td>
@@ -4054,7 +4094,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <tr>
     <td rowspan="1">TS09</td>
     <td rowspan="1"> Get ONGs </td>
-    <td>WI-05</td>
+    <td>WI-09</td>
     <td> Obtener los datos de la API de ONG’s </td>
     <td> Se crea una función tipo GET para obtener todos los valores almacenados en la API ONG’s. </td>
     <td>3</td>
@@ -4064,7 +4104,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <tr>
     <td rowspan="1">TS10</td>
     <td rowspan="1"> Create API Subscription</td>
-    <td>WI-06</td>
+    <td>WI-10</td>
     <td> Crear la API que contiene información de los planes de suscripción </td>
     <td> Crear una API, en la cual se van a ingresar los planes de suscripción de CambiaZo, de tal modo que en esta API se tengan todos los datos almacenados de los planes.</td>
     <td>5</td>
@@ -4074,7 +4114,7 @@ Enlace: [Sprint Backlog 2 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <tr>
     <td rowspan="1">TS12</td>
     <td rowspan="1">Get Subscription</td>
-    <td>WI-07</td>
+    <td>WI-11</td>
     <td>Obtener los datos de la API de planes de suscripción</td>
     <td>Se crea una función tipo GET para obtener todos los valores almacenados en la API de planes de suscripción.</td>
     <td>3</td>
