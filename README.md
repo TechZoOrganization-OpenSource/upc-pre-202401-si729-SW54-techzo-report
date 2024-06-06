@@ -3968,7 +3968,7 @@ A continuación se evidencia la distribución, organización y planeamiento del 
     <td colspan="2"><b>Sprint Goal & User Stories</b></td>
   </tr>
   <tr>
-    <td>Sprint 2 </td>
+    <td>Sprint 2 Goal</td>
     <td>Desplegar una primera versión de la Aplicación Web<br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento del presente sprint, vamos a utilizar la siguiente métrica: Evaluaremos que el proyecto compile y se pueda acceder a las pantallas establecidas para este sprint. El objetivo será implementar las pestañas principales de nuestra aplicación web.<br>
 </tr>
   <tr>
