@@ -4544,6 +4544,33 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 
 A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-3” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 3.
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|94875b4|Feat: Create US-02|In this part, we applied Gherkin to the US-02|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|02c8f40|Feat: Create US-03|In this part, we applied Gherkin to the US-03|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|f6be711|Feat: Create US-04|In this part, we applied Gherkin to the US-04|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|84300bc|Feat: Create US-05|In this part, we applied Gherkin to the US-05|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|f85a6ef|Feat: Create US-08|In this part, we applied Gherkin to the US-08|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|b0c7bf0|Feat: Create US-10|In this part, we applied Gherkin to the US-10|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|35f69f7|Feat: Create TS-01|In this part, we applied Gherkin to the TS-01|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|485863f|Feat: Create TS-02|In this part, we applied Gherkin to the TS-02|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|b99051c|Feat: Create TS-03|In this part, we applied Gherkin to the TS-03|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|d77f49a|Feat: Create TS-13|In this part, we applied Gherkin to the TS-13|07/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|bc46499|Feat: Create TS-14|In this part, we applied Gherkin to the TS-14|07/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|77cecb2|Feat: Create TS-15|In this part, we applied Gherkin to the TS-15|07/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|bd6bd01|Feat: Create TS-16|In this part, we applied Gherkin to the TS-16|07/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|4ceb70c|Feat: Create TS-17|In this part, we applied Gherkin to the TS-17|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|5bdf824|Feat: Create US-17|In this part, we applied Gherkin to the US-17|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|1337d2d|Feat: Create US-19|In this part, we applied Gherkin to the US-19|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|78f4c36|Feat: Create US-20|In this part, we applied Gherkin to the US-20|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|4cec76c|Feat: Create US-21|In this part, we applied Gherkin to the US-21|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|b99f177|Feat: Create US-13|In this part, we applied Gherkin to the US-13|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|8e37075|Feat: Create US-14|In this part, we applied Gherkin to the US-14|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|c8c6b62|Feat: Create US-15|In this part, we applied Gherkin to the US-15|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-3|bd77b75|Feat: Create US-16|In this part, we applied Gherkin to the US-16|07/06/2024|
+
+
+
 </div>
 
 <br><br>
