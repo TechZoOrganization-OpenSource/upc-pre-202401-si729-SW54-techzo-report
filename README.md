@@ -84,7 +84,18 @@
 |2\.3.3|30/04/24|Abel Andrés Valle Zuta|Se agregaron nuevas referencias bibliográficas.|
 |2\.4|01/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregó contenido restante del Sprint 2|
 |2\.4.1|01/05/24|Joseph Alexis Huamani Mandujano|Se agregaron nuevas conclusiones del proyecto.|
-|2\.4.2|02/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcomes.|
+|2\.4.2|02/05/24|Abel Andrés Valle Zuta|Se agregaron los student outcomes |
+|3\.0|28/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|Se agregó el sprint 3|
+|3\.1|28/05/24|Abel Andrés Valle Zuta|Se agregó contenido del Sprint 3 y el Sprint Planning 3|
+|3\.1.1|29/05/24|Abel Andrés Valle Zuta|Se agregó el contenido del Sprint Backlog 3|
+|3\.2|2/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizaron 10 entrevistas de los acceptance test|
+|3\.2.1|4/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el análisis de cada una de las entrevistas.|
+|3\.3|5/06/24|Abel Andrés Valle Zuta|Se realizó el análisis de Heurísticas|
+|3\.4|5/06/24|Ian Haziel Donato Santisteban Palomino|Se realizó el Video About the Product|
+|3\.5|5/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el video About the Team.|
+|3\.6|06/06/24|Joseph Alexis Huamani Mandujano|Se actualizaron las conclusiones del informe.|
+|3\.7|06/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TB2.|
+
 
 
 </div><br><br>
