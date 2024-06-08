@@ -4680,6 +4680,41 @@ En el caso del repositorio de acceptance test hemos creado una nueva rama llamad
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/branches-back.PNG?raw=true" alt="branches">
   </div><br><br>
 
+|Rama|Descripción|
+| :-: | :-: |
+|feature/US-01|Se realiza la pantalla que verán los nuevos usuarios cuando quieran crear su cuenta en CambiaZo.|
+|feature/US-02|Se añade la funcionalidad para que los usuarios existentes puedan iniciar sesión en la aplicación web de CambiaZo.|
+|feature/US-03|Se implementa la recuperación de contraseña para los usuarios que la hayan olvidado.|
+|feature/US-04|Se crea la pantalla principal que verán los usuarios después de iniciar sesión.|
+|feature/US-05|Se añade la funcionalidad para que los usuarios puedan actualizar su perfil.|
+|feature/US-06|Se implementa la funcionalidad de búsqueda de productos mediante filtros.|
+|feature/US-07|Se implementa la funcionalidad de búsqueda de ONG 's.|
+|feature/US-08|Se añade la pantalla donde se pueden ver las reseñas que tiene cada usuario.|
+|feature/US-09|Se implementa la función para que los usuarios puedan borrar su cuenta definitivamente.|
+|feature/US-10|Se crea la funcionalidad donde el usuario puede actualizar su correo.|
+|feature/US-11|Se crea la pantalla donde el usuario puede ver las ofertas recibidas y enviadas.|
+|feature/US-12|Se añade la sección que le permite al usuario crear publicaciones de objetos que tiene disponible para intercambiar.|
+|feature/US-13|Se añade la opción que permite al usuario editar sus publicaciones que ha realizado.|
+|feature/US-14|Se añade la opción que permite al usuario eliminar las publicaciones de búsqueda de intercambio.|
+|feature/US-15|Se crea la funcionalidad que identifica si un usuario tiene beneficios de acuerdo a su categoría para que sus publicaciones sean más visibles.|
+|feature/US-16|Se implementa la sección que muestra los productos que el usuario ha seleccionado como favoritos.|
+|feature/US-17|Se crea la opción para que los usuarios puedan ver los perfiles de otros usuarios.|
+|feature/US-18|Se crea la pantalla que permite que el usuario pueda obtener los medios de comunicación del otro usuario para que coordinen la realización del trueque.|
+|feature/US-19|Se añade la opción para que los usuarios puedan ver los perfiles de todas las ONG ‘s afiliadas a CambiaZo.|
+|feature/US-20|Se crean las pantallas y funcionalidades necesarias para que los usuarios puedan adquirir el tipo de membresía que más se adapte a su necesidad.|
+|feature/US-21|Se implementa la opción y sección que permite que el usuario pueda cambiar el tipo de membresía que tiene o cancelarla.|
+|feature/US-22|Se crea la opción para que los usuarios puedan ver todos los detalles de cada ONG cuando la seleccionen.|
+|feature/US-23|Se añade la sección donde los usuarios pueden reportar y resolver problemas técnicos de nuestra aplicación web que se les pueda presentar.|
+|feature/US-24|Se implementa la funcionalidad para que los usuarios puedan realizar ofertas por objetos de otros usuarios.|
+|feature/sprint-1|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 1.|
+|feature/sprint-2|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 2.|
+|feature/sprint-3|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 3.|
+|feature/TS-01|Se crea la estructura de la API de Productos.|
+|feature/TS-02|Se implementan los métodos GET para la API de Productos.|
+|feature/TS-03|Se implementan los métodos POST para la API de Productos.|
+|feature/TS-06|Se crea la estructura de la API de Usuarios.|
+|feature/TS-07|Se implementan los métodos GET para la API de Usuarios.|
+
 </div>
 
 <br><br>
