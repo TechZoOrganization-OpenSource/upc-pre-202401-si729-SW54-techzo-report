@@ -179,7 +179,7 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
 
     * **Commits**
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+         A continuacion se muestran algunos commits realizados en este entrega de TP1.
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
@@ -224,7 +224,7 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
 
     * **Commits**
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+         A continuacion se muestran algunos commits realizados en este entrega de TB2.
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
