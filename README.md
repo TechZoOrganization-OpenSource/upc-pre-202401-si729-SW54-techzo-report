@@ -4631,13 +4631,13 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 <br><br>
 
 <div align="center">
-  <img src="" alt="back1" >
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/back1.PNG?raw=true" alt="back1" >
 </div>
 <br><br>
 
-Enlace: [Video del Development Evidence for Sprint 3 - Frontend]()
+Enlace: [Video del Development Evidence for Sprint 3 - Frontend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EX42ZVt5qgVBpZHyLFvRFvQB-D7115dm_jt4Sfi2CVvFSA?e=b3RfGC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Video del Development Evidence for Sprint 3 - Backend]()
+[Video del Development Evidence for Sprint 3 - Backend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERTdoZNyc_lFhwV8ppbg5kkBKqG48EvZ74n-Qiu2IY3u5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jaHP1P)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
  
@@ -4798,6 +4798,311 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 7. ¿Usted utilizaría la aplicación web para realizar donaciones? ¿Por qué?
 8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
 
+### 5.3.2 Registro de Entrevistas
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+**Segmento Intercambiadores**<br>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Anivar</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rodríguez Rodríguez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Celular iPhone y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_anivar.PNG?raw=true" alt="Entrevista Anivar Rodriguez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 4:55 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Anivar Rodríguez, logramos conocer su opinión acerca de qué le pareció nuestra landing page y nuestra aplicación web. Indicó que le llamó la mucho la atención nuestra landing page, que le pareció muy bien organizada y fácil de comprender y leer, e incluso dijo que nuestra aplicación web le sorprendió buenamente, ya que le encantó lo tan detallada que está y su facilidad de usar, indicó que tal vez podríamos mejorar el tamaño de las letras pero que todo lo demás le había gustado y parecía excelente.<br>Finalmente indicó que sí estaría dispuesto a utilizar CambiaZo y a recomendársela a sus amigos y familiares.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ian Joaquín</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Sánchez Alva</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_ian.PNG?raw=true" alt="Entrevista Ian Sanchez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href=" https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>4:56 min - 9:53 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Ian Sánchez, nos comentó su opinión acerca de nuestra landing page y aplicación web, indicó que le gusta mucho el diseño de ambas, que le resulta muy atractivo y que llama muy bien la atención de los visitantes de la página, además mencionó los puntos que podríamos mejorar a nuestra landing page, la cual es que las membresías especifiquen más acerca de qué trata cada plan y tal vez realizar un cuadro de comparaciones adicional.<br>Finalmente mencionó que sí utilizaría CambiaZo y que también se la recomendaría a todos sus amigos y familiares.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vazques</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Opera Gx</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_edu.PNG?raw=true" alt="Entrevista Edu"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>9:54 min - 14:59 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista con Edu Gutiérrez Vázquez, un estudiante de marketing de 19 años, valoró positivamente la organización y sencillez de la landing page de CambiaZo, destacando su claridad y facilidad para entender su propósito. Opinó que la aplicación web es intuitiva y eficiente, especialmente por su categorización, aunque sugirió mejorar la funcionalidad del perfil para mostrar historiales de intercambios y valoraciones. Edu cree que CambiaZo facilita los intercambios de manera segura y especializada, y la recomendaría a amigos y familiares interesados en adquirir productos mediante intercambios sin complicaciones.</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Junior</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valero Medina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Discord y Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td> Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_junior.PNG?raw=true"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>15:00 min - 18:36 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista con Luis Junior Valero Medina, un joven de 19 años que estudia ingeniería de sistemas, evaluó positivamente la landing page de CambiaZo, destacando su atractivo diseño y la buena organización de la información. Resaltó la claridad con la que se explica el propósito y funcionamiento del intercambio. Además, consideró que la aplicación web tiene una apariencia moderna e intuitiva, y valoró especialmente la funcionalidad de filtrado de objetos. Sugirió la inclusión de testimonios de usuarios y una opción de chat en tiempo real para mejorar la confianza y la comunicación entre los usuarios. Luis cree que la plataforma facilita los trueques de manera segura y eficiente, y la recomendaría a amigos y familiares por su capacidad de promover el aprovechamiento de recursos.</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td> Sebastian</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td> Valdivia Peceros</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td> Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td> Computadora, Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td> Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td> Diego Criollo De La Cruz</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_sebastian.PNG?raw=true" alt="Entrevista Sebastian"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>18:37 min - 23:29 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Se tuvo la posibilidad de entrevista a Sebastian Valdivia, quien es un joven estudiante universitario que está interesado en intercambiar objetos. Al presentarle la aplicación web, pudo testear la gran mayoría de funcionalidades y nos comentó que el diseño y la distribución de los componentes es muy intuitiva y didáctica, que los colores resaltan y hacen un buen contraste y que en general es muy amigable de visualizar. Además de ello, mencionó que el diseño de la landing page cumple la función principal de captar la atención del usuario potencial. Respecto a los posibles añadidos o cambios, nos mencionó una parte específica de la aplicación web, donde salen las categorías de productos, comentó que los colores podrían ser un poco más oscuros o fuertes para que haga mejor contraste y sea fácil de visualizar.</td>
+  </tr>
+</tbody>
+</table><br>
 
 
 
