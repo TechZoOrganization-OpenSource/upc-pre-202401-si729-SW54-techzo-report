@@ -5542,10 +5542,17 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div>
 <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
+<br>
+
 ## 5.4 Video About-the-Product
+
+Este video es una parte fundamental de nuestra estrategia para dar a conocer nuestra aplicación. Está dirigido a los visitantes de nuestra Landing Page que desean obtener información detallada y concisa sobre lo que ofrecemos, es por esto que usamos un lenguaje formal. En él, presentamos las principales características de la aplicación y como este puede ayudarte en tu día a día.
+
 <div align="center">
     <img src=" https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/about%20the%20product.jpg?raw=true " alt="Video About The Product">
 </div>
+
+<br>
 
 Enlace: [Video About-the-Product]( https://youtu.be/eGlkJSVuuqM?si=OIELkmYjpj8pWvHT)
 
@@ -5569,15 +5576,15 @@ Durante la etapa de Elicitación y Análisis de Requisitos, exploramos a fondo e
 
 En la fase de Especificación de Requisitos, la creación de historias de usuario y la planificación del backlog del producto nos permitieron organizar y priorizar eficazmente las características y funcionalidades. Esto nos proporcionó una guía clara para el desarrollo posterior del producto y nos ayudó a mantenernos enfocados en los objetivos clave del proyecto.
 
-En el diseño del producto, la cuidadosa planificación de la arquitectura de la información y la interfaz de usuario garantizó una experiencia de usuario intuitiva y atractiva. El uso de herramientas como Figma y LucidChart nos permitió crear prototipos y diseños visuales que sirvieron como referencia durante el desarrollo y la validación del producto.
-
-Durante la corrección de la TB1, realizamos ajustes significativos, incluyendo la refinación de historias de usuario, la actualización del diagrama C4 y el diseño responsive de la aplicación web en Figma. Estos cambios mejoraron la claridad y la coherencia de nuestro enfoque, asegurando una comprensión más precisa de los requisitos del producto y una experiencia de usuario más fluida.
+En el diseño del producto, la cuidadosa planificación de la arquitectura de la información y la interfaz de usuario garantizó una experiencia de usuario intuitiva y atractiva. El uso de herramientas como Figma y LucidChart nos permitió crear prototipos y diseños visuales que sirvieron como referencia durante el desarrollo y la validación del producto. Durante la corrección de la TB1, realizamos ajustes significativos, incluyendo la refinación de historias de usuario, la actualización del diagrama C4 y el diseño responsive de la aplicación web en Figma. Estos cambios mejoraron la claridad y la coherencia de nuestro enfoque, asegurando una comprensión más precisa de los requisitos del producto y una experiencia de usuario más fluida.
 
 Además, implementamos mejoras en la landing page, optimizando el diseño del formulario y agregando funcionalidades para mejorar la interacción del usuario. Además, realizamos dos entrevistas adicionales para cada segmento de usuarios, lo que nos proporcionó información valiosa para ajustar nuestro enfoque y satisfacer mejor sus necesidades.
 
 En el sprint 2, nos enfocamos en la distribución, organización y planificación del grupo para cumplir satisfactoriamente los objetivos establecidos. El sprint backlog se utilizó para priorizar las características más importantes y guiar el desarrollo de la primera versión de la aplicación web de Cambiazo. El desarrollo de esta versión fue exitoso, demostrando nuestra capacidad para traducir los requisitos del producto en una solución funcional y efectiva.
 
-En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos. Tambien las correcciones y mejoras de la TB1 nos permitieron poder aclarar algunos puntos anteriores que ayudaron al desarrollo continuo del proyecto. Además, en el sprint 2 nos enfocamos en la distribución y planificación del grupo para desarrollar con éxito la primera versión de la aplicación web de Cambiazo. Estas acciones reflejaron nuestro enfoque centrado en el usuario y nuestra capacidad para adaptarnos y mejorar continuamente.
+En la TB3, logramos desarrollar toda la parte del frontend y parte del backend utilizando Java con Spring Boot y Domain Driven Design. Esta etapa fue crucial para asegurar la robustez y escalabilidad de nuestra aplicación. La implementación del frontend permitió una interfaz intuitiva y amigable para el usuario, mientras que el backend construido sobre principios sólidos garantizó la funcionalidad y seguridad del sistema. La adopción de Domain Driven Design nos permitió abordar problemas complejos con mayor precisión y claridad, resultando en una arquitectura de software más organizada y eficiente.
+
+En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos. También las correcciones y mejoras de la TB1 nos permitieron poder aclarar algunos puntos anteriores que ayudaron al desarrollo continuo del proyecto. Además, en el sprint 2 nos enfocamos en la distribución y planificación del grupo para desarrollar con éxito la primera versión de la aplicación web de Cambiazo. En la TB3, la implementación del frontend y el desarrollo del backend con Java, Spring Boot y Domain Driven Design fortalecieron significativamente la estructura y funcionalidad de nuestra aplicación. Estas acciones reflejaron nuestro enfoque centrado en el usuario y nuestra capacidad para adaptarnos y mejorar continuamente.
 <br><br>
 
 
@@ -5691,6 +5698,31 @@ Enlace: [ Video de Development Evidence for Sprint 1](https://upcedupe-my.sharep
 
 Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/EceCty0WfhZDm6fgLqxceKsBzSE84RLqpqMqXp33DYU5XA?e=erGpdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+
+
+## Validation Interviews
+
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_rafaella.PNG?raw=true" alt="Validation Interviews">
+ </div>
+
+
+Enlace: [Validation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY)
+
+
+## Exposure video TB2
+
+  <div align="center">
+    <img src="" alt="Exposure video TB2">
+ </div>
+
+
+Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EXkwKSldvEtMhL2levJZedYBg96WJ9xXadrThaD5_1aGwg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n3AZz3)
+
+
+## Video About The Team
+
+Enlace: [About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERMc8wECDVpAp-bqqXfh3LABb59aClFXcKU9tML4jItxgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vJecZa)
 
 
 
