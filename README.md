@@ -205,10 +205,10 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
             </div><br><br>
 
 
-<strong>*Entrega TB21:*</strong>
+<strong>*Entrega TB2:*</strong>
 
 + Desarrollo de Actividades
-    En el entregable de TB1, el equipo se reunió por discord para hacer las coordinaciones y posteriormente todas las tareas lo documentamos en notitas en el Jamboard para que sea más fácil visualizar las tareas pendientes tanto de este entregable como las mejoras de la TP1. 
+    En el entregable de TB2, el equipo se reunió por discord para hacer las coordinaciones y posteriormente todas las tareas lo documentamos en notitas en el Jamboard para que sea más fácil visualizar las tareas pendientes tanto de este entregable como las mejoras de la TP1. 
 
     En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de decisión voluntaria.
 
