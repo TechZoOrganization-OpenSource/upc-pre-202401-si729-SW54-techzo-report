@@ -4729,6 +4729,19 @@ Para el repositorio “CambiaZo-Backend” subimos nuestros archivos a diferente
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/network-back.PNG?raw=true">
 </div><br>
 
+Finalmente configuramos Netlify para obtener un enlace directo a la Web Application, facilitando la revisión continua de los cambios realizados.
+
+Link: https://cambiazoo-techzo.netlify.app/
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/main/Resources/Sprint-2-Images/netlify-config.png" alt="netlify">
+  </div><br>
+
+  
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/netlify-deploy.PNG?raw=true" alt="app web">
+  </div><br>
+
 </div>
 
 <br><br>
