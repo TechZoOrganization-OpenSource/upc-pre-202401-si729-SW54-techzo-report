@@ -4573,6 +4573,72 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 
 Lo que se logró en el Sprint 3 es desplegar la versión final de la aplicación web. En esta logramos desarrollar todas las pestañas que diseñamos previamente en el figma. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios y productos. También se adoptó exitosamente la metodología GitFlow, trabajando en ramas para realizar pruebas y actualizaciones sin afectar la rama principal.
 
+A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado hasta este momento en el Sprint 3:
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-1.PNG?raw=true" alt="front1" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-2.PNG?raw=true" alt="front2" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-3.PNG?raw=true" alt="front3" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-4.PNG?raw=true" alt="front4" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-5.PNG?raw=true" alt="front5" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-6.PNG?raw=true" alt="front6" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-7.PNG?raw=true" alt="front7" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-8.PNG?raw=true" alt="front8" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-9.PNG?raw=true" alt="front9" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-10.PNG?raw=true" alt="front10" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/front-11.PNG?raw=true" alt="front11" >
+</div>
+<br><br>
+
+<div align="center">
+  <img src="" alt="back1" >
+</div>
+<br><br>
+
+Enlace: [Video del Development Evidence for Sprint 3 - Frontend]()
+
+[Video del Development Evidence for Sprint 3 - Backend]()
+
 </div>
 
 <br><br>
