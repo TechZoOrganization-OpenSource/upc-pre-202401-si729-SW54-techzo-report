@@ -4484,6 +4484,37 @@ Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 3.
 
 
+**Frontend:**
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/Cambiazo-Fronted/src|feature/US14|465ee4f|Feat: Created Header Profile|In this part we created the header profile|26/05/2024|
+|IanHD04/Cambiazo-Fronted/src|feature/US01|e078b6c|Feat: The Login route was added to the header|In this part we added the login route to the header|26/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/US03|0665328|Fix: service and model product|In this part we fixed the model and service of products|26/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/US16|c68b0e6|Feat: TS dialog to confirm delete post|In this part we configured the ts of the dialog to confirm the delete post.|27/05/2024|
+|diegooo01/Cambiazo-Fronted/src|feature/US24|d9c022b|Feat: Create page-product-details|In this part we created the page product details|31/05/2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/US11|d8c3e4b|Feat: Completed Sent Offers section|In this part we completed the sent offers section|31/05/2024|
+|IanHD04Cambiazo-Fronted/src|feature/US01|0cc56f3|Feat: The validator functions were created|In this part we created the functions of the validator|28/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/US19|54fff7f|Feat: Detail ong and routing|In this part we added the detail ong and routing to the page.|28/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/US16|c68b0e6|Feat: TS dialog to confirm delete post|In this part we added the ts to confirm the delete post|26/05/2024|
+|diegooo01/Cambiazo-Fronted/src|feature/US24|3c43595|Feat: Create product-information component|In this part we created the product information component|31/05/2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/US14|f13df74|Feat: Add post cards|In this part we added the post cards|26/05/2024|
+|IanHD04/Cambiazo-Fronted/src|feature/US01|3e2608d|Feat: Dialog Register Successfully|In this part we added the dialog for the register successful|26/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/US06|5c7d872|Feat: Functional search products|In this part we added functionality to search products|26/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/US16|0b77edb|feat: create ts of dialog successful exchange|In this part we created the dialog for a successful exchage|28/05/2024|
+|diegooo01/Cambiazo-Fronted/src|feature/US20|05c1c4f|Feat: Buy-membership page was created|In this part we created the buy membership page|31/05/2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/US14|ea324d3|Feat: Add Users Cards Post|In this part we added the users cards post|27/05/2024|
+|IanHD04/Cambiazo-Fronted/src|feature/US04|5c7d872|Feat: Creating the Verify Email Page|In this part we created the verify email page|29/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/US12|a2de496|Fix: Create Post|In this part we fixed the create post section|30/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/US16|023812e|feat: Create my-favorites component|In this part we created the my favorites component|30/05/2024|
+|diegooo01/Cambiazo-Fronted/src|feature/US17|1dc9fb5|Feat: Created component publisher-profile|In this part we created the publisher profile component|31/05/2024|
+|AndresVZ23/Cambiazo-Fronted/src|feature/US08|c0d7676|Feat: Completed "My Reviews" section|In this part we completed the section of my reviews|30/05/2024|
+|IanHD04/Cambiazo-Fronted/src|feature/US02|6e509b7|Feat: Edit-profile page was created|In this part we created the edit profile page|31/05/2024|
+|123-Mathias/Cambiazo-Fronted/src|feature/US10|d5af6ac|Feat: Creation of dialog-successfully-change|In this part we created the dialog of a successfully change|31/05/2024|
+|HelloNerk/Cambiazo-Fronted/src|feature/US13|4c6367c|Fix: Reviews start rating|In this part we fixed the reviews rating stars|31/05/2024|
+|diegooo01/Cambiazo-Fronted/src|feature/US17|410af59|Fix: Added new route|In this part we fixed a route|31/05/2024|
+
+
+
 </div>
 
 <br><br>
