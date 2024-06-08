@@ -4513,6 +4513,31 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |HelloNerk/Cambiazo-Fronted/src|feature/US13|4c6367c|Fix: Reviews start rating|In this part we fixed the reviews rating stars|31/05/2024|
 |diegooo01/Cambiazo-Fronted/src|feature/US17|410af59|Fix: Added new route|In this part we fixed a route|31/05/2024|
 
+<br><br>
+
+**Backend:**
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|db62040|feat: adding CategoryOng service and serviceimpl|<p>I've added the files of the Category Ong service and Category Ong service implementation</p><p></p>|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|d60d8cd|feat: adding CategoryOng model and queries|<p>I've added the files of the CategoryOng model and the queries</p><p></p>|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|5ea138f|feat: Create CategoryOng transform and resources|<p>I've created the files the Category Ong of the transform and resources folders</p><p></p>|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|399afda|feat: Create CategoryOng controller, repository|<p>I've created the files of the Category Ong controller, repository and command</p><p></p>|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|a7d644c|feat: Adding CategoryOng aggregate|<p>I've added the CategoryOng aggregate code</p><p></p>|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|5d71942|feat: adding CreateCategoryOngCommand|<p>I've added the Create Category Ong Command into commands CategoryOng folder</p><p></p>|07/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|a3cb08f|feat: Adding CategoryOngCommandService|<p>I've added the Category Ong Command Service into the services folder</p><p></p>|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-09|a3a1317|feat: Adding GettAllCategoryOng query|<p>I've added the getAllCategoryOng query</p><p></p>|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-09|d004e95|feat: Adding GetCategoryOngById query|<p>I've added GetCategoryOngById query</p><p></p>|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-09|5f0dc37|feat: Adding CategoryOngQuery service|<p>I've added the CategoryOngQuery service</p><p></p>|07/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-09|acf25e0|feat: Adding CategoryOng repository|<p>I've added the CategoryOng repository</p><p></p>|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|fbd9b9d|feat: Adding CreateCategoryOng resource|<p>I've added the createCategoryOng resource</p><p></p>|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|82aaee0|feat: Adding CategoryOng resource|<p>I've added the categoryOng resource</p><p></p>|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|bf952cb|feat: Adding CategoryOng EntityAssemble|<p>I've added the CategoryOngResourceFromEntityAssembler into the transform folder</p><p></p>|07/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-08|12ccf96|feat: adding CategoryOngCommand resource assembler|<p>I've added the CreateCategoryOngCommandFromResourceAssembler into the transform folder</p><p></p>|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|b627629|feat: add CategoryOngCommandService implementation|<p>I've added the categoryOngCommandService implementation into commandservices</p><p></p>|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|83df7b8|feat: add CategoryOngQueryService implementation|<p>I've added the CategoryOngQueryService implementation into queryservices</p><p></p>|07/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|5825a7d|feat: Adding CategoryOngs Controller|<p>I've added the Controller of the CategoryOngs and fix some errors</p><p></p>|07/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|db50b46|feat: adding Project methods|<p>I've added the project methods into donations context</p><p></p>|07/06/2024|
+
 
 
 </div>
