@@ -5118,6 +5118,323 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </tbody>
 </table><br>
 
+**Segmento Donadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jeremy Joel</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Quispe Andia</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr> 
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora, Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_jeremy.PNG?raw=true" alt="Entrevista Jeremy Quispe"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>23:30 min - 28:05 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Tuvimos la oportunidad de entrevistar a Jeremy Quispe, un usuario que pertenece al nuestro segmento objetivo de Donadores, con el objetivo de poder recopilar opiniones acerca de nuestra landing page y nuestra aplicación web. Jeremy nos comenta que tanto la landing page como la aplicación web tienen un buen contraste con respecto a los colores, diseño y el enfoque. Además Jeremy añade que ambas tienen una correcta funcionalidad, en especial los intercambios y las donaciones. Jeremy nos comparte que sería bueno que en ambas páginas tenga una sección de Preguntas frecuentes (FAQ). Por último nos comenta que esta solución si ayudaría a aumentar el número de donaciones en el país, que ambas páginas tanto la landing page como la aplicación web cumplen con su función y además si estaría dispuesto a utilizar la aplicación web para donar y a compartirla con sus amigos y familiares.</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora y Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_hernan.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>28:06 min - 33:09 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En esta ocasión tuvimos la oportunidad de entrevistar a Hernán Morales, un usuario que representa nuestro segmento objetivo de Donadores, para recopilar opiniones sobre nuestra landing page y nuestra aplicación web. Hernán nos comentó que tanto la landing page como la aplicación web diseño, una buena estructura organizada y buena información. Además, destacó que ambas plataformas funcionan correctamente, especialmente en lo que respecta a los intercambios y las donaciones. Hernán nos comenta que la aplicación web está bastante completa en cuanto a diseño y funcionalidad y que no haría muchos cambios, solo agregar un poco de animación. Hernan, expresó que esta solución podría incrementar el número de donaciones en el país ya que es intuitiva y fácil de usar, además que tanto la landing page como la aplicación web cumplen con su propósito. Finalmente, afirmó que estaría dispuesto a utilizar la aplicación web para donar y compartirla con sus amigos y familiares.</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Angélica Pilar Leonor</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Aguirre Sánchez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Smartphone y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_angie.PNG?raw=true" alt="Entrevista Angelica"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>33:10 min - 38:50 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la presente entrevista de validación, Angélica Aguirre nos comentó que le encantó tanto nuestra landing page como nuestra aplicación web. Ella considera que sería bueno añadir una sección acerca de los fundadores de CambiaZo en la landing page, para que así las personas puedan conocer a los miembros de este proyecto. Indicó que le parece que toda la aplicación web está bien hecha, y sí ayudará a que se realicen más donaciones en el país.<br> Finalmente, mencionó que sí considera que utilizará nuestra aplicación web y que también la recomendará a más personas.</td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Rafaella</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Pastor Sánchez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_rafaella.PNG?raw=true" alt="Entrevista Rafaella"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>38:51 min - 42:35 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En esta entrevista, Rafaella nos menciona que le gustó nuestra landing page debido a su facilidad por leer y que considera que cumple con su objetivo de llamar la atención de los usuarios. En cuanto a la aplicación web mencionó que le sorprendió lo bien hecha que está y que solo le añadiría unas instrucciones de cómo usarlo correctamente para evitar posibles errores de personas que no están tan relacionadas con la tecnología. Finalmente añadió que sí usaría CambiaZo y también se la recomendará a sus amigos y familiares.</td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Validation-Interviews/entrevista_validacion_arturo.PNG?raw=true" alt="Entrevista Arturo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EZm2N0rwpAZIv79W7hULIzIBjIm3CGTehZ5DSK44_u5T9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qwQWeY" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>42:36 min - 47:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista, Arturo Adriansen Flores, estudiante de 19 años, comparte su perspectiva sobre la experiencia con "Cambiazo", una plataforma que facilita donaciones a ONGs. Arturo explica que su interés por la filantropía lo lleva a donar regularmente ropa y víveres a organizaciones sin fines de lucro, y destaca el placer que encuentra en poder impactar positivamente la vida de los demás a través de esta actividad. Al evaluar la landing page y la aplicación web de "Cambiazo", Arturo elogió la coherencia con la marca en el uso de colores, así como la funcionalidad y facilidad de uso que ofrecen ambas plataformas. Resalta la importancia de las reseñas de usuarios en la landing page y la interactividad de la sección de donaciones en la aplicación web, especialmente por la inclusión de información detallada sobre cada ONG y la opción de búsqueda amigable. Además, Arturo sugiere una posible mejora en la reducción de la cantidad de información en la landing page para una mejor experiencia móvil. En cuanto al impacto de "Cambiazo" en las donaciones del país, Arturo cree firmemente que la plataforma contribuirá positivamente debido a su facilidad de uso y la amigabilidad de su interfaz, especialmente el filtro de búsqueda de ONGs. Considera que tanto la landing page como la aplicación web cumplen su función persuasiva y de registro de usuarios, destacando la estética atractiva y la combinación de colores coherente. Arturo asegura que él mismo usaría la aplicación para realizar donaciones debido a su comodidad y confiabilidad, y recomendaría "Cambiazo" a amigos y familiares no solo para donar, sino también para realizar intercambios, destacando la utilidad de la plataforma para ambas actividades.</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
