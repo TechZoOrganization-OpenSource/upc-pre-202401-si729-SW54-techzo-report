@@ -4388,6 +4388,10 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 
 
+### 5.2.3 Sprint 3
+En esta parte, nos encargamos de registrar y explicar el avance del Sprint 3 en cuanto al desarrollo del producto y la colaboración del equipo. Discutiremos diversos aspectos cruciales, como la planificación del sprint, el backlog del mismo y la evidencia de desarrollo para la Revisión del Sprint.
+
+
 
 </div>
 
