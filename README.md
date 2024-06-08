@@ -4538,7 +4538,11 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|5825a7d|feat: Adding CategoryOngs Controller|<p>I've added the Controller of the CategoryOngs and fix some errors</p><p></p>|07/06/2024|
 |HelloNerk/TechZoOrganization-OpenSource/CambiaZo-Backend|feature/TS-07|db50b46|feat: adding Project methods|<p>I've added the project methods into donations context</p><p></p>|07/06/2024|
 
+<br><br>
 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-3” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 3.
 
 </div>
 
