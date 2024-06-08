@@ -4449,6 +4449,16 @@ A continuación, se muestra la distribución, organización y planificación del
 </table><br><br>
 
 
+#### 5.2.3.2 Sprint Backlog 3
+Nuestro objetivo principal con este sprint 3 es desplegar la versión final del frontend de la aplicación web de CambiaZo y una primera versión de su backend. Para lograr este objetivo, se ha realizado una correcta distribución en cuanto a cantidad de pantallas que cada integrante debe realizar para completar el frontend de la aplicación web y evaluar lo principal que debe tener inicialmente el backend.
+
+Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-3.PNG?raw=true" alt="sprint">
+</div><br><br>
+
+
 </div>
 
 <br><br>
