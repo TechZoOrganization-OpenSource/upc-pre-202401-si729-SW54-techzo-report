@@ -4459,6 +4459,28 @@ Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 </div><br><br>
 
 
+
+|<p>Sprint</p><p>#</p>|Sprint 3 |||||||
+| - | - | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|<p>Assigned</p><p>To</p>|Status (To-do / InProcess / ToReview  /Done)|
+|**US-02**|Editar perfil del usuario|WI-01|Sección para editar los datos del usuario|Se crea una sección y una opción en la cual los usuarios puedan editar los datos que ingresaron cuando se registraron en la aplicación web.|3|Joseph|Done|
+|**US-03**|Iniciar sesión en la aplicación|WI-02|Página de inicio de sesión|Se crea una sección en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.|2|Mathias|Done|
+|**US-04**|Cambiar Contraseña|WI-03|Sección para la modificación de contraseña|Se crea la función y la sección que permita que los usuarios puedan cambiar su contraseña, y esta se actualice para que pueda usar la nueva contraseña.|3|Mathias|Done|
+|**US-05**|Cerrar Sesión|WI-04|Opción para cerrar su cuenta|Se implementa un botón, el cual permite que los usuarios puedan cerrar sesión cuando deseen salir de la aplicación web.|1|Ian|Done|
+|**US-08**|Brindar reseña sobre el Intercambiador|WI-05|Sección en la que los usuarios suban sus reseñas|Se crea una sección en la que los usuarios van a poder dejar una reseña y calificación del trueque que acaban de realizar, estos comentarios se podrán ver desde el perfil del usuario que recibe la reseña.|3|Andrés|Done|
+|**US-10**|Actualización de Correo Electrónico|WI-06|Reemplazo del correo electrónico registrado|Se crea una función que borra la antigua contraseña y añade la nueva, además de una sección en la que el usuario pueda realizar la actualización de correo.|2|Diego|Done|
+|**US-13**|Editar publicación de intercambio|WI-07|Sección para editar una publicación existente|Se crea una sección que permite a los usuarios modificar los datos de las publicaciones de trueque que han realizado.|3|Andrés|Done|
+|**US-14**|Eliminar publicación de intercambio|WI-08|Opción para eliminar la publicación|Se crea un botón que llame a una función para eliminar la publicación del usuario.|3|Joseph|Done|
+|**US-15**|Destacar publicación de intercambio|WI-09|Función que identifique las publicaciones destacadas|Se implementa una función que identifique cuando un usuario premium realiza una publicación, de este modo su publicación se mostrará con mayor frecuencia.|5|Ian|Done|
+|**US-16**|Sección de productos encontrados favoritos|WI-10|Creación de una sección de “Favoritos”|Se crea la sección dentro del perfil del usuario en la que se puedan ver y guardar todas las publicaciones que el usuario marque como favorita.|5|Diego|Done|
+|**US-17**|Visualizar el perfil del usuario que publique un intercambio|WI-11|Opción para ver el perfil de los demás usuarios|Se implementa un botón que permite ver el perfil del usuario que realizó la publicación que está observando.|3|Andrés|Done|
+|**US-19**|Acceso a la información detallada de ONG’s en específico|WI-12|Botón para ver el perfil completo de la ONG|Se crea un botón con la funcionalidad que permite redirigir al usuario al perfil completo de la ONG que ha seleccionado y pueda ver todos sus datos registrados.|3|Diego|Done|
+|**US-20**|Adquirir la suscripción premium|WI-13|Sección en la que permite al usuario obtener alguna suscripción|Se crea una sección en la que el usuario pueda ver las membresías disponibles y pueda realizar todos los pasos necesarios para obtener la que más se adapte a sus necesidades.|8|Ian|Done|
+|**US-21**|Gestionar mi suscripción|WI-14|Sección para modificar la suscripción|Se crea una sección en la que los usuarios pueden cambiar el tipo de suscripción que tienen o cancelarla.|5|Andrés|Done|
+
+
+
 </div>
 
 <br><br>
