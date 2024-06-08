@@ -4723,6 +4723,12 @@ En el repositorio “CambiaZo-Frontend” subimos nuestros archivos a diferentes
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/network-front.PNG?raw=true">
   </div><br>
 
+Para el repositorio “CambiaZo-Backend” subimos nuestros archivos a diferentes ramas, luego de que todos los miembros del equipo lo revisaron y aprobaron, lo cargamos en la rama “develop” y cuando comprobamos que no hay ningún conflicto, o los resolvemos en el caso de haber conflictos, lo pasamos a la rama “main”.
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/network-back.PNG?raw=true">
+</div><br>
+
 </div>
 
 <br><br>
