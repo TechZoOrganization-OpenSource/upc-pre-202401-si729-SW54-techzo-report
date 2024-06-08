@@ -4392,6 +4392,62 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 En esta parte, nos encargamos de registrar y explicar el avance del Sprint 3 en cuanto al desarrollo del producto y la colaboración del equipo. Discutiremos diversos aspectos cruciales, como la planificación del sprint, el backlog del mismo y la evidencia de desarrollo para la Revisión del Sprint.
 
 
+#### 5.2.3.1 Sprint Planning 3
+A continuación, se muestra la distribución, organización y planificación del equipo para llevar a cabo de manera exitosa el Sprint 3.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-05-15</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>11:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual a través de Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Criollo de la Cruz, Diego Anderson / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Valle Zuta, Abel Andrés.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Review Summary</td>
+    <td>En el Sprint anterior, logramos desplegar nuestra primera versión de la aplicación web, en la cual conseguimos implementar varias secciones respecto a las historias de usuario que habíamos definido hacer en este sprint. Todo el equipo en conjunto considera que la entrega realizada fue exitosa, debido a que se cumplieron con todas las tareas y objetivos planteados. Como Product Owner, considero que el feedback correspondiente es que se realizó un trabajo correcto y efectivo, se ve bien visualmente y debemos seguir por el mismo camino. </td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Retrospective Summary</td>
+    <td>Como equipo consideramos que el éxito del proyecto se basó en la efectiva asignación de responsabilidades y una comunicación constante entre los miembros del equipo. Sin embargo, se identificaron áreas de mejora, como la minimización de distracciones y la gestión del tiempo para optimizar la eficiencia y reducir el tiempo de ejecución de futuros proyectos. </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal </td>
+    <td>Desplegar la versión final de la Aplicación Web en cuanto a frontend y una primera versión del backend. <br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento del presente sprint, vamos a utilizar la siguiente métrica: Evaluaremos que el proyecto funcione al ser desplegado con netlify y se pueda acceder a todas las pantallas, además de poder probar el backend y ver que los datos de las secciones que seleccionemos sean almacenados en nuestra base de datos. El objetivo será añadir todas las pestañas de nuestra aplicación web y tener nuestra primera versión del backend.<br>
+</tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>49 Story Points</td>
+  </tr>
+</table><br><br>
+
 
 </div>
 
