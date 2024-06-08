@@ -4639,6 +4639,12 @@ Enlace: [Video del Development Evidence for Sprint 3 - Frontend]()
 
 [Video del Development Evidence for Sprint 3 - Backend]()
 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+ 
+Durante el desarrollo del Sprint 3, logramos terminar por completo el frontend de la aplicación web, implementando todas las secciones y pantallas planteadas, además hemos logrado realizar nuestra primera versión del backend donde hemos implementado el get y post de los usuarios, categoría ong y proyectos ong.
+
+Luego, al haber realizado avances, decidimos utilizar las funciones colaborativas de GitHub, esto nos permitió coordinar entregas más rápidas, efectivas y sin errores. También usamos la metodología Git Flow para trabajar organizadamente y poder saber qué ha agregado cada uno al proyecto y revisarlo antes de colocarlo en la rama principal.
+
 </div>
 
 <br><br>
