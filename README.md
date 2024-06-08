@@ -4663,6 +4663,23 @@ Lo primero que realizamos fue crear un nuevo repositorio en Github para nuestro 
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/repo-back.PNG?raw=true">
   </div><br><br>
 
+  En todos los repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio del frontend hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas y funciones según los requerimientos que se evidencian en cada historia de usuario, y en el repositorio del backend también hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las que hemos realizado la parte del backend para cumplir las funcionalidades que se solicitan en cada historia técnica.<br>
+En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-3” para agregar las nuevas User Stories y Technical Stories que abarcamos en este tercer sprint. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/branches-front.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/branches-at.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/branches-back.PNG?raw=true" alt="branches">
+  </div><br><br>
+
 </div>
 
 <br><br>
