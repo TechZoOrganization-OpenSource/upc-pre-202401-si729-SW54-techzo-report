@@ -5542,22 +5542,12 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.PNG?raw=true" alt="Heuristica 32"></div>
 <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h8.1.PNG?raw=true" alt="Heuristica 33"></div>|
 
+## 5.4 Video About-the-Product
+<div align="center">
+    <img src=" https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/about%20the%20product.jpg?raw=true " alt="Video About The Product">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Enlace: [Video About-the-Product]( https://youtu.be/eGlkJSVuuqM?si=OIELkmYjpj8pWvHT)
 
 
 
