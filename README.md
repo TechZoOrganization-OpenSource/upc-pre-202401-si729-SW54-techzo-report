@@ -4458,8 +4458,6 @@ Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-Backlog/trello-sprint-backlog-3.PNG?raw=true" alt="sprint">
 </div><br><br>
 
-
-
 |<p>Sprint</p><p>#</p>|Sprint 3 |||||||
 | - | - | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
@@ -4479,6 +4477,11 @@ Enlace: [Sprint Backlog 3 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 |**US-20**|Adquirir la suscripción premium|WI-13|Sección en la que permite al usuario obtener alguna suscripción|Se crea una sección en la que el usuario pueda ver las membresías disponibles y pueda realizar todos los pasos necesarios para obtener la que más se adapte a sus necesidades.|8|Ian|Done|
 |**US-21**|Gestionar mi suscripción|WI-14|Sección para modificar la suscripción|Se crea una sección en la que los usuarios pueden cambiar el tipo de suscripción que tienen o cancelarla.|5|Andrés|Done|
 
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 3.
 
 
 </div>
