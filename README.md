@@ -5102,6 +5102,60 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/branches-4.PNG?raw=true" alt="branches">
   </div><br><br>
 
+|Rama|Descripción|
+| :-: | :-: |
+|feature/TS-01|Se crea la estructura de la API de Usuarios junto a sus métodos.|
+|feature/TS-02|Se crea la estructura de la API de Reseñas junto a sus métodos.|
+|feature/TS-03|Se crea la estructura de la API de ONGs junto a sus métodos.|
+|feature/TS-04|Se crea la estructura de la API de Membresías junto a sus métodos.|
+|feature/TS-05|Se crea la estructura de la API de Productos junto a sus métodos.|
+
+
+<br>
+
+En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-3” para agregar las nuevas User Stories que abarcamos en este tercer sprint. <br>
+
+El nombre de cada rama tiene la siguiente nomenclatura: “feature/sprint-[número del sprint]”, estas contienen las Technical Stories y User Stories que le corresponden a cada sprint. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/branches-at-4.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+|Rama|Descripción|
+| :-: | :-: |
+|feature/sprint-1|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 1.|
+|feature/sprint-2|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 2.|
+|feature/sprint-3|Se realizan los archivos .feature sobre todas las historias de usuario realizadas en el sprint 3.|
+|feature/sprint-4|Se realizan los archivos .feature sobre todas las historias técnicas realizadas en el sprint 4.|
+
+<br>
+En el repositorio de “CambiaZo-Backend” subimos nuestros archivos a las diferentes ramas, de acuerdo a la Technical Story que se refiera, luego de que todos los miembros del equipo lo revisaron y aprobaron, le hacemos merge en la rama “develop” y al ver que todo corra bien y sin errores lo subimos a la rama “main”. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/network-4.PNG?raw=true">
+  </div><br>
+
+En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos subido a la rama “feature/sprint-4”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”. <br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/network-at-4.PNG?raw=true">
+  </div><br>
+
+Finalmente utilizamos el App Service de Azure, en el cual vinculamos nuestra cuenta de GitHub y lo configuramos para que cada vez que se realice una modificación se actualice automáticamente. Posteriormente vinculamos la organización donde se encuentra el repositorio, seleccionamos la rama, y de este modo generamos nuestros endpoints del Backend para conectarlos al frontend.
+Link: https://cambiazo-backend.azurewebsites.net/swagger-ui/index.html#/ 
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-1.jpeg?raw=true">
+  </div><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-2.jpeg?raw=true">
+  </div><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/deploy-back-3.PNG?raw=true">
+  </div><br>
+
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
