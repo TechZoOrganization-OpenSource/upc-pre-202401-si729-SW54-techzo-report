@@ -4891,6 +4891,60 @@ En esta parte, nos encargamos de registrar y explicar el avance del Sprint 4 en 
 #### 5.2.4.1 Sprint Planning 4
 A continuación, se muestra la distribución, organización y planificación del equipo para llevar a cabo de manera exitosa el Sprint 4.
 
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-06-10</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>03:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual a través de Google Meet</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Criollo de la Cruz, Diego Anderson / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Valle Zuta, Abel Andrés.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td> En el Sprint anterior, conseguimos desplegar la versión final de nuestra aplicación web y una primera versión del backend, donde logramos incorporar todas las secciones planificadas para este proyecto. Todo el equipo coincide en que la entrega fue exitosa, ya que se completaron todas las metas establecidas. Desde mi rol como Product Owner, considero que el trabajo realizado fue adecuado y eficiente, la aplicación tiene una buena apariencia visual y funciona correctamente. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td> El equipo opina que el proyecto tuvo éxito gracias a la asignación efectiva de responsabilidades y una comunicación continua entre sus miembros. No obstante, se notaron aspectos que podrían mejorar, como la reducción de distracciones y una mejor gestión del tiempo, con el fin de aumentar la eficiencia y velocidad del equipo. </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal </td>
+    <td> Desplegar la versión final del backend de la Aplicación Web y unirlo con el frontend. <br><br>Métrica de Cumplimiento: Para evaluar el cumplimiento del presente sprint, vamos a utilizar la siguiente métrica: Evaluaremos que el proyecto funcione al ser desplegado con netlify y se pueda acceder a todas las pantallas, además de poder comprobar que todos los datos ingresados sean guardados en el backend. El objetivo será unir nuestro backend con nuestro frontend de nuestra aplicación web y tener nuestra versión final desplegada y funcionando correctamente. <br>
+</tr>
+  <tr>
+    <td>Sprint 4 Velocity</td>
+    <td>30 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>29 Story Points</td>
+  </tr>
+</table><br><br>
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
