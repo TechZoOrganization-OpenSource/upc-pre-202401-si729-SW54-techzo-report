@@ -5141,7 +5141,7 @@ En el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos 
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/network-at-4.PNG?raw=true">
   </div><br>
 
-Finalmente utilizamos el App Service de Azure, en el cual vinculamos nuestra cuenta de GitHub y lo configuramos para que cada vez que se realice una modificación se actualice automáticamente. Posteriormente vinculamos la organización donde se encuentra el repositorio, seleccionamos la rama, y de este modo generamos nuestros endpoints del Backend para conectarlos al frontend.
+Finalmente utilizamos el App Service de Azure, en el cual vinculamos nuestra cuenta de GitHub y lo configuramos para que cada vez que se realice una modificación se actualice automáticamente. Posteriormente vinculamos la organización donde se encuentra el repositorio, seleccionamos la rama, y de este modo generamos nuestros endpoints del Backend para conectarlos al frontend. <br>
 Link: https://cambiazo-backend.azurewebsites.net/swagger-ui/index.html#/ 
 
 <div align="center">
