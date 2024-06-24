@@ -5023,6 +5023,9 @@ A continuación, se muestra la estructura de la tabla de control de estado para 
 </tbody>
 </table>
 
+#### 5.2.4.3. Development Evidence for Sprint Review
+A continuación, presentaremos los commits realizados en el repositorio de nuestra aplicación web, estos commits se han realizado en diferentes ramas durante el desarrollo de nuestro Sprint 4.
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
