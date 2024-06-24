@@ -5113,7 +5113,7 @@ Para ello, en el repositorio del backend hemos creado ramas para cada historia t
 
 <br>
 
-En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-3” para agregar las nuevas User Stories que abarcamos en este tercer sprint. <br>
+En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-4” para agregar las nuevas Technical Stories que abarcamos en este cuarto sprint. <br>
 
 El nombre de cada rama tiene la siguiente nomenclatura: “feature/sprint-[número del sprint]”, estas contienen las Technical Stories y User Stories que le corresponden a cada sprint. <br>
 
@@ -5135,7 +5135,7 @@ En el repositorio de “CambiaZo-Backend” subimos nuestros archivos a las dife
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/network-4.PNG?raw=true">
   </div><br>
 
-En el caso del repositorio “Acceptance-Test”, todos los archivos los hemos subido a la rama “feature/sprint-4”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”. <br>
+En el caso del repositorio “Acceptance-Test-OpenSource”, todos los archivos los hemos subido a la rama “feature/sprint-4”. Una vez se tenía la aprobación de todo el equipo, lo subimos a la rama “develop”. <br>
 
 <div align="center">
   <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/network-at-4.PNG?raw=true">
