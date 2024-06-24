@@ -5050,6 +5050,14 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 
 A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-4” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 4.
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|AndresVZ23/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-4|21ef124|Feat: Create TS-01|In this part, we applied Gherkin to the TS-01|24/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-4|ef23702|Feat: Create TS-02|In this part, we applied Gherkin to the TS-02|24/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-4|b09cb1d|Feat: Create TS-03|In this part, we applied Gherkin to the TS-03|24/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-4|2a649e1|Feat: Create TS-04|In this part, we applied Gherkin to the TS-04|24/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSourc|feature/sprint-4|c5cb700|Feat: Create TS-05|In this part, we applied Gherkin to the TS-05|24/06/2024|
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
