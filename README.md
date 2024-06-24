@@ -270,10 +270,10 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src=""></div><br><br>
+        <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-1.PNG?raw=true"></div><br><br>
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src=""></div><br><br>
+        <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-2.PNG?raw=true"></div><br><br>
 
     * **Commits**
 
@@ -281,25 +281,25 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-ian.PNG?raw=true">
             </div><br>
 
         + **Andres Valle**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-andres.PNG?raw=true">
             </div><br>
 
         + **Joseph Huamani**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-joseph.PNG?raw=true">
             </div><br>
         + **Mathias Mendoza**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-mathias.PNG?raw=true">
             </div><br>
         + **Diego Criollo**
             <div style="display: flex; align-items: center;">
-            <img src="">
+            <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/report-diego.PNG?raw=true">
             </div><br><br>
 
 
