@@ -5157,6 +5157,22 @@ Link: https://cambiazo-backend.azurewebsites.net/swagger-ui/index.html#/
   </div><br>
 
 
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio “CambiaZo-Backend”, donde se presenta una visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 4.
+
+<b>Analíticos de GitHUb</b>
+
+  + Backend
+          <div align="center">
+        <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/insights-4.PNG?raw=true" alt="contributor-evidence.">
+        </div>
+
+   En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la Aplicación Web.
+
+<br>
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
