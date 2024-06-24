@@ -5046,6 +5046,9 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 |IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|1a9cd4e|<p>feat: adding the product query service</p><p></p>|<p>I've added the product query service</p><p></p>|22/06/2024|
 |IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|86a05e8|<p>feat: adding product not found exception</p><p></p>|<p>I've added the product not found exception</p><p></p>|22/06/2024|
 
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+A continuación presentaremos los commits que se han hecho en la rama “feature/sprint-4” de nuestro repositorio, en el cual hemos seguido el esquema Gherkin y añadimos los archivos .feature de nuestro Sprint 4.
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
