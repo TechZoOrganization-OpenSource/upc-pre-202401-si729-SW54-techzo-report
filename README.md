@@ -5968,7 +5968,11 @@ En el sprint 2, nos enfocamos en la distribución, organización y planificació
 
 En la TB2, logramos desarrollar toda la parte del frontend y parte del backend utilizando Java con Spring Boot y Domain Driven Design. Esta etapa fue crucial para asegurar la robustez y escalabilidad de nuestra aplicación. La implementación del frontend permitió una interfaz intuitiva y amigable para el usuario, mientras que el backend construido sobre principios sólidos garantizó la funcionalidad y seguridad del sistema. La adopción de Domain Driven Design nos permitió abordar problemas complejos con mayor precisión y claridad, resultando en una arquitectura de software más organizada y eficiente.
 
-En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos. También las correcciones y mejoras de la TB1 nos permitieron poder aclarar algunos puntos anteriores que ayudaron al desarrollo continuo del proyecto. Además, en el sprint 2 nos enfocamos en la distribución y planificación del grupo para desarrollar con éxito la primera versión de la aplicación web de Cambiazo. En la TB3, la implementación del frontend y el desarrollo del backend con Java, Spring Boot y Domain Driven Design fortalecieron significativamente la estructura y funcionalidad de nuestra aplicación. Estas acciones reflejaron nuestro enfoque centrado en el usuario y nuestra capacidad para adaptarnos y mejorar continuamente.
+Durante el Sprint 4, nos enfocamos en la implementación y prueba de las funcionalidades clave del producto. Esta etapa fue crucial para asegurar que el producto no solo cumpliera con los requisitos especificados, sino que también ofreciera una experiencia de usuario óptima. Realizamos pruebas exhaustivas para identificar y corregir cualquier defecto, lo que nos permitió entregar un producto final de alta calidad. La colaboración continua y el feedback constante dentro del equipo fueron elementos esenciales que facilitaron una entrega exitosa del sprint.
+
+
+En resumen, cada etapa del proyecto nos brindó lecciones y aprendizajes importantes que contribuyeron al éxito general del proyecto. Desde la definición de la visión inicial hasta la implementación y validación del producto final, nuestro enfoque centrado en el usuario y nuestra colaboración efectiva como equipo fueron fundamentales para lograr nuestros objetivos. La integración de metodologías ágiles y herramientas de diseño colaborativo fortaleció nuestra capacidad para adaptarnos a los cambios y mejorar continuamente, asegurando que cada iteración aportara valor significativo al producto final.
+
 <br><br>
 
 
@@ -6113,7 +6117,7 @@ Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
  </div>
 
 
-Enlace: [Exposure video TF1]()
+Enlace: [Exposure video TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EcVm_vmAVY9NiYeN87ByKIEBSSHK48lY7zm3XUpbujQZdg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uUWWrq)
 
 ## Video About The Team
 
