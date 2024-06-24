@@ -88,15 +88,24 @@
 |3\.0|28/05/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|Se agregó el sprint 3|
 |3\.1|28/05/24|Abel Andrés Valle Zuta|Se agregó contenido del Sprint 3 y el Sprint Planning 3|
 |3\.1.1|29/05/24|Abel Andrés Valle Zuta|Se agregó el contenido del Sprint Backlog 3|
-|3\.2|2/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizaron 10 entrevistas de los acceptance test|
+|3\.2|2/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizaron 10 entrevistas de las validation interviews|
 |3\.2.1|4/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el análisis de cada una de las entrevistas.|
 |3\.3|5/06/24|Abel Andrés Valle Zuta|Se realizó el análisis de Heurísticas|
 |3\.4|5/06/24|Ian Haziel Donato Santisteban Palomino|Se realizó el Video About the Product|
 |3\.5|5/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se realizó el video About the Team.|
 |3\.6|06/06/24|Joseph Alexis Huamani Mandujano|Se actualizaron las conclusiones del informe.|
 |3\.7|06/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TB2.|
-
-
+|4\.0|10/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta y<br>Ian Haziel Donato Santisteban Palomino|Se agregó el sprint 4|
+|4\.1|10/06/24|Abel Andrés Valle Zuta|Se agregó contenido del Sprint 4 y el Sprint Planning 4|
+|4\.1.1|12/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Sprint Backlog 4|
+|4\.1.2|15/06/24|Diego Anderson Criollo de la Cruz|Se agregó el contenido del Development Evidence for Sprint Review|
+|4\.1.3|16/06/24|Ian Haziel Donato Santisteban Palomino|Se agregó el contenido del Testing Suite Evidence for Sprint Review|
+|4\.1.4|17/06/24|Joseph Alexis Huamani Mandujano|Se agregó el contenido del Execution Evidence for Sprint Review|
+|4\.1.5|18/06/24|Mathias Andre Mendoza Carrion|Se agregó el contenido del Services Documentation Evidence for Sprint Review|
+|4\.1.6|19/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Software Deployment Evidence for Sprint Review|
+|4\.1.6|19/06/24|Abel Andrés Valle Zuta|Se agregó el contenido del Team Collaboration Insights during Sprint|
+|4\.2|20/06/24|Ian Haziel Donato Santisteban Palomino|Se actualizaron las conclusiones y bibliografías del informe.|
+|4\.3|21/06/24|Diego Anderson Criollo de la Cruz,<br>Joseph Alexis Huamani Mandujano,<br>Abel Andrés Valle Zuta,<br>Ian Haziel Donato Santisteban Palomino y <br>Mathias Andre Mendoza Carrion|Se agregaron los student outcome y sus conclusiones del TF1.|
 
 </div><br><br>
 
@@ -249,6 +258,50 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
             <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Collaboration%20Insights/insights-tp-diego.PNG?raw=true">
             </div><br><br>
 
+<strong>*Entrega TF1:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TF1, el equipo se reunió por discord para hacer las coordinaciones y posteriormente todas las tareas lo documentamos en notitas en el Jamboard para que sea más fácil visualizar las tareas pendientes tanto de este entregable como las mejoras de la TB2. 
+
+    En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa por medio de decisión voluntaria.
+
+    Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src=""></div><br><br>
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src=""></div><br><br>
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TF1.
+
+        + **Ian Santisteban**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+
+        + **Andres Valle**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+
+        + **Joseph Huamani**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+        + **Mathias Mendoza**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br>
+        + **Diego Criollo**
+            <div style="display: flex; align-items: center;">
+            <img src="">
+            </div><br><br>
+
 
 ---
 # Contenido
@@ -348,6 +401,15 @@ https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techz
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interviews.](#53-validation-interviews)
     - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
