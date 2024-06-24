@@ -4948,10 +4948,15 @@ A continuación, se muestra la distribución, organización y planificación del
 #### 5.2.4.2 Sprint Backlog 4
 Nuestro objetivo principal con este sprint 4 es desplegar la versión final del backend de la aplicación web de CambiaZo y unirla con el frontend. Para lograr este objetivo, se ha realizado una distribución equitativa en cuanto a cantidad de endpoints que cada integrante debe realizar para completar el backend y unirlo con el frontend de la aplicación web.
 
+Enlace: [Sprint Backlog 4 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/Sprint-Backlog-4.PNG?raw=true" alt="sprint">
+</div><br><br>
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
-Enlace: [Sprint Backlog 4 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94d49929393b94517123fbc0f320cfc66B31A6FB/cambiazo)<br><br>
 
 ### 5.3.1 Diseño de Entrevistas
 
