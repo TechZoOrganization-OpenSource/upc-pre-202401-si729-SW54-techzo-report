@@ -5719,6 +5719,7 @@ https://codeinstitute.net/global/blog/what-is-javascript-and-why-should-i-learn-
 
 + Landing Page: [Ver Landing Page](https://techzoorganization-opensource.github.io/landing-page-OpenSource/)<br><br>
 + App Web: [Ver App Web](https://cambiazo-techzo.netlify.app/)<br><br>
++ Backend: [Ver Backend](https://cambiazo-backend.azurewebsites.net/swagger-ui/index.html#/)<br><br>
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZoOrganization-OpenSource)<br><br>
 + Repositorio GitHub del Landing Page: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/landing-page-OpenSource)<br><br>
 + Repositorio GitHub del Fronted: [Ver Repositorio](https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend)<br><br>
@@ -5815,6 +5816,15 @@ Enlace: [Validation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221029
 
 Enlace: [Exposure video TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EXkwKSldvEtMhL2levJZedYBg96WJ9xXadrThaD5_1aGwg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n3AZz3)
 
+
+## Exposure video TF1
+
+  <div align="center">
+    <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/expo-tf.png?raw=true" alt="Exposure video TF1">
+ </div>
+
+
+Enlace: [Exposure video TF1]()
 
 ## Video About The Team
 
