@@ -5058,6 +5058,20 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 |123-Mathias/TechZoOrganization-OpenSource/Acceptance-Test-OpenSource|feature/sprint-4|2a649e1|Feat: Create TS-04|In this part, we applied Gherkin to the TS-04|24/06/2024|
 |HelloNerk/TechZoOrganization-OpenSource/Acceptance-Test-OpenSourc|feature/sprint-4|c5cb700|Feat: Create TS-05|In this part, we applied Gherkin to the TS-05|24/06/2024|
 
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Lo que se logró en el Sprint 4 es desplegar la versión final del backend y unirlo con el frontend de la aplicación web. Logramos crear todos los endpoints definidos junto a sus métodos para que se puedan realizar todas las funciones definidas desde el inicio del proyecto. Además, adoptamos correctamente la metodología Gitflow, ya que hemos trabajado en ramas para realizar actualizaciones y pruebas sin afectar la rama principal. 
+
+A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado en este Sprint 4:
+
+<div align="center">
+  <img src="" alt="evidence1" >
+</div>
+<br><br>
+
+Enlace: [Video del Development Evidence for Sprint 4 – Web Application]()
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
