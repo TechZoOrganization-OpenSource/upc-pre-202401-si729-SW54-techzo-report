@@ -5072,6 +5072,15 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 Enlace: [Video del Development Evidence for Sprint 4 – Web Application]()
 
 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+ 
+Durante el desarrollo del Sprint 4, logramos terminar por completo el backend de la aplicación web, implementando todos los endpoints y métodos necesarios, además hemos logrado conectarlo con nuestro frontend.
+
+Después de hacer progresos, optamos por emplear las herramientas colaborativas de GitHub, lo cual facilitó la coordinación de entregas más ágiles, eficientes y libres de errores. Asimismo, implementamos la metodología Git Flow para mantener una estructura de trabajo organizada, permitiéndonos rastrear las contribuciones individuales al proyecto y revisarlas antes de fusionarlas con la rama principal.
+
+<br>
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
