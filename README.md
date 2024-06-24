@@ -5081,6 +5081,28 @@ Después de hacer progresos, optamos por emplear las herramientas colaborativas 
 <br>
 
 
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint 4:
+
+Lo primero que realizamos fue actualizar los repositorios de nuestro backend y acceptance tests de nuestra aplicación web.
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/repo-back-4.PNG?raw=true">
+  </div><br><br>
+  
+  <div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/repo-at-4.PNG?raw=true">
+  </div><br>
+
+En ambos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio del backend hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las cuales implementamos los endpoints y métodos según los requerimientos que se evidencian en cada historia técnica.<br>
+
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/branches-4.PNG?raw=true" alt="branches">
+  </div><br><br>
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
