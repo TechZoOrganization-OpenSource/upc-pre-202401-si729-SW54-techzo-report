@@ -5028,6 +5028,25 @@ A continuación, presentaremos los commits realizados en el repositorio de nuest
 
 **Backend:**
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited On (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|b35f4c1|feat: adding the district command service impl|<p>I've added the district command service implementation</p><p></p>|19/06/2024|
+|diegooo01/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|0fb77a1|<p>feat: adding the country query service</p><p></p>|<p>I've added the country query service</p><p></p>|19/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-03|162789b|feat: adding the category ong delete method|<p>I've added the category ong delete method</p><p></p>|19/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|162789b|<p>feat: adding the district post method</p><p></p>|<p>I've added the district post method and country exception</p><p></p>|19/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|b73f71d|<p>feat: adding the district resources</p><p></p><p>: </p>|<p>I've added the district resources</p><p></p>|19/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|4ea0eaa|<p>feat: adding the department query service impl</p><p></p><p>: </p>|<p>I've added the district query service implementation</p><p></p>|19/06/2024|
+|123-Mathias/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-01|8929ec5|<p>feat: adding the district query service</p><p></p>|<p>I've added the district query service</p><p></p>|19/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-04|6a35e58|<p>feat: adding long membership into user resources</p><p></p>|<p>I've added the parameter long membership into the user resources</p><p></p>|20/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-04|a17d4e3|<p>feat: adding membership atribute comm service impl</p><p></p>|<p>I've added a new atribute membership into the funtion handle create user command</p><p></p>|20/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-04|f458c7f|<p>feat: adding membershipid parameter create command</p><p></p>|<p>I've added a new parameter Long membershipId into the create user command</p><p></p>|20/06/2024|
+|AndresVZ23/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-04|ec76bf5|<p>feat: add many to one relationship with membership</p><p></p>|<p>I've added the many to one relationship with membership</p><p></p>|20/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|6709469|<p>feat: adding the product command service impl</p><p></p>|<p>I've added the product command service implementation</p><p></p>|21/06/2024|
+|HelloNerk/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|` `80859f6|<p>feat: adding a new query getAllUsersByMembId</p><p></p>|<p>I've added the product command service implementation</p><p></p>|21/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|1a9cd4e|<p>feat: adding the product query service</p><p></p>|<p>I've added the product query service</p><p></p>|22/06/2024|
+|IanHD04/TechZoOrganization-OpenSource/CambiaZo-Backend|TS-05|86a05e8|<p>feat: adding product not found exception</p><p></p>|<p>I've added the product not found exception</p><p></p>|22/06/2024|
+
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
