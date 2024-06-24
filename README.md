@@ -4956,6 +4956,73 @@ Enlace: [Sprint Backlog 4 en Trello](https://trello.com/invite/b/UWgu5h9R/ATTI94
 
 A continuación, se muestra la estructura de la tabla de control de estado para el último Sprint:
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API User<br></td>
+    <td>WI-01</td>
+    <td>Creación de la API de usuarios </td>
+    <td>Se crea una API que permite el registro de usuarios dentro de la aplicación web. </td>
+    <td>8</td>
+    <td>Andrés Valle</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS02</td>
+    <td rowspan="1">API Review
+    </td>
+    <td>WI-02</td>
+    <td>Creación de la API de reseñas
+    </td>
+    <td>Se crea una API que permite el registro de reseñas dentro de la aplicación web. </td>
+    <td>5</td>
+    <td>Ian Santisteban </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS04</td>
+    <td rowspan="1">API Memberships </td>
+    <td>WI-03</td>
+    <td>Creación de la API de membresías </td>
+    <td>Se crea una API que permite la gestión de membresías dentro de la aplicación web. </td>
+    <td>8</td>
+    <td>Mathias Mendoza </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS05</td>
+    <td rowspan="1">API Product</td>
+    <td>WI-04</td>
+    <td>Creación de la API de productos </td>
+    <td> Se crea una API que permite el registro de productos dentro de la aplicación web. </td>
+    <td>8</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr> 
+</tbody>
+</table>
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
