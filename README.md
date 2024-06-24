@@ -4885,6 +4885,9 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
 <br>
 
+### 5.2.4 Sprint 4
+En esta parte, nos encargamos de registrar y explicar el avance del Sprint 4 en cuanto al desarrollo del producto y la colaboración del equipo. Discutiremos diversos aspectos cruciales, como la planificación del sprint, el backlog del mismo y la evidencia de desarrollo para la revisión del Sprint.
+
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
