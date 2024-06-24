@@ -5580,7 +5580,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |1|Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.|2|Usability: Libertad y control del usuario|
 |2|Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.|2|Usability: Libertad y control del usuario|
 
-<br><br>
+<br>
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
