@@ -4757,7 +4757,9 @@ A continuación, en el enlace del vídeo se explica de forma más didáctica lo 
 
 Enlace: [Video del Development Evidence for Sprint 3 - Frontend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EX42ZVt5qgVBpZHyLFvRFvQB-D7115dm_jt4Sfi2CVvFSA?e=b3RfGC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-[Video del Development Evidence for Sprint 3 - Backend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERTdoZNyc_lFhwV8ppbg5kkBKqG48EvZ74n-Qiu2IY3u5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jaHP1P)
+Enlace: [Video del Development Evidence for Sprint 3 - Backend](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/ERTdoZNyc_lFhwV8ppbg5kkBKqG48EvZ74n-Qiu2IY3u5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jaHP1P)
+
+<br>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
  
@@ -4765,7 +4767,8 @@ Durante el desarrollo del Sprint 3, logramos terminar por completo el frontend d
 
 Luego, al haber realizado avances, decidimos utilizar las funciones colaborativas de GitHub, esto nos permitió coordinar entregas más rápidas, efectivas y sin errores. También usamos la metodología Git Flow para trabajar organizadamente y poder saber qué ha agregado cada uno al proyecto y revisarlo antes de colocarlo en la rama principal.
 
-<br><br>
+<br>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Ahora procederemos a detallar los procesos que hemos realizado durante el Sprint 3:
 
@@ -4786,6 +4789,7 @@ Lo primero que realizamos fue crear un nuevo repositorio en Github para nuestro 
   En todos los repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
 
 Para ello, en el repositorio del frontend hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas y funciones según los requerimientos que se evidencian en cada historia de usuario, y en el repositorio del backend también hemos creado ramas para cada historia técnica, nombrándolas con la nomenclatura “feature/TS-[número de la historia técnica]”, en las que hemos realizado la parte del backend para cumplir las funcionalidades que se solicitan en cada historia técnica.<br>
+
 En el caso del repositorio de acceptance test hemos creado una nueva rama llamada “feature/sprint-3” para agregar las nuevas User Stories y Technical Stories que abarcamos en este tercer sprint. <br>
 
 <div align="center">
@@ -4879,6 +4883,7 @@ Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica d
 
    En estas imágenes se evidencia que todos los integrantes del equipo han contribuido en el desarrollo de la Aplicación Web, tanto en la parte del frontend como en la del backend.
 
+<br>
 
 ## 5.3 Validation Interviews
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
@@ -5527,10 +5532,13 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 
 
-<div align="center
+<div align="center"
 ** UX Heuristics & Principles Evaluation**
+
 <br>
+
 ** Usability - Inclusive Design - Information Architecture**
+
 </div><br>
 
 **Site o App a evaluar:**
