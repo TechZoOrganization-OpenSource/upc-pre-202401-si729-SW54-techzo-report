@@ -5062,14 +5062,17 @@ A continuación presentaremos los commits que se han hecho en la rama “feature
 
 Lo que se logró en el Sprint 4 es desplegar la versión final del backend y unirlo con el frontend de la aplicación web. Logramos crear todos los endpoints definidos junto a sus métodos para que se puedan realizar todas las funciones definidas desde el inicio del proyecto. Además, adoptamos correctamente la metodología Gitflow, ya que hemos trabajado en ramas para realizar actualizaciones y pruebas sin afectar la rama principal. 
 
-A continuación, en el enlace del vídeo se explica de forma más didáctica lo ya mencionado e imágenes de lo alcanzado en este Sprint 4:
+A continuación, se puede observar de forma más didáctica lo ya mencionado e imágenes de lo alcanzado en este Sprint 4:
 
 <div align="center">
-  <img src="" alt="evidence1" >
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/evidence-1.png?raw=true" alt="evidence1" >
 </div>
 <br><br>
 
-Enlace: [Video del Development Evidence for Sprint 4 – Web Application]()
+<div align="center">
+  <img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-4-Images/evidence-2.png?raw=true" alt="evidence1" >
+</div>
+<br><br>
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
