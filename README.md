@@ -5532,17 +5532,20 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 
 
-<div align="center"
-** UX Heuristics & Principles Evaluation**
+<div align="center">
+
+**UX Heuristics & Principles Evaluation**
 
 <br>
 
-** Usability - Inclusive Design - Information Architecture**
+**Usability - Inclusive Design - Information Architecture**
 
 </div><br>
 
 **Site o App a evaluar:**
 CambiaZo
+<br>
+
 **Tareas a evaluar:**
 1.	Registro de un nuevo usuario dentro de la aplicación web.
 2.	Inicio de sesión con datos incorrectos y correctos.
@@ -5557,6 +5560,8 @@ CambiaZo
 11.	Filtrar y ver la información completa de los objetos dentro de la aplicación
 12.	Filtrar y ver la información a detalle de las ONG ‘s registradas
 
+<br>
+
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
@@ -5567,6 +5572,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
 |**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
 
+<br>
+
 **TABLA DE RESUMEN:**
 
 |N|Problema|Escala de severidad|Heurística/Principio violada(o)|
@@ -5574,10 +5581,16 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |1|Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.|2|Usability: Libertad y control del usuario|
 |2|Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.|2|Usability: Libertad y control del usuario|
 
+<br>
+
 **DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
 **Problema 1: Se tiene que escribir en minúsculas la ubicación para que se pueda filtrar por localización las ONG.**
 
 Severidad: 2
+
 Heurística violada: Usability: Libertad y control del usuario
 
 Problema:
@@ -5589,10 +5602,12 @@ Al momento de escribir la localización por la cual queremos filtrar las ONG, so
 Recomendación:
 
 Añadir que se pueda buscar tanto en minúsculas como en mayúsculas como también combinado en mayúsculas y minúsculas, de este modo no habrá problema cuando los usuarios ingresen las locaciones de cualquier manera.
+<br>
 
 **Problema #2: Se tiene que escribir exactamente una palabra para que se pueda encontrar en el filtro de productos.**
 
 Severidad: 2
+
 Heurística violada: Usability: Libertad y control del usuario
 
 Problema:
@@ -5605,14 +5620,16 @@ Recomendación:
 
 Lo más práctico para este caso es que al momento de comparar el nombre de los productos registrados con el texto ingresado se tome en cuenta como si todo estuviera escrito en minúsculas.
 
+<br>
+
 A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación web:
 
 
 |**Heurística**|**Descripción**|
 | :-: | :-: |
 |Usabilidad|Tanto en la landing page como en la aplicación web, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.<br>
-<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 1"></div><br>
-<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 2"></div>|
+<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-landing.PNG?raw=true" alt="Heuristica 1"><br>
+<img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h1-app.PNG?raw=true" alt="Heuristica 2">|
 |Accesibilidad|El usuario puede acceder tanto a la landing page como a la página web desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adaptan correctamente al tamaño de la pantalla.<br>
 <div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h2-landing.PNG?raw=true" alt="Heuristica 3"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Sprint-3-Images/h2-app.PNG?raw=true" alt="Heuristica 4"></div>|
 |Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.</p><br>
